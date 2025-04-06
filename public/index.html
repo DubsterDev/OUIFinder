@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OUI Finder</title>
+    <!-- Primary Meta Tags -->
+    <meta name="title" content="OUI Finder" />
+    <meta name="description" content="Parse an OUI into the owner of the OUI!" />
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://ouifinder.web.app" />
+    <meta property="og:title" content="OUI Finder" />
+    <meta property="og:description" content="Parse an OUI into the owner of the OUI!" />
+
+    <!-- Twitter -->
+    <meta property="twitter:url" content="https://ouifinder.web.app" />
+    <meta property="twitter:title" content="OUI Finder" />
+    <meta property="twitter:description" content="Parse an OUI into the owner of the OUI!" />
+    <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+    <h1>OUI Finder</h1>
+    <p>Enter some text in the textbox and find the owner of the OUI!</p>
+    <p>Examples:</p>
+    <ul>
+        <li><b>000D72</b>: A line with just six characters (only works on its own line)</li>
+        <li><b>abcd.0123.a312</b>: A line with a mac address with three parts seperated by dots</li>
+        <li><b>00:12:34:56:12:76</b>: A line with a mac address with six parts seperated by colons</li>
+    </ul>
+    <textarea id="ouis"></textarea>
+    <button onclick="findOuis()">Find</button>
+    <script src="findOuis.js"></script>
+</body>
+</html>

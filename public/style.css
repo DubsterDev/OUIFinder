@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
+
+*:not(textarea) {
+    font-family: Lato;
+}
+
+textarea {
+    display: block;
+    width: 90%;
+    margin: auto;
+    height: 50vh;
+}
