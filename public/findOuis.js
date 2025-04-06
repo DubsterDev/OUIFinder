@@ -37,12 +37,15 @@ function findOuis() {
     for (item of list) {
         item = item.trim();
         if (item.length == 6 && isHex(item)) {
-            response += `${item} (${findOui(item) || "No owner"})\n`;
+            response += `${item} ${findOui(item) || "No owner"}\n`;
         } else {
-            response += `${item.replace(regex, (match, index) => {
+            let matches = item.match(regex) ?? [];
+            console.log(matches)
+            matches.forEach(match => {
                 let newMatch = match.replaceAll("-", "").replaceAll(":", "").replaceAll(".", "").slice(0, 6);
-                return `${match} (${findOui(newMatch) || "No owner"})`;
-            })}\n`;
+                item += ` ${findOui(newMatch) || "No owner"}`;
+            });
+            response += `${item}\n`;
         }
     }
     textbox.value = response;
