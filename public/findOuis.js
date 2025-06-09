@@ -1,6 +1,10 @@
 let ouis;
 let regex = /[1234567890abcdefABCDEF]{4}\.[1234567890abcdefABCDEF]{4}\.[1234567890abcdefABCDEF]{4}|[1234567890abcdefABCDEF]{4}\-[1234567890abcdefABCDEF]{4}\-[1234567890abcdefABCDEF]{4}|[1234567890abcdefABCDEF]{2}:[1234567890abcdefABCDEF]{2}:[1234567890abcdefABCDEF]{2}:[1234567890abcdefABCDEF]{2}:[1234567890abcdefABCDEF]{2}:[1234567890abcdefABCDEF]{2}|[1234567890abcdefABCDEF]{2}-[1234567890abcdefABCDEF]{2}-[1234567890abcdefABCDEF]{2}-[1234567890abcdefABCDEF]{2}-[1234567890abcdefABCDEF]{2}-[1234567890abcdefABCDEF]{2}/gi;
 
+const copyCheckbox = document.getElementById("copy");
+copyCheckbox.onchange = () => localStorage.setItem("oui-copy", JSON.stringify(copyCheckbox.checked));
+copyCheckbox.checked = JSON.parse(localStorage.getItem("oui-copy") ?? "true");
+
 async function getOuis() {
     let response = await fetch("/ouis.min.txt");
     ouis = (await response.text()).split("\n");
@@ -49,7 +53,7 @@ function findOuis() {
         }
     }
     textbox.value = response;
-    navigator.clipboard.writeText(response);
+    if (copyCheckbox.checked) navigator.clipboard.writeText(response);
 }
 
 getOuis();

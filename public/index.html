@@ -26,11 +26,13 @@
     <p>Examples:</p>
     <ul>
         <li><b>000D72</b>: A line with just six characters (only works on its own line)</li>
-        <li><b>abcd.0123.a312</b>: A line with a mac address with three parts seperated by dots or dashes</li>
-        <li><b>00:12:34:56:12:76</b>: A line with a mac address with six parts seperated by colons or dashes</li>
+        <li><b>abcd.0123.a312</b>: A line with a mac address with three parts seperated by dots or dashes. Can be anywhere in the line.</li>
+        <li><b>00:12:34:56:12:76</b>: A line with a mac address with six parts seperated by colons or dashes. Can be anywhere in the line.</li>
     </ul>
-    <textarea id="ouis"></textarea>
-    <button onclick="findOuis()">Find</button>
+    <p>Also, the same format <b>does not</b> need to be used in every line. Every format mentioned above, expect for the first one, works anywhere in a line.</p>
+    <textarea id="ouis" placeholder="Write/paste your OUIs here!"></textarea>
+    <p><label><input type="checkbox" name="copy" id="copy" checked> Copy results to clipboard</label></p>
+    <button onclick="findOuis()">Find Owners</button>
     <script src="findOuis.js"></script>
 </body>
 </html>
