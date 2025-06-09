@@ -37,13 +37,13 @@ function findOuis() {
     for (item of list) {
         item = item.trim();
         if (item.length == 6 && isHex(item)) {
-            response += `${item} ${findOui(item) || "No owner"}\n`;
+            response += `${item} /// ${findOui(item) || "No owner"}\n`;
         } else {
             let matches = item.match(regex) ?? [];
             console.log(matches)
             matches.forEach(match => {
                 let newMatch = match.replaceAll("-", "").replaceAll(":", "").replaceAll(".", "").slice(0, 6);
-                item += ` ${findOui(newMatch) || "No owner"}`;
+                item += ` /// ${findOui(newMatch) || "No owner"}`;
             });
             response += `${item}\n`;
         }
