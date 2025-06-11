@@ -3,32 +3,65 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>OUI Finder</title>
+    <title>Super Fast OUI Finder</title>
+    <!-- Styles -->
+    <style>
+        @font-face {
+            font-family: 'Lato';
+            font-style: normal;
+            font-weight: 400;
+            font-display: swap;
+            src: url('/fonts/Lato-Regular.woff2') format('woff2'),
+                    url('/fonts/Lato-Regular.woff') format('woff');
+        }
+
+        @font-face {
+            font-family: 'Lato';
+            font-style: normal;
+            font-weight: 700;
+            font-display: swap;
+            src: url('/fonts/Lato-Bold.woff2') format('woff2'),
+                    url('/fonts/Lato-Bold.woff') format('woff');
+        }
+
+        *:not(textarea) {
+            font-family: Lato;
+        }
+
+        textarea {
+            display: block;
+            width: 99%;
+            margin: 12px auto;
+            height: 50vh;
+        }
+
+        button {
+            padding: 12px;
+            border-radius: 50px;
+            border: none;
+            background-color: #bdbdbd;
+        }
+    </style>
+
     <!-- Primary Meta Tags -->
-    <meta name="title" content="OUI Finder" />
-    <meta name="description" content="Find the owner of any OUI!" />
+    <meta name="title" content="Super Fast OUI Finder" />
+    <meta name="description" content="Discover the manufacturer or organization behind any MAC address with our super fast OUI Owner Finder. Free, accurate, and supports multiple OUI formats for instant device identification." />
     <link rel="shortcut icon" href="/logo.svg" type="image/svg+xml">
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://ouifinder.web.app" />
-    <meta property="og:title" content="OUI Finder" />
-    <meta property="og:description" content="Find the owner of any OUI!" />
+    <meta property="og:title" content="Super Fast OUI Finder" />
+    <meta property="og:description" content="Discover the manufacturer or organization behind any MAC address with our super fast OUI Owner Finder. Free, accurate, and supports multiple OUI formats for instant device identification." />
 
     <!-- Twitter -->
     <meta property="twitter:url" content="https://ouifinder.web.app" />
-    <meta property="twitter:title" content="OUI Finder" />
-    <meta property="twitter:description" content="Find the owner of any OUI!" />
-    <link rel="stylesheet" href="/style.css">
-
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
-    
+    <meta property="twitter:title" content="Super Fast OUI Finder" />
+    <meta property="twitter:description" content="Discover the manufacturer or organization behind any MAC address with our super fast OUI Owner Finder. Free, accurate, and supports multiple OUI formats for instant device identification." />
 </head>
 <body>
-    <h1>OUI Finder</h1>
-    <p>Enter some text in the textbox and find the owner of the OUI!</p>
+    <h1>Super Fast OUI Finder</h1>
+    <p>The fastest OUI finder on the internet. Gives you a the owner of any OUI in an instant.</p>
     <p>Examples:</p>
     <ul>
         <li><b>000D72</b>: A line with just six characters (only works on its own line)</li>
