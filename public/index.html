@@ -41,6 +41,12 @@
             border: none;
             background-color: #bdbdbd;
         }
+        
+        .last_updated {
+            font-style: italic;
+            font-size: 13px;
+            margin-top: 40px;
+        }
     </style>
 
     <!-- Primary Meta Tags -->
@@ -72,6 +78,8 @@
     <textarea id="ouis" placeholder="Write/paste your OUIs here!"></textarea>
     <p><label><input type="checkbox" name="copy" id="copy" checked> Copy results to clipboard</label></p>
     <button onclick="findOuis()">Find Owners</button>
+    <!-- [OUIGrabber] Next line is last updated date -->
+    <p class="last_updated">Data last fetched from <a href="https://standards-oui.ieee.org/">standards-oui.ieee.org</a> on July 25, 2025</p>
     <script src="findOuis.js"></script>
 </body>
 </html>
