@@ -309,6 +309,7 @@ ECF00EAboCom
 3023BAAccelerated Memory Production Inc.
 001026ACCELERATED NETWORKS, INC.
 0006F3AcceLight Networks
+C467A1Accelight Technologies (Wuhan) Inc.
 6C2E33Accelink Technologies Co.,Ltd.
 080078ACCELL CORPORATION
 0006BFAccella Technologies Co., Ltd.
@@ -338,7 +339,11 @@ B8616FAccton Technology Corp
 0010B5Accton Technology Corp
 0000E8ACCTON TECHNOLOGY CORP.
 AC81B5Accton Technology Corporation
+BC121FACCTON TECHNOLOGY CORPORATION
+9C4711ACCTON TECHNOLOGY CORPORATION
+D08E17ACCTON TECHNOLOGY CORPORATION
 2C0369ACCTON TECHNOLOGY CORPORATION
+FC3D98ACCTON TECHNOLOGY CORPORATION
 000E13Accu-Sort Systems inc.
 006095ACCU-TIME SYSTEMS, INC.
 307A57Accuenergy (CANADA) Inc
@@ -430,12 +435,14 @@ F03D29Actility
 A04025Actioncable, Inc.
 D0C0BFActions Microelectronics
 FC1928Actions Microelectronics
+405ADDActions Microelectronics
 F44EFDActions Semiconductor Co.,Ltd.(Cayman Islands)
 5C35FCActiontec Electronics Inc.
 7058A4Actiontec Electronics Inc.
 00BC2FActiontec Electronics Inc.
 40C02FActiontec Electronics Inc.
 F07084Actiontec Electronics Inc.
+089536Actiontec Electronics Inc.
 FC2BB2Actiontec Electronics, Inc
 A0A3E2Actiontec Electronics, Inc
 181BEBActiontec Electronics, Inc
@@ -714,6 +721,7 @@ F06130Advantage Pharmacy Services, LLC
 000E02Advantech AMT Inc.
 74FE48ADVANTECH CO., LTD.
 00D0C9ADVANTECH CO., LTD.
+C4B16BAdvantech Czech
 001453ADVANTECH TECHNOLOGIES CO.,LTD
 000BABAdvantech Technology (CHINA) Co., Ltd.
 C400ADAdvantech Technology (CHINA) Co., Ltd.
@@ -766,6 +774,7 @@ F41399Aerospace new generation communications Co.,Ltd
 000D7DAfco Systems
 00405FAFE COMPUTERS LTD.
 EC570DAFE Inc.
+906F18Afero, Inc.
 581CBDAffinegy
 001B04Affinity International S.p.a
 78223DAffirmed Networks
@@ -991,9 +1000,9 @@ DC0856Alcatel-Lucent Enterprise
 782459Alcatel-Lucent Enterprise
 2CFAA2Alcatel-Lucent Enterprise
 E8E732Alcatel-Lucent Enterprise
+901C9EAlcatel-Lucent Enterprise
 00D095Alcatel-Lucent Enterprise
 0020DAAlcatel-Lucent Enterprise
-3C28A6Alcatel-Lucent Enterprise (China)
 0021AEALCATEL-LUCENT FRANCE - WTD
 0025BAAlcatel-Lucent IPD
 24AF4AAlcatel-Lucent IPD
@@ -1026,6 +1035,7 @@ F83094Alcatel-Lucent Telecom Limited
 0009F4Alcon Laboratories, Inc.
 002328ALCON TELECOMMUNICATIONS CO., LTD.
 001046ALCORN MCBRIDE INC.
+3C28A6ALE International
 00809FALE International
 487A55ALE International
 00271BAlec Sicherheitssysteme GmbH
@@ -1041,6 +1051,7 @@ F83094Alcatel-Lucent Telecom Limited
 008094ALFA LAVAL AUTOMATION AB
 00C0CAALFA, INC.
 00E03EALFATECH, INC.
+30ECA3Alfatron Electronics INC
 00233CAlflex
 A409CBAlfred Kaercher GmbH &amp; Co KG
 001A51Alfred Mann Foundation
@@ -1260,6 +1271,8 @@ C02EDFAltoBeam Inc.
 7CAADEAltoBeam Inc.
 8C5C53AltoBeam Inc.
 2CCC7AAltoBeam Inc.
+E82D79AltoBeam Inc.
+647084AltoBeam Inc.
 98A829AltoBeam Inc.
 2098EDAltoBeam Inc.
 5C4EEEAltoBeam Inc.
@@ -1269,19 +1282,25 @@ E022A1AltoBeam Inc.
 BCADAEAltoBeam Inc.
 48D01CAltoBeam Inc.
 94FF7DAltoBeam Inc.
+D83A36AltoBeam Inc.
+D83EEBAltoBeam Inc.
 90314BAltoBeam Inc.
 2CD8DEAltoBeam Inc.
 6056EEAltoBeam Inc.
+F4E25DAltoBeam Inc.
+80E869AltoBeam Inc.
 6C221AAltoBeam Inc.
 4C60BAAltoBeam Inc.
 C08A60AltoBeam Inc.
 48A4FDAltoBeam Inc.
 58C587AltoBeam Inc.
+F41C26AltoBeam Inc.
 E496AEALTOGRAPHICS Inc.
 003081ALTOS C&C
 0000C8ALTOS COMPUTER SYSTEMS
 0020F1ALTOS INDIA LIMITED
 BCFE8CAltronic, LLC
+C0188CAltus Sistemas de Automação S.A.
 00301CALTVATER AIRDATA SYSTEMS
 542160Alula
 648B9BALWAYS ON TECH PTE.LTD.
@@ -1335,6 +1354,8 @@ FCA667Amazon Technologies Inc.
 74C246Amazon Technologies Inc.
 0C47C9Amazon Technologies Inc.
 B08BA8Amazon Technologies Inc.
+8C1952Amazon Technologies Inc.
+CCAFE3Amazon Technologies Inc.
 50D45CAmazon Technologies Inc.
 FCE9D8Amazon Technologies Inc.
 90F82EAmazon Technologies Inc.
@@ -1372,6 +1393,7 @@ F0D2F1Amazon Technologies Inc.
 747548Amazon Technologies Inc.
 2824C9Amazon Technologies Inc.
 B4107AAmazon Technologies Inc.
+304D1FAmazon Technologies Inc.
 90395FAmazon Technologies Inc.
 AC416AAmazon Technologies Inc.
 28EF01Amazon Technologies Inc.
@@ -1412,6 +1434,7 @@ A002DCAmazon Technologies Inc.
 A8CA77Amazon Technologies Inc.
 8C2A85Amazon Technologies Inc.
 4089C6Amazon Technologies Inc.
+844880Amazon Technologies Inc.
 6813F3Amazon Technologies Inc.
 98CCF3Amazon Technologies Inc.
 7CEDC6Amazon Technologies Inc.
@@ -1443,6 +1466,8 @@ C095CFAmazon Technologies Inc.
 180B1BAmazon Technologies Inc.
 CC2293Amazon Technologies Inc.
 2010B1Amazon Technologies Inc.
+8829BFAmazon Technologies Inc.
+689FD4Amazon Technologies Inc.
 E84C4AAmazon Technologies Inc.
 B0CFCBAmazon Technologies Inc.
 58E488Amazon Technologies Inc.
@@ -1532,6 +1557,7 @@ A0B8F8Amgen U.S.A. Inc.
 001BA1Åmic AB
 C4FEE2AMICCOM Electronics Corporation
 187A93AMICCOM Electronics Corporation
+884558Amicro Technology Co., Ltd.
 A0E25AAmicus SK, s.r.o.
 00D041AMIGO TECHNOLOGY CO., LTD.
 0CD696Amimon Ltd
@@ -1549,6 +1575,7 @@ E81B4Bamnimo Inc.
 001240AMOI ELECTRONICS CO.,LTD
 1C4AF7AMON INC
 D056BFAMOSENSE
+5496CBAMPAK Technology Inc.
 B0F5C8AMPAK Technology Inc.
 8CF710AMPAK Technology, Inc.
 10D07AAMPAK Technology, Inc.
@@ -1673,8 +1700,10 @@ C4B691Angel Robotics
 64F6F7Anhui Dynamic Power Co., Ltd.
 941724Anhui Guoke Ruidian communication technology  Co.,Ltd.
 D8803CAnhui Huami Information Technology Company Limited
+E4CE58Anhui Realloong Automotive Electronics Co.,Ltd
 C4955FAnhui Saida Technology Limited Liability Company
 001C68Anhui Sun Create Electronics Co., Ltd
+EC9E68Anhui Taoyun Technology Co., Ltd
 8432EAANHUI WANZTEN P&T CO., LTD
 A0885EAnhui Xiangyao New Energy Technology Co., Ltd.
 004005ANI COMMUNICATIONS INC.
@@ -1683,10 +1712,13 @@ A0885EAnhui Xiangyao New Energy Technology Co., Ltd.
 E01E07Anite Telecoms  US. Inc
 0000FEAnnapolis Micro Systems, Inc.
 506245Annapurna labs
+189677Annapurna labs
+308B23Annapurna labs
 F8F295Annapurna labs
 743889ANNAX Anzeigesysteme GmbH
 0018A8AnNeal Technology Inc.
 000A02ANNSO CO., LTD.
+DC155CAnntec （Beijing） Technology Co.,Ltd.
 D41296Anobit Technologies Ltd.
 0007CFAnoto AB
 B8266CANOV France
@@ -1706,6 +1738,7 @@ F0A968Antailiye Technology Co.,Ltd
 108B6AAntailiye Technology Co.,Ltd
 7CCB0DAntaira Technologies, LLC
 000455ANTARA.net
+F4525BAntare Technology Ltd
 0010F2ANTEC
 6C4598Antex Electronic Corp.
 000B3FAnthology Solutions Inc.
@@ -2069,6 +2102,19 @@ F8D3F0Apple, Inc.
 10A1DAApple, Inc.
 54B8DBApple, Inc.
 8C91A4Apple, Inc.
+D4FF1AApple, Inc.
+107DC8Apple, Inc.
+C45BACApple, Inc.
+F4B599Apple, Inc.
+246D10Apple, Inc.
+20463AApple, Inc.
+0472EFApple, Inc.
+ECE9D2Apple, Inc.
+48E1CAApple, Inc.
+C8806DApple, Inc.
+98CF7DApple, Inc.
+742959Apple, Inc.
+D0B324Apple, Inc.
 D40F9EApple, Inc.
 980DAFApple, Inc.
 DC6DBCApple, Inc.
@@ -2351,16 +2397,31 @@ B845EBApple, Inc.
 78753EApple, Inc.
 90AC6DApple, Inc.
 74E987Apple, Inc.
+FCB214Apple, Inc.
+2C9520Apple, Inc.
 20F4D4Apple, Inc.
 30C0AEApple, Inc.
 F8E252Apple, Inc.
-FCB214Apple, Inc.
-2C9520Apple, Inc.
 E4B16CApple, Inc.
 704CA2Apple, Inc.
 948978Apple, Inc.
 28D5B1Apple, Inc.
 80D1CEApple, Inc.
+042EC1Apple, Inc.
+B45575Apple, Inc.
+683036Apple, Inc.
+284B54Apple, Inc.
+A0E390Apple, Inc.
+307AD2Apple, Inc.
+D42DCCApple, Inc.
+1C8E2AApple, Inc.
+300E43Apple, Inc.
+743F8EApple, Inc.
+E45341Apple, Inc.
+68A729Apple, Inc.
+742917Apple, Inc.
+CC808FApple, Inc.
+E0BA78Apple, Inc.
 2091DFApple, Inc.
 A89C78Apple, Inc.
 7C6130Apple, Inc.
@@ -2640,13 +2701,23 @@ E44389Apple, Inc.
 0097F1Apple, Inc.
 B84FA7Apple, Inc.
 F481C4Apple, Inc.
-CC22FEApple, Inc.
 34DAA1Apple, Inc.
+CC22FEApple, Inc.
 AC82F0Apple, Inc.
 0CCC5DApple, Inc.
 340E22Apple, Inc.
 684A5FApple, Inc.
 E898EEApple, Inc.
+E42F37Apple, Inc.
+64BD6DApple, Inc.
+E8C386Apple, Inc.
+4CE650Apple, Inc.
+24559AApple, Inc.
+5C13ACApple, Inc.
+0CE5A1Apple, Inc.
+0CA3B2Apple, Inc.
+242AEAApple, Inc.
+98E859Apple, Inc.
 F8E5CEApple, Inc.
 28C1A0Apple, Inc.
 EC2C73Apple, Inc.
@@ -2928,6 +2999,19 @@ C0C7DBApple, Inc.
 9CC394Apple, Inc.
 4CAD35Apple, Inc.
 E02611Apple, Inc.
+C4168FApple, Inc.
+F82AE2Apple, Inc.
+7414D0Apple, Inc.
+3CFB02Apple, Inc.
+9035A2Apple, Inc.
+04B5B2Apple, Inc.
+F478ACApple, Inc.
+009235Apple, Inc.
+F02FBAApple, Inc.
+C4491BApple, Inc.
+804715Apple, Inc.
+7CD1ADApple, Inc.
+30A033Apple, Inc.
 389CB2Apple, Inc.
 583653Apple, Inc.
 84D328Apple, Inc.
@@ -3192,6 +3276,15 @@ DC9396Apple, Inc.
 28575DApple, Inc.
 3410BEApple, Inc.
 F433B7Apple, Inc.
+787984Apple, Inc.
+FC8827Apple, Inc.
+0434CFApple, Inc.
+60DE18Apple, Inc.
+681A47Apple, Inc.
+2849E9Apple, Inc.
+78960DApple, Inc.
+801D39Apple, Inc.
+CC722AApple, Inc.
 4C63EBApplication Solutions (Electronics and Vision) Ltd
 001383Application Technologies and Engineering Research Laboratory
 00A091APPLICOM INTERNATIONAL
@@ -3241,6 +3334,7 @@ FC6DD1APRESIA Systems, Ltd.
 441DB1APTIV SERVICES US, LLC
 0022A0APTIV SERVICES US, LLC
 2863BDAPTIV SERVICES US, LLC
+646911APTIV SERVICES US, LLC
 00E028APTIX CORPORATION
 0000E6APTOR PRODUITS DE COMM INDUST
 94B9B4Aptos Technology
@@ -3255,6 +3349,7 @@ C8D69DArab International Optronics
 0026ADArada Systems, Inc.
 001744Araneo Ltd.
 A4B121Arantia 2010 S.L.
+F05582Arashi Vision Inc.
 00012CAravox Technologies, Inc.
 0060E3ARBIN INSTRUMENTS
 6473E2Arbiter Systems, Inc.
@@ -3276,6 +3371,8 @@ BC30D9Arcadyan Corporation
 E05163Arcadyan Corporation
 3CF083Arcadyan Corporation
 CCB148Arcadyan Corporation
+703E76Arcadyan Corporation
+8C7779Arcadyan Corporation
 F4CAE7Arcadyan Corporation
 047056Arcadyan Corporation
 C0D7AAArcadyan Corporation
@@ -3291,6 +3388,7 @@ D463FEArcadyan Corporation
 3806E6Arcadyan Corporation
 F83EB0Arcadyan Corporation
 6475DAArcadyan Corporation
+6095F8Arcadyan Corporation
 DCF51BArcadyan Corporation
 4C22F3Arcadyan Corporation
 54C45BArcadyan Corporation
@@ -3320,6 +3418,7 @@ AC1007Arcadyan Corporation
 0827A8Arcadyan Corporation
 6C15DBArcadyan Corporation
 8082FEArcadyan Corporation
+BCAF6EArcadyan Corporation
 ACB687Arcadyan Corporation
 185880Arcadyan Corporation
 D48660Arcadyan Corporation
@@ -3370,7 +3469,6 @@ F86ECFArcx Inc
 00D08FARDENT TECHNOLOGIES, INC.
 309FFBArdomus Networks Corporation
 A8610AARDUINO AG
-0005BAArea Netwoeks, Inc.
 00C071AREANEX COMMUNICATIONS, INC.
 BCBAE1AREC Inc.
 001B4DAreca Technology Corporation
@@ -3411,6 +3509,8 @@ B8A1B8Arista Networks
 A88F99Arista Networks
 C8088BArista Networks
 CCE4D1Arista Networks
+E0FA5BArista Networks
+4C0997Arista Networks
 E47876Arista Networks
 EC8A48Arista Networks
 28E71DArista Networks
@@ -3421,6 +3521,7 @@ EC8A48Arista Networks
 444CA8Arista Networks
 68BF6CArista Networks
 B43A96Arista Networks
+845029Arista Networks
 C06911Arista Networks
 D4AFF7Arista Networks
 C0D682Arista Networks
@@ -3433,6 +3534,7 @@ A47A72Arista Networks
 E8AEC5Arista Networks
 8C019DArista Networks
 6C7A63Arista Networks
+602972Arista Networks
 CC1AA3Arista Networks
 AC3D94Arista Networks
 FCBD67Arista Networks
@@ -3441,6 +3543,8 @@ FCBD67Arista Networks
 540F2CArista Networks
 D806F3Arista Networks
 785F6CArista Networks
+B858FFArista Networks
+1C8C6EArista Networks
 78D66FAristocrat Technologies Australia Pty. Ltd.
 00062EAristos Logic Corp.
 0000C7ARIX CORPORATION
@@ -3520,6 +3624,7 @@ A82AD6Arthrex Inc.
 441E91ARVIDA Intelligent Electronics Technology  Co.,Ltd.
 001E22ARVOO Imaging Products BV
 B8F732Aryaka Networks Inc
+ACD3FBArycs Technologies Inc
 70820Eas electronics GmbH
 0008C0ASA SYSTEMS
 0C4F5AASA-RT s.r.l.
@@ -3603,6 +3708,7 @@ E0CA94ASKEY COMPUTER CORP
 E0CEC3ASKEY COMPUTER CORP
 24EC99ASKEY COMPUTER CORP
 F45246ASKEY COMPUTER CORP
+88FEB6ASKEY COMPUTER CORP
 FC1263ASKEY COMPUTER CORP
 807871ASKEY COMPUTER CORP
 94917FASKEY COMPUTER CORP
@@ -3679,8 +3785,10 @@ DCC0EBASSA ABLOY CÔTE PICARDE
 0019A3asteel electronique atlantique
 0012BEAstek Corporation
 001919ASTEL Inc.
+189024Astera LED Technology GmbH
 000AB9Astera Technologies Corp.
 60EB5AAsterfusion Data Technologies Co.,Ltd
+281DAAASTI India Private Limited
 00A08BASTON ELECTRONIC DESIGNS LTD.
 001C5EASTON France
 A02252Astra Wireless Technology FZ-LLC
@@ -3748,6 +3856,7 @@ F07959ASUSTek COMPUTER INC.
 7824AFASUSTek COMPUTER INC.
 BCEE7BASUSTek COMPUTER INC.
 50465DASUSTek COMPUTER INC.
+B082E2ASUSTek COMPUTER INC.
 E89C25ASUSTek COMPUTER INC.
 C87F54ASUSTek COMPUTER INC.
 50EBF6ASUSTek COMPUTER INC.
@@ -3835,6 +3944,7 @@ ACABBFAthenTek Inc.
 0016BDATI Industrial Automation
 0006BBATI Technologies Inc.
 D88DC8Atil Technology Co., LTD
+D017B7Atios AG
 001AE6Atlanta Advanced Communications Holdings Limited
 001FA9Atlanta DTH, Inc.
 00903CATLANTIC NETWORK SYSTEMS
@@ -3870,7 +3980,6 @@ DC3CF6Atomic Rules LLC
 0040E0ATOMWIDE LTD.
 888E7FATOP CORPORATION
 0060E9ATOP TECHNOLOGIES, INC.
-F81037Atopia Systems, LP
 141357ATP Electronics, Inc.
 98FBF5ATRALTECH
 0003EBAtrica
@@ -3919,6 +4028,24 @@ DCE71CAUG Elektronik GmbH
 1073C6August Internet Limited
 4838B6Auhui Taoyun Technology Co., Ltd
 A0D385AUMA Riester GmbH & Co. KG
+24085DAUMOVIO Aftermarket GmbH
+F03012AUMOVIO Autonomous Mobility Germany GmbH
+9C28BFAUMOVIO Czech Republic s.r.o.
+ACC358AUMOVIO Czech Republic s.r.o.
+184CAEAUMOVIO France S.A.S.
+442063AUMOVIO Germany GmbH
+E41E33AUMOVIO Germany GmbH
+408256AUMOVIO Germany GmbH
+B4DDD0AUMOVIO Hungary Kft.
+D400CAAUMOVIO Systems Romania S.R.L.
+8C5F48AUMOVIO Systems, Inc.
+D494FBAUMOVIO Systems, Inc.
+0054AFAUMOVIO Systems, Inc.
+20AD56AUMOVIO Systems, Inc.
+001EAEAUMOVIO Systems, Inc.
+408556AUMOVIO Technologies Romania S.R.L.
+E41226AUMOVIO Technologies Romania S.R.L.
+10D8B1AUO Corporation
 04C29BAura Home, Inc.
 00E607AURCORE TECHNOLOGY INC.
 D80093Aurender Inc.
@@ -3957,6 +4084,7 @@ C0C3B6Automatic Systems
 50DD4FAutomation Components, Inc
 001730Automation Electronics
 0021DAAutomation Products Group Inc.
+68EFA8AutomationDirect.com
 10DEE4automationNEXT GmbH
 282FC2Automotive Data Solutions
 0024CBAutonet Mobile
@@ -4093,16 +4221,16 @@ B009D3Avizia
 000523AVL List GmbH
 000108AVLAB Technology, Inc.
 6CA367Avlinkpro
+D012CBAVM Audiovisuelles Marketing und Computersysteme GmbH
 D424DDAVM Audiovisuelles Marketing und Computersysteme GmbH
 989BCBAVM Audiovisuelles Marketing und Computersysteme GmbH
-D012CBAVM Audiovisuelles Marketing und Computersysteme GmbH
 2C3AFDAVM Audiovisuelles Marketing und Computersysteme GmbH
-CCCE1EAVM Audiovisuelles Marketing und Computersysteme GmbH
-7CFF4DAVM Audiovisuelles Marketing und Computersysteme GmbH
 3CA62FAVM Audiovisuelles Marketing und Computersysteme GmbH
 3C3712AVM Audiovisuelles Marketing und Computersysteme GmbH
 0C7274AVM Audiovisuelles Marketing und Computersysteme GmbH
 04B4FEAVM Audiovisuelles Marketing und Computersysteme GmbH
+CCCE1EAVM Audiovisuelles Marketing und Computersysteme GmbH
+7CFF4DAVM Audiovisuelles Marketing und Computersysteme GmbH
 802395AVM Audiovisuelles Marketing und Computersysteme GmbH
 E8DF70AVM Audiovisuelles Marketing und Computersysteme GmbH
 2C91ABAVM Audiovisuelles Marketing und Computersysteme GmbH
@@ -4111,20 +4239,20 @@ B0F208AVM Audiovisuelles Marketing und Computersysteme GmbH
 3810D5AVM Audiovisuelles Marketing und Computersysteme GmbH
 C80E14AVM Audiovisuelles Marketing und Computersysteme GmbH
 E00855AVM Audiovisuelles Marketing und Computersysteme GmbH
-DC396FAVM Audiovisuelles Marketing und Computersysteme GmbH
 5C4979AVM Audiovisuelles Marketing und Computersysteme GmbH
-50E636AVM Audiovisuelles Marketing und Computersysteme GmbH
+DC396FAVM Audiovisuelles Marketing und Computersysteme GmbH
 60B58DAVM Audiovisuelles Marketing und Computersysteme GmbH
 34E1A9AVM Audiovisuelles Marketing und Computersysteme GmbH
+50E636AVM Audiovisuelles Marketing und Computersysteme GmbH
 08B657AVM Audiovisuelles Marketing und Computersysteme GmbH
 E0286DAVM Audiovisuelles Marketing und Computersysteme GmbH
 444E6DAVM Audiovisuelles Marketing und Computersysteme GmbH
 F0B014AVM Audiovisuelles Marketing und Computersysteme GmbH
+74427FAVM Audiovisuelles Marketing und Computersysteme GmbH
+1CED6FAVM Audiovisuelles Marketing und Computersysteme GmbH
 485D35AVM Audiovisuelles Marketing und Computersysteme GmbH
 B4FC7DAVM Audiovisuelles Marketing und Computersysteme GmbH
 98A965AVM Audiovisuelles Marketing und Computersysteme GmbH
-74427FAVM Audiovisuelles Marketing und Computersysteme GmbH
-1CED6FAVM Audiovisuelles Marketing und Computersysteme GmbH
 A052ABAVM ELECTRONICS PTE LTD
 BC0543AVM GmbH
 0024FEAVM GmbH
@@ -4271,6 +4399,7 @@ B0EE45AzureWave Technology Inc.
 50BBB5AzureWave Technology Inc.
 502E91AzureWave Technology Inc.
 F068E3AzureWave Technology Inc.
+9074AEAzureWave Technology Inc.
 F854F6AzureWave Technology Inc.
 CC4740AzureWave Technology Inc.
 D49AF6AzureWave Technology Inc.
@@ -4312,6 +4441,8 @@ A81D16AzureWave Technology Inc.
 74F06DAzureWave Technology Inc.
 94BB43AzureWave Technology Inc.
 C0BFBEAzureWave Technology Inc.
+EC3A56AzureWave Technology Inc.
+CCC530AzureWave Technology Inc.
 000A12Azylex Technology, Inc
 38E8DFb gmbh medien + datenbanken
 CC0DE7B METERS S.R.L.
@@ -4323,6 +4454,8 @@ CC0DE7B METERS S.R.L.
 000EBEB&B Electronics Manufacturing Co.
 6C2E72B&B EXPORTING LIMITED
 006065B&R Industrial Automation GmbH
+00111EB&R Industrial Automation GmbH
+00151EB&R Industrial Automation GmbH
 00092EB&Tech System Inc.
 D81EDEB&W Group Ltd
 EC66D1B&W Group LTD
@@ -4338,9 +4471,9 @@ C455C2Bach-Simpson
 00107EBACHMANN ELECTRONIC GmbH
 00263CBachmann Technology GmbH & Co. KG
 00160FBADGER METER INC
+BCD767BAE Systems
 18F9C4BAE Systems
 000BF3BAE SYSTEMS
-BCD767BAE Systems Apllied Intelligence
 009025BAE Systems Australia (Electronic Systems) Pty Ltd
 CC3FEABAE Systems, Inc
 409FC7BAEKCHUN I&C Co., Ltd.
@@ -4451,6 +4584,7 @@ ACA22CBaycity Technologies Ltd
 000DD8BBN
 000F6EBBox
 C81072BBPOS Limited
+B86468BBSakura Networks, Inc.
 00124CBBWM Corporation
 00026BBCM Computers Co., Ltd.
 00E0C5BCOM ELECTRONICS INC.
@@ -4569,6 +4703,7 @@ B078F0Beijing HuaqinWorld Technology Co.,Ltd.
 E8343EBeijing Infosec Technologies Co., LTD.
 001805Beijing InHand Networking Technology Co.,Ltd.
 E4B005Beijing IQIYI Science & Technology Co., Ltd.
+30BC4FBeijing Jianguo Bite Technology Co., Ltd.
 248498Beijing Jiaoda Microunion Tech.Co.,Ltd.
 001DC5Beijing Jiaxun Feihong Electricial Co., Ltd.
 DCD87CBeijing Jingdong Century Trading Co., LTD.
@@ -4694,6 +4829,7 @@ A4BA70Beijing Xiaomi Mobile Software Co., Ltd
 D4532ABeijing Xiaomi Mobile Software Co., Ltd
 98E081Beijing Xiaomi Mobile Software Co., Ltd
 04AE47Beijing Xiaomi Mobile Software Co., Ltd
+14907ABeijing Xiaomi Mobile Software Co., Ltd
 A4A930Beijing Xiaomi Mobile Software Co., Ltd
 C05B44Beijing Xiaomi Mobile Software Co., Ltd
 D43538Beijing Xiaomi Mobile Software Co., Ltd
@@ -4718,6 +4854,8 @@ DCED83Beijing Xiaomi Mobile Software Co., Ltd
 90FB5DBeijing Xiaomi Mobile Software Co., Ltd
 14D881Beijing Xiaomi Mobile Software Co., Ltd
 F88306Beijing Xiaomi Mobile Software Co., Ltd
+34F015Beijing Xiaomi Mobile Software Co., Ltd
+246477Beijing Xiaomi Mobile Software Co., Ltd
 C493BBBeijing Xiaomi Mobile Software Co., Ltd
 D4DA21Beijing Xiaomi Mobile Software Co., Ltd
 A439B3Beijing Xiaomi Mobile Software Co., Ltd
@@ -4726,6 +4864,8 @@ A439B3Beijing Xiaomi Mobile Software Co., Ltd
 EC4D3EBeijing Xiaomi Mobile Software Co., Ltd
 58EA1FBeijing Xiaomi Mobile Software Co., Ltd
 046761Beijing Xiaomi Mobile Software Co., Ltd
+50926ABeijing Xiaomi Mobile Software Co., Ltd
+E41B43Beijing Xiaomi Mobile Software Co., Ltd
 E84A54Beijing Xiaomi Mobile Software Co., Ltd
 4CC64CBeijing Xiaomi Mobile Software Co., Ltd
 844693Beijing Xiaomi Mobile Software Co., Ltd
@@ -4738,6 +4878,9 @@ CCDA20Beijing Xiaomi Mobile Software Co., Ltd
 504F3BBeijing Xiaomi Mobile Software Co., Ltd
 E4FE43Beijing Xiaomi Mobile Software Co., Ltd
 98171ABeijing Xiaomi Mobile Software Co., Ltd
+50FE39Beijing Xiaomi Mobile Software Co., Ltd
+CC033DBeijing Xiaomi Mobile Software Co., Ltd
+709751Beijing Xiaomi Mobile Software Co., Ltd
 88DA33Beijing Xiaoyuer Network Technology Co., Ltd
 C0B713Beijing Xiaoyuer Technology Co. Ltd.
 001812Beijing Xinwei Telecom Technology Co., Ltd.
@@ -4765,7 +4908,8 @@ C8478CBeken Corporation
 0012F4Belco International Co.,Ltd.
 001943Belden
 3CB9A6Belden Deutschland GmbH
-94AEE3Belden Hirschmann Industries (Suzhou) Ltd.
+94AEE3Belden Hirschmann industries (Suzhou) Limited
+A02605Belden Hirschmann industries (Suzhou) Limited
 94677EBelden India Private Limited
 ACB181Belden Mooresville
 30CB36Belden Singapore Pte. Ltd.
@@ -4915,6 +5059,7 @@ B8975ABIOSTAR Microtech Int'l Corp.
 003067BIOSTAR Microtech Int'l Corp.
 F4B520Biostar Microtech international corp.
 000BC4BIOTRONIK GmbH & Co
+50D06DBird Buddy
 001BB6Bird Electronic Corp.
 58D8A7Bird Home Automation GmbH
 84A24DBirds Eye Systems Private Limited
@@ -4985,6 +5130,8 @@ B829F7Blaster Tech
 000387Blaze Network Products
 3CA315Bless Information & Communications Co., Ltd
 001FAEBlick South Africa (Pty) Ltd
+70AD43Blink by Amazon
+F074C1Blink by Amazon
 74AB93Blink by Amazon
 3CA070Blink by Amazon
 0CA138BLiNQ Networks Inc.
@@ -4995,12 +5142,13 @@ F03A4BBloombase, Inc.
 001BEFBlossoms Digital Technology Co.,Ltd.
 880118BLT Co
 149448BLU CASTLE S.A.
-80FD7BBLU Products Inc
 28BC05BLU Products Inc
 6C5640BLU Products Inc
+80FD7BBLU Products Inc
+0C0CEABLU Products Inc
 E4C801BLU Products Inc
-80FD7ABLU Products Inc
 60720BBLU Products Inc
+80FD7ABLU Products Inc
 CC794ABLU Products Inc.
 58F102BLU Products Inc.
 D8B6D6Blu Tether Limited
@@ -5104,6 +5252,7 @@ B45570Borea
 001017Bosch Access Systems GmbH
 28827CBosch Automative products(Suzhou)Co.,Ltd Changzhou Branch
 70C6ACBosch Automotive Aftermarket
+5C1B17Bosch Automotive Electronics India Pvt. Ltd.
 8834FEBosch Automotive Products (Suzhou) Co. Ltd
 E0B763Bosch Automotive Products (Suzhou) Co., Ltd. Changzhou Branch
 042605Bosch Building Automation GmbH
@@ -5145,9 +5294,11 @@ C890A8Bouffalo Lab (Nanjing) Co., Ltd.
 B40ECFBouffalo Lab (Nanjing) Co., Ltd.
 ACD829Bouffalo Lab (Nanjing) Co., Ltd.
 7C3E82Bouffalo Lab (Nanjing) Co., Ltd.
+C8E713Bouffalo Lab (Nanjing) Co., Ltd.
 A81710Bouffalo Lab (Nanjing) Co., Ltd.
 7CB94CBouffalo Lab (Nanjing) Co., Ltd.
 685377Bouffalo Lab (Nanjing) Co., Ltd.
+9C2410Bouffalo Lab (Nanjing) Co., Ltd.
 28BBEDBouffalo Lab (Nanjing) Co., Ltd.
 1C784BBouffalo Lab (Nanjing) Co., Ltd.
 E8CA50Bouffalo Lab (Nanjing) Co., Ltd.
@@ -5158,6 +5309,7 @@ F44250Bouffalo Lab (Nanjing) Co., Ltd.
 7488A8Bouffalo Lab (Nanjing) Co., Ltd.
 248602Bouffalo Lab (Nanjing) Co., Ltd.
 806A34Bouffalo Lab (Nanjing) Co., Ltd.
+547AF4Bouffalo Lab (Nanjing) Co., Ltd.
 0019B8Boundary Devices
 0014ACBountiful WiFi
 10B36FBowei Technology Company Limited
@@ -5264,6 +5416,7 @@ BC97E1Broadcom Limited
 7410E0Broadcom Limited
 D404E6Broadcom Limited
 6C92CFBroadcom Limited
+FC5708Broadcom Limited
 043201Broadcom Limited
 70B7E4Broadcom Limited
 1423F2Broadcom Limited
@@ -5274,6 +5427,7 @@ E43D1ABroadcom Limited
 6C8375Broadcom Limited
 B02628Broadcom Limited
 34D868Broadcom Limited
+C0B550Broadcom Limited
 0005B5Broadcom Technologies
 001229BroadEasy Technologies Co.,Ltd
 4C9E6CBROADEX TECHNOLOGIES CO.LTD
@@ -5316,6 +5470,7 @@ C4F57CBrocade Communications Systems LLC
 000AA9Brooks Automation GmbH
 00A0EDBrooks Automation, Inc.
 00A08ABROOKTROUT TECHNOLOGY, INC.
+681579BrosTrend Technology LLC
 008077Brother industries, LTD.
 001BA9Brother industries, LTD.
 30055CBrother industries, LTD.
@@ -5345,6 +5500,7 @@ C8D778BSH Hausgeraete GmbH
 68A40EBSH Hausgeräte GmbH
 942770BSH Hausgeräte GmbH
 E467A6BSH Hausgeräte GmbH
+400AE7BSH Hausgeräte GmbH
 14EB33BSMediasoft Co., Ltd.
 04B466BSP Co., Ltd.
 0008ACBST GmbH
@@ -5371,6 +5527,7 @@ CCE1D5BUFFALO.INC
 EC5A31BUFFALO.INC
 106F3FBUFFALO.INC
 B0C745BUFFALO.INC
+D056F2BUFFALO.INC
 9096F3BUFFALO.INC
 18ECE7BUFFALO.INC
 6084BDBUFFALO.INC
@@ -5435,6 +5592,7 @@ BC2392BYD Precision Manufacture Company Ltd.
 183BD2BYD Precision Manufacture Company Ltd.
 00210Abyd:sign Corporation
 3051F8BYK-Gardner GmbH
+DCB4E8Byos
 0021EABystronic Laser AG
 E405F8Bytedance
 ACE87EBytemark Computer Consulting Ltd
@@ -5534,6 +5692,7 @@ E46CD1Calix Inc.
 142103Calix Inc.
 04BC9FCalix Inc.
 1074C5Calix Inc.
+1003CDCalix Inc.
 84D343Calix Inc.
 5CDB36Calix Inc.
 60DB98Calix Inc.
@@ -5544,6 +5703,7 @@ D0768FCalix Inc.
 44657FCalix Inc.
 EC4F82Calix Inc.
 88DA36Calix Inc.
+40E762Calix Inc.
 00025DCalix Networks
 001D85Call Direct Cellular Solutions
 000CF3CALL IMAGE SA
@@ -5637,6 +5797,7 @@ F48139CANON INC.
 F80D60CANON INC.
 D8492FCANON INC.
 888717CANON INC.
+A4F01FCANON INC.
 40F8DFCANON INC.
 74BFC0CANON INC.
 F4A997CANON INC.
@@ -5731,6 +5892,7 @@ A07332Cashmaster International Limited
 0016F3CAST Information Co., Ltd
 000EAFCASTEL
 000BFECASTEL Broadband Limited
+6C4EB0Castelion Corporation
 000044CASTELLE CORPORATION
 001CBCCastGrabber, LLC
 00802ECASTLE ROCK COMPUTING
@@ -5786,6 +5948,7 @@ D85D84CAx soft GmbH
 000575CDS-Electronics BV
 001ECCCDVI
 00071BCDVI Americas Ltd
+C8AFF0CDVI Wireless SpA
 5CCEADCDYNE Corporation
 002717CE Digital(Zhenjiang)Co.,Ltd
 6C6E07CE LINK LIMITED
@@ -5817,6 +5980,7 @@ DCDA4DCELESTICA INC.
 885A23CELESTICA INC.
 00E0ECCELESTICA INC.
 D849BFCELESTICA INC.
+64F64DCELESTICA INC.
 0C48C6CELESTICA INC.
 000169Celestix Networks Pte Ltd.
 001EC4Celio Corp
@@ -5955,7 +6119,8 @@ C02242Chauvet
 0C51F7CHAUVIN ARNOUX
 00A08ECheck Point Software Technologies
 001C7FCheck Point Software Technologies
-0012C1Check Point Software Technologies
+0C527FCheck Point Software Technologies Ltd.
+0012C1Check Point Software Technologies Ltd.
 003025CHECKOUT COMPUTER SYSTEMS, LTD
 00178DCheckpoint Systems, Inc.
 0026EACheerchip Electronic Technology (ShangHai) Co., Ltd.
@@ -5968,6 +6133,7 @@ C02242Chauvet
 80053ACHeKT Inc.
 000743Chelsio Communications
 001E70Chelton Limited
+00124FChemelex LLC
 6C9BC0Chemoptics Inc.
 3C7AC4Chemtronics
 001C45Chenbro Micom Co., Ltd.
@@ -6005,6 +6171,7 @@ C4E7AEChengdu Meross Technology Co., Ltd.
 E0EF02Chengdu Quanjing Intelligent Technology Co.,Ltd
 EC314AChengdu Quanjing Intelligent Technology Co.,Ltd
 3447D4Chengdu Quanjing Intelligent Technology Co.,Ltd
+ACD20CChengdu SingCore Technology Co.,Ltd.
 9C5440ChengDu TD Tech
 D0A0D6ChengDu TD Tech
 D464F7CHENGDU USEE DIGITAL TECHNOLOGY CO., LTD
@@ -6054,11 +6221,15 @@ A843A4China Dragon Technology Limited
 1C792DCHINA DRAGON TECHNOLOGY LIMITED
 3C3BADCHINA DRAGON TECHNOLOGY LIMITED
 C826E2CHINA DRAGON TECHNOLOGY LIMITED
+54AEBCCHINA DRAGON TECHNOLOGY LIMITED
+0CCDD0CHINA DRAGON TECHNOLOGY LIMITED
 A46B40CHINA DRAGON TECHNOLOGY LIMITED
+A8A092CHINA DRAGON TECHNOLOGY LIMITED
 409CA7CHINA DRAGON TECHNOLOGY LIMITED
 C0E350CHINA DRAGON TECHNOLOGY LIMITED
 A84FA4CHINA DRAGON TECHNOLOGY LIMITED
 B0AC82CHINA DRAGON TECHNOLOGY LIMITED
+907ADACHINA DRAGON TECHNOLOGY LIMITED
 C88AD8CHINA DRAGON TECHNOLOGY LIMITED
 5C8AAECHINA DRAGON TECHNOLOGY LIMITED
 BC2B02CHINA DRAGON TECHNOLOGY LIMITED
@@ -6112,27 +6283,27 @@ FC2E19China Mobile Group Device Co.,Ltd.
 EC9B2DChina Mobile Group Device Co.,Ltd.
 DC152DChina Mobile Group Device Co.,Ltd.
 A41B34China Mobile Group Device Co.,Ltd.
-103D3EChina Mobile Group Device Co.,Ltd.
 90473CChina Mobile Group Device Co.,Ltd.
 74ADB7China Mobile Group Device Co.,Ltd.
 78C313China Mobile Group Device Co.,Ltd.
 CC5CDEChina Mobile Group Device Co.,Ltd.
 0C14D2China Mobile Group Device Co.,Ltd.
 781053China Mobile Group Device Co.,Ltd.
+7089CCChina Mobile Group Device Co.,Ltd.
+B4D0A9China Mobile Group Device Co.,Ltd.
+AC710CChina Mobile Group Device Co.,Ltd.
+103D3EChina Mobile Group Device Co.,Ltd.
+044F7AChina Mobile Group Device Co.,Ltd.
+247BA4China Mobile Group Device Co.,Ltd.
 94BE09China Mobile Group Device Co.,Ltd.
 BC9E2CChina Mobile Group Device Co.,Ltd.
 C80C53China Mobile Group Device Co.,Ltd.
 544DD4China Mobile Group Device Co.,Ltd.
 C02D2EChina Mobile Group Device Co.,Ltd.
-7089CCChina Mobile Group Device Co.,Ltd.
-B4D0A9China Mobile Group Device Co.,Ltd.
-AC710CChina Mobile Group Device Co.,Ltd.
-044F7AChina Mobile Group Device Co.,Ltd.
-247BA4China Mobile Group Device Co.,Ltd.
+FCE6C6China Mobile Group Device Co.,Ltd.
 34AC11China Mobile Group Device Co.,Ltd.
 90F3B8China Mobile Group Device Co.,Ltd.
 987DDDChina Mobile Group Device Co.,Ltd.
-8C53D2China Mobile Group Device Co.,Ltd.
 24615AChina Mobile Group Device Co.,Ltd.
 ACF70DChina Mobile Group Device Co.,Ltd.
 B86061China Mobile Group Device Co.,Ltd.
@@ -6143,23 +6314,25 @@ C875F4China Mobile Group Device Co.,Ltd.
 E83A4BChina Mobile Group Device Co.,Ltd.
 3CE3E7China Mobile Group Device Co.,Ltd.
 187CAAChina Mobile Group Device Co.,Ltd.
+8C53D2China Mobile Group Device Co.,Ltd.
 8453CDChina Mobile Group Device Co.,Ltd.
 1479F3China Mobile Group Device Co.,Ltd.
 3C574FChina Mobile Group Device Co.,Ltd.
-00CFC0China Mobile Group Device Co.,Ltd.
-4062EAChina Mobile Group Device Co.,Ltd.
-E0456DChina Mobile Group Device Co.,Ltd.
-508CF5China Mobile Group Device Co.,Ltd.
 E4C0CCChina Mobile Group Device Co.,Ltd.
 C01692China Mobile Group Device Co.,Ltd.
 00E22CChina Mobile Group Device Co.,Ltd.
 E0E0C2China Mobile Group Device Co.,Ltd.
 782E56China Mobile Group Device Co.,Ltd.
+00CFC0China Mobile Group Device Co.,Ltd.
+4062EAChina Mobile Group Device Co.,Ltd.
+E0456DChina Mobile Group Device Co.,Ltd.
+508CF5China Mobile Group Device Co.,Ltd.
 5C75C6China Mobile Group Device Co.,Ltd.
 241281China Mobile Group Device Co.,Ltd.
 64C582China Mobile Group Device Co.,Ltd.
 448EECChina Mobile Group Device Co.,Ltd.
 50CF56China Mobile Group Device Co.,Ltd.
+BCD9FBChina Mobile Group Device Co.,Ltd.
 2C3341China Mobile IOT Company Limited
 8427B6China Mobile IOT Company Limited
 50558DChina Mobile IOT Company Limited
@@ -6226,7 +6399,10 @@ D03E7DCHIPSEA TECHNOLOGIES (SHENZHEN) CORP.
 0C9541CHIPSEA TECHNOLOGIES (SHENZHEN) CORP.
 C8B21ECHIPSEA TECHNOLOGIES (SHENZHEN) CORP.
 F02C59Chipsea Technologies (Shenzhen) Crop.
+F8F2F0Chipsea Technologies (Shenzhen) Crop.
+6065F4Chipsea Technologies (Shenzhen) Crop.
 98F67AChipsea Technologies (Shenzhen) Crop.
+7866A5Chipsea Technologies (Shenzhen) Crop.
 381EC7Chipsea Technologies(Shenzhen) Corp.
 E8CBEDChipsea Technologies(Shenzhen) Corp.
 F42B7DChipsguide technology CO.,LTD.
@@ -6236,6 +6412,7 @@ F42B7DChipsguide technology CO.,LTD.
 58C935Chiun Mai Communication System, Inc
 CC9F7AChiun Mai Communication System, Inc
 E897B8Chiun Mai Communication System, Inc
+24AFCCChiun Mai Communication System, Inc
 98C854Chiun Mai Communication System, Inc
 5C579EChiun Mai Communication System, Inc
 40B3CDChiyoda Electronics Co.,Ltd.
@@ -6243,6 +6420,7 @@ E897B8Chiun Mai Communication System, Inc
 000EE3Chiyu Technology Co.,Ltd
 B0869EChloride S.r.L
 A4F522CHOFU SEISAKUSHO CO.,LTD
+90AF59Choice IT Global LLC
 000C9CChongho information & communications
 40C4D6ChongQing Camyu Technology Development Co.,Ltd.
 2411D0Chongqing Ehs Science and Technology Development Co.,Ltd.
@@ -6339,6 +6517,8 @@ C4836FCiena Corporation
 ECB0E1Ciena Corporation
 2C39C1Ciena Corporation
 5C07A4Ciena Corporation
+785FA4Ciena Corporation
+9811CCCiena Corporation
 E09B27Ciena Corporation
 848DCECiena Corporation
 E46D7FCiena Corporation
@@ -6365,6 +6545,7 @@ EC84B4CIG SHANGHAI CO LTD
 00C896CIG SHANGHAI CO LTD
 5C18DDCIG SHANGHAI CO LTD
 0C8247CIG SHANGHAI CO LTD
+3426E6CIG SHANGHAI CO LTD
 30600ACIG SHANGHAI CO LTD
 FCB2D6CIG SHANGHAI CO LTD
 CCCF83CIG SHANGHAI CO LTD
@@ -6421,6 +6602,7 @@ CC03D9Cisco Meraki
 A8469DCisco Meraki
 6CDEA9Cisco Meraki
 780F81Cisco Meraki
+08711CCisco Meraki
 E0D3B4Cisco Meraki
 BCB1D3Cisco Meraki
 ACD31DCisco Meraki
@@ -6438,14 +6620,16 @@ BCDB09Cisco Meraki
 3456FECisco Meraki
 B80756Cisco Meraki
 ACBDF7Cisco Meraki
+086A0BCisco Meraki
+C86340Cisco Meraki
 C4D666Cisco Meraki
 149F43Cisco Meraki
 E455A8Cisco Meraki
 8C8881Cisco Meraki
+E0CBBCCisco Meraki
 683A1ECisco Meraki
 F89E28Cisco Meraki
 388479Cisco Meraki
-E0CBBCCisco Meraki
 BC3340Cisco Meraki
 00841ECisco Meraki
 0C7BC8Cisco Meraki
@@ -6457,6 +6641,7 @@ AC17C8Cisco Meraki
 981888Cisco Meraki
 4CC8A1Cisco Meraki
 D853ADCisco Meraki
+A05911Cisco Meraki
 001868Cisco SPVTG
 185933Cisco SPVTG
 445829Cisco SPVTG
@@ -6726,6 +6911,8 @@ ECBB78Cisco Systems, Inc
 68D972Cisco Systems, Inc
 448DD5Cisco Systems, Inc
 DCD83BCisco Systems, Inc
+2C658DCisco Systems, Inc
+D02C39Cisco Systems, Inc
 CCD342Cisco Systems, Inc
 18F935Cisco Systems, Inc
 588B1CCisco Systems, Inc
@@ -6955,6 +7142,9 @@ A0C7D2Cisco Systems, Inc
 34588ACisco Systems, Inc
 E08C3CCisco Systems, Inc
 840C6DCisco Systems, Inc
+ECA78DCisco Systems, Inc
+FC7288Cisco Systems, Inc
+98F04CCisco Systems, Inc
 D0DC2CCisco Systems, Inc
 087B87Cisco Systems, Inc
 C47EE0Cisco Systems, Inc
@@ -7184,6 +7374,11 @@ F814DDCisco Systems, Inc
 2CF814Cisco Systems, Inc
 B8FE90Cisco Systems, Inc
 34C3FDCisco Systems, Inc
+247121Cisco Systems, Inc
+BCABF5Cisco Systems, Inc
+B8C924Cisco Systems, Inc
+908A80Cisco Systems, Inc
+7C62E7Cisco Systems, Inc
 BC8D1FCisco Systems, Inc
 68E59ECisco Systems, Inc
 348818Cisco Systems, Inc
@@ -7442,6 +7637,13 @@ E02A66Cisco Systems, Inc
 E489CACisco Systems, Inc
 14BC68Cisco Systems, Inc
 78119DCisco Systems, Inc
+C834E5Cisco Systems, Inc
+806132Cisco Systems, Inc
+60A954Cisco Systems, Inc
+441A5CCisco Systems, Inc
+7C8767Cisco Systems, Inc
+141923Cisco Systems, Inc
+847CEECisco Systems, Inc
 F8C650Cisco Systems, Inc
 60B9C0Cisco Systems, Inc
 8C9461Cisco Systems, Inc
@@ -7694,6 +7896,9 @@ F868FFCisco Systems, Inc
 A49700Cisco Systems, Inc
 E0D491Cisco Systems, Inc
 A4DCD5Cisco Systems, Inc
+C878F7Cisco Systems, Inc
+14E22ACisco Systems, Inc
+507164Cisco Systems, Inc
 001D7ECisco-Linksys, LLC
 0014BFCisco-Linksys, LLC
 48F8B3Cisco-Linksys, LLC
@@ -7734,6 +7939,8 @@ EC75EDCitrix Systems, Inc.
 001435CityCom Corp.
 BCEA2BCityCom GmbH
 708B78citygrow technology co., ltd
+883BDCCJ intelligent technology LTD.
+841DE8CJ intelligent technology LTD.
 008D4ECJSC NII STT
 30B346CJSC NORSI-TRANS
 587521CJSC RTSoft
@@ -7793,6 +8000,7 @@ DCE994CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
 DC567BCLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
 4845E6CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
 F44EB4CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
+4C4B1FCLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
 2C9C58CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
 E86538CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
 FCB0DECLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
@@ -7805,6 +8013,7 @@ C41375CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
 145A41CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
 08A136CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
 502E66CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
+2CAE46CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
 3C0AF3CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
 58CDC9CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
 2C9811CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
@@ -7828,6 +8037,7 @@ CC6B1ECLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
 1C98C1CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
 C8A3E8CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
 F4289DCLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
+58509FCLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
 4C82A9CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
 10B1DFCLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
 AC50DECLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
@@ -7835,6 +8045,8 @@ AC50DECLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
 EC9161CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
 849E56CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
 44F79FCLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
+08F97ECLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
+3CEFA5CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
 9CCBF7CLOUD STAR TECHNOLOGY CO., LTD.
 1071F9Cloud Telecomputers, LLC
 FC19D0Cloud Vision Networks Technology Co.,Ltd.
@@ -8574,22 +8786,6 @@ A8FCB7Consolidated Resource Imaging
 002485ConteXtream Ltd
 0036F8Conti Temic microelectronic GmbH
 D8182BConti Temic Microelectronic GmbH
-184CAECONTINENTAL
-24085DContinental Aftermarket & Services GmbH
-9C28BFContinental Automotive Czech Republic s.r.o.
-ACC358Continental Automotive Czech Republic s.r.o.
-408256Continental Automotive GmbH
-B4DDD0Continental Automotive Hungary Kft
-408556Continental Automotive Romania SLR
-E41226Continental Automotive Romania SLR
-D494FBContinental Automotive Systems Inc.
-20AD56Continental Automotive Systems Inc.
-0054AFContinental Automotive Systems Inc.
-001EAEContinental Automotive Systems Inc.
-D400CAContinental Automotive Systems S.R.L
-442063Continental Automotive Technologies GmbH
-E41E33Continental Automotive Technologies GmbH
-8C5F48Continental Intelligent Transportation Systems LLC
 BCA68DContinetal Automotive Systems Sibiu
 0002BBContinuous Computing Corp
 000F56Continuum Photonics Inc
@@ -8806,6 +9002,7 @@ E89E13CRESYN
 001809CRESYN
 3053C1CRESYN
 7445CECRESYN
+BC2B1ECresyn Co., Ltd.
 00163FCReTE SYSTEMS Inc.
 000A89Creval Systems, Inc.
 0014F7CREVIS Co., LTD
@@ -8909,6 +9106,7 @@ CC3B58Curiouser Products Inc
 000C4DCurtiss-Wright Controls Avionics & Electronics
 409CA6Curvalux
 001607Curves International Inc.
+1CFF3FCust2mate
 001CDCCustom Computer Services, Inc.
 000EE2Custom Engineering
 0001CECustom Micro Products, Ltd.
@@ -9010,6 +9208,7 @@ F07D68D-Link Corporation
 001B11D-Link Corporation
 00265AD-Link Corporation
 8876B9D-Link Corporation
+34029CD-Link Corporation
 00195BD-Link Corporation
 000F3DD-Link Corporation
 3C3332D-Link Corporation
@@ -9431,6 +9630,8 @@ B4E9B8Dell Inc.
 D4A2CDDell Inc.
 FC4CEADell Inc.
 4CC5D9Dell Inc.
+0464FADell Inc.
+94105ADell Inc.
 208810Dell Inc.
 F48E38Dell Inc.
 28F10EDell Inc.
@@ -9486,6 +9687,7 @@ F40270Dell Inc.
 2800AFDell Inc.
 C4D6D3Dell Inc.
 8CE9FFDell Inc.
+2453EDDell Inc.
 4CD717Dell Inc.
 44A842Dell Inc.
 4C7625Dell Inc.
@@ -9864,6 +10066,7 @@ ECBBAEDigivoice Tecnologia em Eletronica Ltda
 00253Bdin Dietmar Nocker Facilitymanagement GmbH
 BCC168DinBox Sverige AB
 001DEBDINEC International
+F891F5Dingtian Technologies Co., Ltd
 7897C3DINGXIN INFORMATION TECHNOLOGY CO.,LTD
 F8A03DDinstar Technologies Co., Ltd.
 00E0EFDIONEX
@@ -9974,11 +10177,13 @@ C88A83Dongguan HuaHong Electronics Co.,Ltd
 3CC786DONGGUAN HUARONG COMMUNICATION TECHNOLOGIES CO.,LTD.
 3409C9Dongguan Huayin Electronic Technology Co., Ltd.
 F4B62DDongguan Huayin Electronic Technology Co., Ltd.
+A4C139Dongguan Huayin Electronic Technology Co., Ltd.
 189C2CDongguan Huayin Electronic Technology Co., Ltd.
 D43AE9DONGGUAN ipt INDUSTRIAL CO., LTD
 88B8D0Dongguan Koppo Electronic Co.,Ltd
 7CC95EDongguan Liesheng Electronic Co., Ltd.
 24B231Dongguan Liesheng Electronic Co., Ltd.
+9CCD42Dongguan Liesheng Electronic Co., Ltd.
 E00871Dongguan Liesheng Electronic Co., Ltd.
 E06781Dongguan Liesheng Electronic Co., Ltd.
 201B88Dongguan Liesheng Electronic Co., Ltd.
@@ -10064,6 +10269,7 @@ A45FB9DreamBig Semiconductor, Inc.
 00AEF7Dreame Technology (Suzhou) Limited
 70C932Dreame Technology (Suzhou) Limited
 0018CEDreamtech Co., Ltd
+A4431BDreamtek Intelligent Technology Co., Ltd
 00212Edresden-elektronik
 0030D5DResearch GmbH
 00155CDresser Wayne
@@ -10073,6 +10279,7 @@ B8B2F7DRIMAES INC.
 5009E5Drimsys,Inc
 0016B2DriveCam Inc
 844076Drivenets
+A4C0B0Drivenets
 6836B5DriveScale, Inc.
 AC6123Drivven, Inc.
 BC54F9Drogoo Technology Co., Ltd.
@@ -10125,10 +10332,13 @@ D09380Ducere Technologies Pvt. Ltd.
 0026AFDuelco A/S
 001935DUERR DENTAL AG
 0080ABDUKANE NETWORK INTEGRATION
+24C35DDuke University
+44658ADukelana LLC
 14C089DUNE HD LTD
 E41FE9Dunkermotoren GmbH
 00063ADura Micro, Inc.
 F05DC8Duracell Powermat
+90C952Durin, Inc
 105CBFDuroByte Inc
 10AEA5Duskrise inc.
 00170DDust Networks Inc.
@@ -10161,6 +10371,7 @@ F05D89Dycon Limited
 0024AADycor Technologies Ltd.
 001F5EDyna Technology Co.,Ltd.
 00D089DYNACOLOR, INC.
+4CEFE1Dynacon Sp. z o.o.
 00137DDynalab, Inc.
 50ADD5Dynalec Corporation
 00174DDYNAMIC NETWORK FACTORY, INC.
@@ -10247,6 +10458,7 @@ A87116Earda Technologies co Ltd
 485C2CEarda Technologies co Ltd
 F09602Earda Technologies co Ltd
 B02EBAEarda Technologies co Ltd
+8842D0Earda Technologies co Ltd
 68B9C2Earda Technologies co Ltd
 B8C6AAEarda Technologies co Ltd
 B447F5Earda Technologies co Ltd
@@ -10377,6 +10589,7 @@ A827C8Edgecore Americas Networking Corporation
 D4DC85Edgecore Americas Networking Corporation
 0CE0FCEdgecore Americas Networking Corporation
 94EF97Edgecore Americas Networking Corporation
+4445BAEdgecore Americas Networking Corporation
 7072CFEdgeCore Networks
 D077CEEdgecore Networks Corporation
 F88EA1Edgecore Networks Corporation
@@ -10447,26 +10660,28 @@ E84E06EDUP INTERNATIONAL (HK) CO., LTD
 7C7EF9eero inc.
 48B424eero inc.
 A499A8eero inc.
+089BF1eero inc.
+303422eero inc.
 9C57BCeero inc.
 8470D7eero inc.
 787689eero inc.
-28EC22eero inc.
-C8C6FEeero inc.
-089BF1eero inc.
-303422eero inc.
 605F8Deero inc.
 6CAEF6eero inc.
+28EC22eero inc.
+C8C6FEeero inc.
 30292Beero inc.
+C8CC21eero inc.
+DCB43Feero inc.
+60577Deero inc.
+ACEC85eero inc.
+0C1C1Aeero inc.
+64C269eero inc.
 74B6B6eero inc.
 30578Eeero inc.
 F021E0eero inc.
 4C0143eero inc.
 F8BBBFeero inc.
 00AB48eero inc.
-60577Deero inc.
-ACEC85eero inc.
-0C1C1Aeero inc.
-64C269eero inc.
 7093C1eero inc.
 64DAEDeero inc.
 7C5E98eero inc.
@@ -10478,6 +10693,8 @@ B4B9E6eero inc.
 203A0Ceero inc.
 94CDFDeero inc.
 D06827eero inc.
+50613Feero inc.
+80AF9Feero inc.
 F0B661eero inc.
 34BC5Eeero inc.
 D0CBDDeero inc.
@@ -10488,25 +10705,29 @@ D0CBDDeero inc.
 FC3FA6eero inc.
 786829eero inc.
 D0167Ceero inc.
-48DD0Ceero inc.
+2C2FF4eero inc.
+0CC763eero inc.
 3C5CF1eero inc.
 F8BC0Eeero inc.
 C4F174eero inc.
+649714eero inc.
 40475Eeero inc.
 20E6DFeero inc.
 5027A9eero inc.
 D88ED4eero inc.
-649714eero inc.
-20BECDeero inc.
-C8B82Feero inc.
 1422DBeero inc.
 189088eero inc.
+48DD0Ceero inc.
 E8D3EBeero inc.
 C06F98eero inc.
+20BECDeero inc.
+C8B82Feero inc.
 A46B1Feero inc.
 64D9C2eero inc.
 40497Ceero inc.
 B0F1AEeero inc.
+B8328Feero inc.
+EC30DDeero inc.
 C4A816eero inc.
 684A76eero inc.
 EC7427eero inc.
@@ -10518,19 +10739,21 @@ B42046eero inc.
 C03653eero inc.
 D405DEeero inc.
 9C0B05eero inc.
+7C49CFeero inc.
+242D6Ceero inc.
+303A4Aeero inc.
+DC69B5eero inc.
 5CA5BCeero inc.
 A8B088eero inc.
 886746eero inc.
 24F3E3eero inc.
 E4197Feero inc.
 FC3D73eero inc.
-7C49CFeero inc.
-242D6Ceero inc.
-303A4Aeero inc.
-DC69B5eero inc.
 84D9E0eero inc.
 AC393Deero inc.
+2C2BDBeero inc.
 00E0ADEES TECHNOLOGY, LTD.
+845B0CeFAB P.S.A.
 683F1EEFFECT Photonics B.V.
 0020EAEFFICIENT NETWORKS, INC.
 C08170Effigis GeoSolutions
@@ -10615,6 +10838,7 @@ D4A38BELE(GROUP)CO.,LTD
 BC5C4CELECOM CO.,LTD.
 00089CElecs Industry Co., Ltd.
 1836FCElecsys International Corporation
+804863Electralsys Networks
 0C2A69electric imp, incorporated
 0019BCELECTRO CHANCE SRL
 000158Electro Industries/Gauge Tech
@@ -10770,6 +10994,8 @@ B462ADElysia Germany GmbH
 E46447EM Microelectronic
 C049BDEM Microelectronic
 08736FEM Microelectronic
+5C33B1EM Microelectronic
+F06D93EM Microelectronic
 602B58EM Microelectronic
 109D9CEM Microelectronic
 906560EM Microelectronic
@@ -10807,6 +11033,8 @@ C0D063EM Microelectronic
 F46ED6EM Microelectronic
 406918EM Microelectronic
 F4FBF5EM Microelectronic
+E0315DEM Microelectronic
+B09501EM Microelectronic
 684724EM Microelectronic
 C8F225EM Microelectronic
 58C356EM Microelectronic
@@ -10816,6 +11044,8 @@ C8F225EM Microelectronic
 946C04EM Microelectronic
 F80584EM Microelectronic
 2CDCC1EM Microelectronic
+FC963EEM Microelectronic
+FCCF9FEM Microelectronic
 000892EM Solutions
 000AC3eM Technics Co., Ltd.
 BCB22BEM-Tech
@@ -10873,7 +11103,7 @@ E05597Emergent Vision Technologies Inc.
 0080D9EMK Elektronik GmbH & Co. KG
 00078FEmkay Innovative Products
 2CF203EMKO ELEKTRONIK SAN VE TIC AS
-5CBF03Emoco Labs Ab
+5CBF03EMOCO
 001C90Empacket Corporation
 0002D7EMPEG Ltd
 0005E0Empirix Corp.
@@ -10992,6 +11222,7 @@ AC6F4FEnspert Inc
 0009B8Entise Systems
 0003E6Entone, Inc.
 002253Entorian Technologies
+F81037ENTOUCH Controls
 00252CEntourage Systems, Inc.
 0003B5Entra Technology Co.
 00E0B6Entrada Networks
@@ -11028,6 +11259,7 @@ A4466BEOC Technology
 70EEA3Eoptolink Technology Inc. Ltd,
 00C0DCEOS TECHNOLOGIES, INC.
 BCE09DEoslink
+449BC6EOSS s.r.l.
 FC2325EosTek (Shenzhen) Co., Ltd.
 00119CEP&T Energy
 EC63E5ePBoard Design LLC
@@ -11115,6 +11347,7 @@ F43C96Ericsson AB
 3407FBEricsson AB
 A4A1C2Ericsson AB
 AC3351Ericsson AB
+18F7F6Ericsson AB
 008037Ericsson Group
 0001ECEricsson Group
 0020AAEricsson Television Limited
@@ -11197,6 +11430,17 @@ FC012CEspressif Inc.
 58E6C5Espressif Inc.
 E08CFEEspressif Inc.
 8856A6Espressif Inc.
+B0A604Espressif Inc.
+704BCAEspressif Inc.
+8CFD49Espressif Inc.
+F85B1BEspressif Inc.
+441BF6Espressif Inc.
+14C19FEspressif Inc.
+8C94DFEspressif Inc.
+288485Espressif Inc.
+8C8C29Espressif Inc.
+1C8F57Espressif Inc.
+10BDA3Espressif Inc.
 A0A3B3Espressif Inc.
 34987AEspressif Inc.
 083A8DEspressif Inc.
@@ -11245,6 +11489,8 @@ D4E9F4Espressif Inc.
 1CDBD4Espressif Inc.
 D885ACEspressif Inc.
 A4F00FEspressif Inc.
+E072A1Espressif Inc.
+ACA704Espressif Inc.
 FCB467Espressif Inc.
 D8BC38Espressif Inc.
 404CCAEspressif Inc.
@@ -11295,6 +11541,10 @@ E80690Espressif Inc.
 007007Espressif Inc.
 E8F60AEspressif Inc.
 1CC3ABEspressif Inc.
+F42DC9Espressif Inc.
+B0CBD8Espressif Inc.
+A0F262Espressif Inc.
+E83DC1Espressif Inc.
 7C7398Espressif Inc.
 6CB456Espressif Inc.
 3030F9Espressif Inc.
@@ -11356,6 +11606,16 @@ ECE334Espressif Inc.
 68FE71Espressif Inc.
 20E7C8Espressif Inc.
 2805A5Espressif Inc.
+ACEBE6Espressif Inc.
+3C0F02Espressif Inc.
+3076F5Espressif Inc.
+3844BEEspressif Inc.
+F0161DEspressif Inc.
+04B247Espressif Inc.
+B4BFE9Espressif Inc.
+88F155Espressif Inc.
+AC276EEspressif Inc.
+146393Espressif Inc.
 744DBDEspressif Inc.
 DCDA0CEspressif Inc.
 24DCC3Espressif Inc.
@@ -11418,6 +11678,11 @@ D0CF13Espressif Inc.
 48F6EEEspressif Inc.
 089272Espressif Inc.
 907069Espressif Inc.
+489D31Espressif Inc.
+209BA9Espressif Inc.
+A4CB8FEspressif Inc.
+680947Espressif Inc.
+70AF09Espressif Inc.
 008014ESPRIT SYSTEMS
 00019EESS Technology, Inc.
 F0EC39Essec
@@ -11459,8 +11724,7 @@ ECAB3EESSYS
 70169FEtherCAT Technology Group
 00A0EAETHERCOM CORP.
 0018A9Ethernet Direct Corporation
-00151EETHERNET Powerlink Standarization Group (EPSG)
-00111EETHERNET Powerlink Standarization Group (EPSG)
+14AEE0ETHERNEXION NETWORKS PTE. LTD.
 001F42Etherstack plc
 000A2BEtherstuff
 6C05D5Ethertronics Inc
@@ -11514,6 +11778,7 @@ FC1FC0EURECAM
 A4BE61EutroVision System, Inc.
 080057Evans & Sutherland
 94857AEvantage Industries Corp
+A86ACBEVAR
 7CBAC0EVBox BV
 000C6CEve Systems GmbH
 0015F4Eventide
@@ -11621,6 +11886,7 @@ B42D56Extreme Networks Headquarters
 887E25Extreme Networks Headquarters
 001977Extreme Networks Headquarters
 BC34D6Extreme Networks Headquarters
+B81E0BExtreme Networks Headquarters
 000130Extreme Networks Headquarters
 FC0A81Extreme Networks Headquarters
 489BD5Extreme Networks Headquarters
@@ -11673,6 +11939,10 @@ F4CE48Extreme Networks Headquarters
 44E4E6Extreme Networks Headquarters
 40B215Extreme Networks Headquarters
 D8E016Extreme Networks Headquarters
+E41613Extreme Networks Headquarters
+1C984BExtreme Networks Headquarters
+248185Extreme Networks Headquarters
+00B81DExtreme Networks Headquarters
 1849F8Extreme Networks Headquarters
 D88466Extreme Networks Headquarters
 000496Extreme Networks Headquarters
@@ -11695,6 +11965,7 @@ D802C0Extreme Networks Headquarters
 602D74Extreme Networks Headquarters
 403F43Extreme Networks Headquarters
 30F856Extreme Networks Headquarters
+0089C9Extreme Networks Headquarters
 000EE1ExtremeSpeed Inc.
 0013A6Extricom Ltd
 0005A6Extron Electronics
@@ -11714,6 +11985,13 @@ D802C0Extreme Networks Headquarters
 C83168eZEX corporation
 000EF1EZQUEST INC.
 0016A4Ezurio Ltd
+0025CAEzurio, LLC
+B0FB15Ezurio, LLC
+ECC07AEzurio, LLC
+C0EE40Ezurio, LLC
+E8CBF5Ezurio, LLC
+D8031AEzurio, LLC
+18C293Ezurio, LLC
 001CBDEzze Mobile Tech., Inc.
 000551F & S Elektronik Systeme GmbH
 002353F E T Elettronica snc
@@ -11748,6 +12026,7 @@ F43D80FAG Industrial Services GmbH
 000BCBFagor Automation , S. Coop
 2C3A28Fagor Electrónica
 70DEF9FAI WAH INTERNATIONAL (HONG KONG) LIMITED
+24A5FFFairbanks Scales
 C0A0C7FAIRFIELD INDUSTRIES
 00165FFairmount Automation
 84CFBFFairphone
@@ -11755,7 +12034,6 @@ C0A0C7FAIRFIELD INDUSTRIES
 0080CBFALCO DATA PRODUCTS
 001792Falcom Wireless Comunications Gmbh
 000D77FalconStor Software
-0009D8Fält Communications AB
 0019B5Famar Fueguina S.A.
 78FC14Family Zone Cyber Safety Ltd
 002274FamilyPhone AB
@@ -11883,6 +12161,8 @@ A8FECEFiberhome Telecommunication Technologies Co.,LTD
 286DDAFiberhome Telecommunication Technologies Co.,LTD
 A0E06DFiberhome Telecommunication Technologies Co.,LTD
 903CDAFiberhome Telecommunication Technologies Co.,LTD
+BCAA82Fiberhome Telecommunication Technologies Co.,LTD
+6878A8Fiberhome Telecommunication Technologies Co.,LTD
 7CFCFDFiberhome Telecommunication Technologies Co.,LTD
 9070D3Fiberhome Telecommunication Technologies Co.,LTD
 6C48A6Fiberhome Telecommunication Technologies Co.,LTD
@@ -11912,6 +12192,9 @@ FCF647Fiberhome Telecommunication Technologies Co.,LTD
 70D51EFiberhome Telecommunication Technologies Co.,LTD
 88659FFiberhome Telecommunication Technologies Co.,LTD
 A844AAFiberhome Telecommunication Technologies Co.,LTD
+D49F29Fiberhome Telecommunication Technologies Co.,LTD
+A8CEE7Fiberhome Telecommunication Technologies Co.,LTD
+E096E8Fiberhome Telecommunication Technologies Co.,LTD
 5C7DF3Fiberhome Telecommunication Technologies Co.,LTD
 68DECEFiberhome Telecommunication Technologies Co.,LTD
 087458Fiberhome Telecommunication Technologies Co.,LTD
@@ -11961,6 +12244,7 @@ E0604AFiberhome Telecommunication Technologies Co.,LTD
 88B2ABFiberhome Telecommunication Technologies Co.,LTD
 24E3A4Fiberhome Telecommunication Technologies Co.,LTD
 58239BFiberhome Telecommunication Technologies Co.,LTD
+0C7474Fiberhome Telecommunication Technologies Co.,LTD
 B0104BFiberhome Telecommunication Technologies Co.,LTD
 98EDCAFiberhome Telecommunication Technologies Co.,LTD
 90837EFiberhome Telecommunication Technologies Co.,LTD
@@ -12007,6 +12291,8 @@ D40068Fiberhome Telecommunication Technologies Co.,LTD
 540A77Fiberhome Telecommunication Technologies Co.,LTD
 28172EFiberhome Telecommunication Technologies Co.,LTD
 B8DFD4Fiberhome Telecommunication Technologies Co.,LTD
+C8741BFiberhome Telecommunication Technologies Co.,LTD
+BC8D2DFiberhome Telecommunication Technologies Co.,LTD
 3C1060Fiberhome Telecommunication Technologies Co.,LTD
 24B7DAFiberhome Telecommunication Technologies Co.,LTD
 0846C7Fiberhome Telecommunication Technologies Co.,LTD
@@ -12052,6 +12338,7 @@ C8E07AFiberhome Telecommunication Technologies Co.,LTD
 D069FFFiberhome Telecommunication Technologies Co.,LTD
 C096A4Fiberhome Telecommunication Technologies Co.,LTD
 E00ECEFiberhome Telecommunication Technologies Co.,LTD
+0422E7Fiberhome Telecommunication Technologies Co.,LTD
 0010CFFIBERLANE COMMUNICATIONS
 008051FIBERMUX
 0040C6FIBERNET RESEARCH, INC.
@@ -12062,6 +12349,7 @@ E00ECEFiberhome Telecommunication Technologies Co.,LTD
 C4CB54Fibocom Auto Inc.
 64F6BBFibocom Wireless Inc.
 B436A9Fibocom Wireless Inc.
+7CB40FFibocom Wireless Inc.
 88231FFibocom Wireless Inc.
 B05A44Fibocom Wireless Inc.
 54DBA2Fibrain
@@ -12072,8 +12360,8 @@ A433D1Fibrlink Communications Co.,Ltd.
 14C35EFibRSol Global Network Limited
 1C012DFicer Technology
 0050B5FICHET SECURITE ELECTRONIQUE
+A0F7C3Ficosa Automotive SLU
 6829DCFicosa Electronics S.L.U.
-A0F7C3FICOSA ELECTRONICS SLU
 00927DFicosa Internationa(Taicang) C0.,Ltd.
 443C88FICOSA MAROC INTERNATIONAL
 90610CFida International (S) Pte Ltd
@@ -12094,6 +12382,7 @@ CC7498Filmetrics Inc.
 604A77Finder SpA
 000507Fine Appliance Corp.
 A8EE6DFine Point-High Export
+7CCF4EFINE TRIUMPH TECHNOLOGY CORP.,LTD.
 00C05FFINE-PAL COMPANY LIMITED
 00207EFINECOM CO., LTD.
 00071AFinedigital Inc.
@@ -12251,8 +12540,10 @@ A4E88DFN-LINK TECHNOLOGY Ltd.
 28F52BFN-LINK TECHNOLOGY Ltd.
 448763FN-LINK TECHNOLOGY Ltd.
 C00925FN-LINK TECHNOLOGY Ltd.
+B08CB3FN-LINK TECHNOLOGY Ltd.
 E85C5FFN-LINK TECHNOLOGY Ltd.
 58E4EBFN-LINK TECHNOLOGY Ltd.
+503123FN-LINK TECHNOLOGY Ltd.
 0006FCFnet Co., Ltd.
 00138EFOAB Elektronik AB
 00E03DFOCON ELECTRONIC SYSTEMS A/S
@@ -12355,7 +12646,6 @@ D09C30Foster Electric Company, Limited
 CC4AE1fourtec -Fourier Technologies
 0060EBFOURTHTRACK SYSTEMS
 00D086FOVEON, INC.
-0CE709Fox Crypto B.V.
 000D04Foxboro Eckardt Development GmbH
 001558FOXCONN
 00016CFOXCONN
@@ -12375,6 +12665,7 @@ E456CAFractal BMS
 00114BFrancotyp-Postalia GmbH
 000B69Franke Finland Oy
 001227Franklin Electric Co., Inc.
+50FBFFFranklin Technology Inc.
 00110BFranklin Technology Systems
 00C0B8FRASER'S HILL LTD.
 3C11B2Fraunhofer FIT
@@ -12396,6 +12687,7 @@ DC00B0FREEBOX SAS
 F4CAE5FREEBOX SAS
 2066CFFREEBOX SAS
 342792FREEBOX SAS
+8C6914FREEBOX SAS
 70FC8FFREEBOX SAS
 0024D4FREEBOX SAS
 E49E12FREEBOX SAS
@@ -12422,6 +12714,8 @@ B04C05Fresenius Medical Care Deutschland GmbH
 000B61Friedrich Lütze GmbH & Co. KG
 24B6B8FRIEM SPA
 0CC574FRITZ! Technology GmbH
+007AA4FRITZ! Technology GmbH
+0C882FFrog Innovations Limited
 A8367Afrogblue TECHNOLOGY GmbH
 001EF3From2
 0011DDFROMUS TEC. Co., Ltd.
@@ -12509,7 +12803,6 @@ B43564Fujian Tian Cheng Electron Science & Technical Development Co.,Ltd.
 000EFDFUJINON CORPORATION
 E446B0Fujitsu Client Computing Limited
 00A0CAFUJITSU DENSO LTD.
-0002DCFujitsu General Limited
 000D57Fujitsu I-Network Systems Limited.
 CCB3F8FUJITSU ISOTEC LIMITED
 34FE9EFujitsu Limited
@@ -12568,8 +12861,10 @@ B4E85Cfünfeinhalb Funksysteme GmbH
 B45B86Funshion Online Technologies Co.,Ltd
 9CDBCBFunshion Online Technologies Co.,Ltd
 2876CDFunshion Online Technologies Co.,Ltd
-58FCE3Funshion Online Technologies Co.,Ltd
+64CE0CFunshion Online Technologies Co.,Ltd
 40BC68Funshion Online Technologies Co.,Ltd
+58FCE3Funshion Online Technologies Co.,Ltd
+906FA7Funshion Online Technologies Co.,Ltd
 1889A0Funshion Online Technologies Co.,Ltd
 10907DFunshion Online Technologies Co.,Ltd
 8431A8Funshion Online Technologies Co.,Ltd
@@ -12689,6 +12984,7 @@ E04824Garmin International
 F09919Garmin International
 10C6FCGarmin International
 A02884Garmin International
+64A337Garmin International
 148F21Garmin International
 603C68Garmin International
 0030E2GARNET SYSTEMS CO., LTD.
@@ -12737,6 +13033,7 @@ A0681CGD Midea Air-Conditioning Equipment Co.,Ltd.
 847C9BGD Midea Air-Conditioning Equipment Co.,Ltd.
 F0C9D1GD Midea Air-Conditioning Equipment Co.,Ltd.
 54926AGD Midea Air-Conditioning Equipment Co.,Ltd.
+A42A26GD Midea Air-Conditioning Equipment Co.,Ltd.
 B096EAGD Midea Air-Conditioning Equipment Co.,Ltd.
 D8341CGD Midea Air-Conditioning Equipment Co.,Ltd.
 04D6F4GD Midea Air-Conditioning Equipment Co.,Ltd.
@@ -12755,6 +13052,8 @@ D48457GD Midea Air-Conditioning Equipment Co.,Ltd.
 D8D261GD Midea Air-Conditioning Equipment Co.,Ltd.
 803E4FGD Midea Air-Conditioning Equipment Co.,Ltd.
 1841C3GD Midea Air-Conditioning Equipment Co.,Ltd.
+382FB0GD Midea Air-Conditioning Equipment Co.,Ltd.
+E8F094GD Midea Air-Conditioning Equipment Co.,Ltd.
 242730GD Midea Air-Conditioning Equipment Co.,Ltd.
 3C2093GD Midea Air-Conditioning Equipment Co.,Ltd.
 345BBBGD Midea Air-Conditioning Equipment Co.,Ltd.
@@ -12781,6 +13080,7 @@ A0F217GE Medical System(China) Co., Ltd.
 DC15DBGe Ruili Intelligent Technology ( Beijing ) Co., Ltd.
 001755GE Security
 001F44GE Transportation Systems
+50E0F9GE Vernova
 ECD040GEA Farm Technologies GmbH
 D4C3B0Gearlinx Pty Ltd
 E48501Geberit International AG
@@ -12832,10 +13132,10 @@ AC4723Genelec
 00C064General Datacomm LLC
 080062General Dynamics
 00E0AFGENERAL DYNAMICS INFORMATION SYSTEMS
+002689General Dynamics Land Systems Inc.
 0025D4General Dynamics Mission Systems
 00148CGeneral Dynamics Mission Systems
 00A021General Dynamics Mission Systems
-002689General Dynamics Robotic Systems
 0014B4General Dynamics United Kingdom Ltd
 D828C9General Electric Consumer and Industrial
 080019GENERAL ELECTRIC CORPORATION
@@ -12844,6 +13144,7 @@ D89341General Electric Global Research
 90837AGeneral Electric Water & Process Technologies
 902083General Engine Management Systems Ltd.
 000BD9General Hydrogen
+0002DCGENERAL Inc.
 001B41General Infinity Co.,Ltd.
 0026BCGeneral Jack Technology Ltd.
 002066GENERAL MAGIC, INC.
@@ -12985,13 +13286,14 @@ E0051CGigaDevice Semiconductor Inc.
 50CEE3Gigafirm.co.LTD
 00607EGIGALABS, INC.
 0001BEGigalink Co., Ltd.
+88C093GIGAMEDIA
 001939Gigamips
 001DACGigamon Systems LLC
 0008FCGigaphoton Inc.
-002104Gigaset Communications GmbH
 7C2F80Gigaset Communications GmbH
-589EC6Gigaset Communications GmbH
 14B370Gigaset Digital Technology (Shenzhen) Co., Ltd.
+002104Gigaset Technologies GmbH
+589EC6Gigaset Technologies GmbH
 C034B4Gigastone Corporation
 002596GIGAVISION srl
 540496Gigawave LTD
@@ -13107,6 +13409,7 @@ B0EC8FGMX SAS
 745C4BGN Audio A/S
 CC896CGN Hearing A/S
 A8A913GN Hearing A/S
+9842ABGN Hearing A/S
 001D82GN Netcom A/S
 001317GN Netcom A/S
 501AA5GN Netcom A/S
@@ -13131,11 +13434,13 @@ D40A9EGO development GmbH
 40336CGodrej & Boyce Mfg. co. ltd
 B0C387GOEFER, Inc.
 000681Goepel Electronic GmbH
+3456EDGoerdyna Group Co., Ltd
 0816D5GOERTEK INC.
 F03EBFGOGORO TAIWAN LIMITED
 B8B7DBGOIP Global Services Pvt. Ltd.
 A8E207GOIP Global Services Pvt. Ltd.
 989DB2GOIP Global Services Pvt. Ltd.
+7461D1GOIP Global Services Pvt. Ltd.
 F897B0Goki Pty Ltd
 7070FCGOLD&WATER INDUSTRIAL LIMITED
 10A24EGOLD3LINK ELECTRONICS CO., LTD
@@ -13178,6 +13483,8 @@ FC4116Google, Inc.
 546749Google, Inc.
 10D9A2Google, Inc.
 04C8B0Google, Inc.
+B8F4A4Google, Inc.
+E01ADFGoogle, Inc.
 944560Google, Inc.
 5C337BGoogle, Inc.
 B87BD4Google, Inc.
@@ -13219,6 +13526,7 @@ B423A2Google, Inc.
 04006EGoogle, Inc.
 649D38Google, Inc.
 B0D5FBGoogle, Inc.
+40A44AGoogle, Inc.
 BCDF58Google, Inc.
 0CC413Google, Inc.
 1C53F9Google, Inc.
@@ -13232,6 +13540,7 @@ B8DB38Google, Inc.
 088BC8Google, Inc.
 B41324Google, Inc.
 343916Google, Inc.
+ACE6BBGoogle, Inc.
 3C3174Google, Inc.
 AC3EB1Google, Inc.
 3886F7Google, Inc.
@@ -13299,6 +13608,7 @@ A05AA4Grand Products Nevada, Inc.
 001135Grandeye Ltd
 48DC9DGrandprint(Beijing) Technology Co., LTD.
 EC74D7Grandstream Networks Inc
+144CFFGrandstream Networks, Inc.
 C074ADGrandstream Networks, Inc.
 000B82Grandstream Networks, Inc.
 0013FEGRANDTEC ELECTRONIC CORP.
@@ -13362,15 +13672,18 @@ E492E7Gridlink Tech. Co.,Ltd.
 001980Gridpoint Systems
 0024B7GridPoint, Inc.
 084027Gridstore Inc.
+20CBCCGridVisibility, inc.
 5CCCA0Gridwiz Inc.
 001292Griffin Technology
 00165BGrip Audio
 0010D3GRIPS ELECTRONIC GMBH
+543976Groq
 3843E5Grotech Inc
 00C04AGROUP 2000 AG
 0015BDGroup 4 Technology Ltd
 000762Group Sense Limited
 4CF19EGroupe Atlantic
+001AB9Groupe Carrus
 44A466GROUPE LDLC
 3CD1C9Groupe SEB
 000DCDGROUPE TXCOM
@@ -13380,6 +13693,13 @@ B06BB3GRT
 4C8B55Grupo Digicon
 00214EGS Yuasa Power Supply Ltd.
 001170GSC SRL
+D098B1GScoolink Microelectronics (Beijing) Co.,LTD
+440FB4GSD VIET NAM TECHNOLOGY COMPANY LIMITED
+0C0FD8GSD VIET NAM TECHNOLOGY COMPANY LIMITED
+7C013EGSD VIET NAM TECHNOLOGY COMPANY LIMITED
+8C2AC1GSD VIET NAM TECHNOLOGY COMPANY LIMITED
+389B73GSD VIET NAM TECHNOLOGY COMPANY LIMITED
+907ABEGSD VIET NAM TECHNOLOGY COMPANY LIMITED
 888964GSI Electronics Inc.
 001750GSI Group, MicroE Systems
 00267BGSI Helmholtzzentrum für Schwerionenforschung GmbH
@@ -13391,6 +13711,7 @@ F0A764GST Co., Ltd.
 001437GSTeletech Co.,Ltd.
 00250Egt german telematics gmbh
 001A1CGT&T Engineering Pte Ltd
+3487FBGTAI
 000634GTE Airfone Inc.
 004065GTE SPACENET
 0020EEGTECH CORPORATION
@@ -13474,6 +13795,7 @@ E8BBA8GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 B0AA36GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 F8C4FAGUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 50056EGUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+1016B1GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 48C461GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 748669GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 40B607GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
@@ -13510,6 +13832,7 @@ A43D78GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 AC45CAGUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 74E147GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 4C92D2GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+042405GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 6885A4GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 A8C56FGUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 AC7A94GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
@@ -13575,6 +13898,8 @@ C09F05GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 D020DDGUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 9CAA5DGUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 38E563GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+F80C9AGUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+541FCDGUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 483543GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 F8C4AEGUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 5843ABGUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
@@ -13633,8 +13958,10 @@ F8B599Guangzhou CHNAVS Digital Technology Co.,Ltd
 44C233Guangzhou Comet Technology Development Co.Ltd
 9800C1GuangZhou CREATOR Technology Co.,Ltd.(CHINA)
 B4DC09Guangzhou Dawei Communication Co.,Ltd
+78D366GuangZhou Dazzleview Intelligent Technology Co., Ltd
 181171Guangzhou Doctorpai Education & Technology Co.,Ltd
 00268BGuangzhou Escene Computer Technology Limited
+10D8CCGuangzhou FiiO Electronics Technology CO., LTD
 000EB4GUANGZHOU GAOKE COMMUNICATIONS TECHNOLOGY CO.LTD.
 001D81GUANGZHOU GATEWAY ELECTRONICS CO., LTD
 E86EADGuangzhou Gizwits loT Technology Co.,Ltd
@@ -13690,7 +14017,7 @@ BCFAB8Guangzhou Shiyuan Electronic Technology Company Limited
 00214DGuangzhou Skytone Transmission Technology Com. Ltd.
 9C9811Guangzhou Sunrise Electronics Development Co., Ltd
 000774GuangZhou Thinker Technology Co. Ltd.
-98A942Guangzhou Tozed Kangwei Intelligent Technology Co., LTD
+54C1D3Guangzhou TR Intelligent Manufacturing Technology Co., Ltd
 001971Guangzhou Unicomp Technology Co.,Ltd
 70B64FGuangzhou V-SOLUTION Electronic Technology Co., Ltd.
 1CEF03Guangzhou V-SOLUTION Electronic Technology Co., Ltd.
@@ -13698,8 +14025,9 @@ BCFAB8Guangzhou Shiyuan Electronic Technology Company Limited
 8014A8Guangzhou V-SOLUTION Electronic Technology Co., Ltd.
 4CD7C8Guangzhou V-Solution Telecommunication Technology Co.,Ltd.
 B46415Guangzhou V-Solution Telecommunication Technology Co.,Ltd.
-6C68A4Guangzhou V-Solution Telecommunication Technology Co.,Ltd.
 4C46D1Guangzhou V-Solution Telecommunication Technology Co.,Ltd.
+6C68A4Guangzhou V-Solution Telecommunication Technology Co.,Ltd.
+80F1A8Guangzhou V-Solution Telecommunication Technology Co.,Ltd.
 28070DGUANGZHOU WINSOUND INFORMATION TECHNOLOGY CO.,LTD.
 6819ACGuangzhou Xianyou Intelligent Technogoly CO., LTD
 B8AE1DGuangzhou Xingyi Electronic Technology Co.,Ltd
@@ -13844,15 +14172,16 @@ A4FB8DHangzhou Dunchong Technology Co.Ltd
 64F2FBHangzhou Ezviz Software Co.,Ltd.
 94EC13Hangzhou Ezviz Software Co.,Ltd.
 EC97E0Hangzhou Ezviz Software Co.,Ltd.
+F47018Hangzhou Ezviz Software Co.,Ltd.
 78C1AEHangzhou Ezviz Software Co.,Ltd.
 588FCFHangzhou Ezviz Software Co.,Ltd.
 78A6A0Hangzhou Ezviz Software Co.,Ltd.
 54D60DHangzhou Ezviz Software Co.,Ltd.
 20BBBCHangzhou Ezviz Software Co.,Ltd.
-64244DHangzhou Ezviz Software Co.,Ltd.
 0CA64CHangzhou Ezviz Software Co.,Ltd.
 34C6DDHangzhou Ezviz Software Co.,Ltd.
 AC1C26Hangzhou Ezviz Software Co.,Ltd.
+64244DHangzhou Ezviz Software Co.,Ltd.
 E43593Hangzhou GoTo technology Co.Ltd
 780F77HangZhou Gubei Electronics Technology Co.,Ltd
 34EA34HangZhou Gubei Electronics Technology Co.,Ltd
@@ -13909,6 +14238,8 @@ BCAD28Hangzhou Hikvision Digital Technology Co.,Ltd.
 80F5AEHangzhou Hikvision Digital Technology Co.,Ltd.
 A42902Hangzhou Hikvision Digital Technology Co.,Ltd.
 849459Hangzhou Hikvision Digital Technology Co.,Ltd.
+00BC99Hangzhou Hikvision Digital Technology Co.,Ltd.
+04EECDHangzhou Hikvision Digital Technology Co.,Ltd.
 188025Hangzhou Hikvision Digital Technology Co.,Ltd.
 08CC81Hangzhou Hikvision Digital Technology Co.,Ltd.
 A41437Hangzhou Hikvision Digital Technology Co.,Ltd.
@@ -13938,6 +14269,7 @@ E4D58BHangzhou Hikvision Digital Technology Co.,Ltd.
 C8A702Hangzhou Hikvision Digital Technology Co.,Ltd.
 A44BD9Hangzhou Hikvision Digital Technology Co.,Ltd.
 88DE39Hangzhou Hikvision Digital Technology Co.,Ltd.
+083BC1Hangzhou Hikvision Digital Technology Co.,Ltd.
 4C62DFHangzhou Hikvision Digital Technology Co.,Ltd.
 4419B6Hangzhou Hikvision Digital Technology Co.,Ltd.
 BC5E33Hangzhou Hikvision Digital Technology Co.,Ltd.
@@ -13948,6 +14280,7 @@ E8A0EDHangzhou Hikvision Digital Technology Co.,Ltd.
 340962Hangzhou Hikvision Digital Technology Co.,Ltd.
 A4A459Hangzhou Hikvision Digital Technology Co.,Ltd.
 80489FHangzhou Hikvision Digital Technology Co.,Ltd.
+8C22D2Hangzhou Hikvision Digital Technology Co.,Ltd.
 E0DF13Hangzhou Hikvision Digital Technology Co.,Ltd.
 DCD26AHangzhou Hikvision Digital Technology Co.,Ltd.
 50E538Hangzhou Hikvision Digital Technology Co.,Ltd.
@@ -13965,6 +14298,7 @@ B4A382Hangzhou Hikvision Digital Technology Co.,Ltd.
 906A94hangzhou huacheng network technology co., ltd
 A83162Hangzhou Huacheng Network Technology Co.,Ltd
 302450Hangzhou Huacheng Network Technology Co.,Ltd
+AC3DFAHangzhou Huacheng Network Technology Co.,Ltd
 1C4D89Hangzhou Huacheng Network Technology Co.,Ltd
 34C103Hangzhou Huamu Technology Co.,Ltd.
 B83B8FHangzhou Hylin IoT Techonology Co.,Ltd.
@@ -13976,9 +14310,11 @@ C0F636Hangzhou Kuaiyue Technologies, Ltd.
 FCE892Hangzhou Lancable Technology Co.,Ltd
 5C1923Hangzhou Lanly Technology Co., Ltd.
 A4C2ABHangzhou LEAD-IT Information & Technology Co.,Ltd
+B0D7DEHangzhou Linovision Co., Ltd.
 C4CD82Hangzhou Lowan Information Technology Co., Ltd.
 ECDFC9Hangzhou Microimage Software Co., Ltd
 A44C62Hangzhou Microimage Software Co., Ltd
+DC226FHangZhou Nano IC Technologies Co., Ltd
 B068B6Hangzhou OYE Technology Co. Ltd
 F8F09DHangzhou Prevail Communication Technology Co., Ltd
 3071B2Hangzhou Prevail Optoelectronic Equipment Co.,LTD.
@@ -14003,6 +14339,7 @@ B47356Hangzhou Treebear Networking Co., Ltd.
 58FD5DHangzhou Xinyun technology Co., Ltd.
 D848EEHangzhou Xueji Technology Co., Ltd.
 CCE236Hangzhou Yaguan Technology Co. LTD
+C0CF64Hangzhou Zenith Electron Co.,Ltd
 E061B2HANGZHOU ZENOINTEL TECHNOLOGY CO., LTD
 848319Hangzhou Zero Zero Technology Co., Ltd.
 AC3D75HANGZHOU ZHIWAY TECHNOLOGIES CO.,LTD.
@@ -14020,6 +14357,7 @@ EC316DHansgrohe
 0025E3Hanshinit Inc.
 087158HANSHOW TECHNOLOGY CO.,LTD.
 94FF34HANSHOW TECHNOLOGY CO.,LTD.
+1C7D51HANSHOW TECHNOLOGY CO.,LTD.
 6C1E90Hansol Technics Co., Ltd.
 001E04Hanson Research Corporation
 608C2BHanson Technology
@@ -14058,6 +14396,7 @@ A056B2Harman/Becker Automotive Systems GmbH
 384554Harman/Becker Automotive Systems GmbH
 F8E877Harman/Becker Automotive Systems GmbH
 2856C1Harman/Becker Automotive Systems GmbH
+FCF861Harman/Becker Automotive Systems GmbH
 00D0C1HARMONIC DATA SYSTEMS, LTD.
 0060CAHARMONIC SYSTEMS INCORPORATED
 000CA2Harmonic Video Network
@@ -14101,6 +14440,7 @@ ACE9AAHay Systems Ltd
 1871D5Hazens Automotive Electronics(SZ)Co.,Ltd.
 F0ACA4HBC-radiomatic
 0009CBHBrain
+080299HC Corporation
 000070HCL LIMITED
 DC2E6AHCT. Co., Ltd.
 000A31HCV Consulting
@@ -14187,6 +14527,7 @@ D4A5B4Hengji Jiaye (Hangzhou) Technology Co., Ltd
 0C2138Hengstler GmbH
 7452CEHengtai Intelligent Technology (Zhongshan) Co., LTD
 E437D7HENRI DEPAEPE S.A.S.
+0015EAHensoldt South Africa (Pty) Ltd
 001F77HEOL DESIGN
 000D9BHeraeus Electro-Nite International N.V.
 B40E96HERAN
@@ -14389,6 +14730,9 @@ A0A001Hewlett Packard Enterprise
 D8C7C8Hewlett Packard Enterprise
 94FF06Hewlett Packard Enterprise
 4CD546Hewlett Packard Enterprise
+30F65DHewlett Packard Enterprise
+F49AB1Hewlett Packard Enterprise
+6025EDHewlett Packard Enterprise
 D06726Hewlett Packard Enterprise
 EC9B8BHewlett Packard Enterprise
 089734Hewlett Packard Enterprise
@@ -14444,6 +14788,7 @@ F05C19Hewlett Packard Enterprise
 B8374BHewlett Packard Enterprise
 EC1B5FHewlett Packard Enterprise
 101D6EHewlett Packard Enterprise
+081814Hewlett Packard Enterprise
 ECEBB8Hewlett Packard Enterprise
 3817C3Hewlett Packard Enterprise
 040973Hewlett Packard Enterprise
@@ -14476,6 +14821,8 @@ A852D4Hewlett Packard Enterprise
 50E4E0Hewlett Packard Enterprise
 A8BA25Hewlett Packard Enterprise
 D41972Hewlett Packard Enterprise
+A43FA7Hewlett Packard Enterprise
+9051F8Hewlett Packard Enterprise
 E82689Hewlett Packard Enterprise
 B8D4E7Hewlett Packard Enterprise
 F860F0Hewlett Packard Enterprise
@@ -14510,6 +14857,7 @@ B837B2Hewlett Packard Enterprise
 389E4CHewlett Packard Enterprise
 88225BHewlett Packard Enterprise
 00C84EHewlett Packard Enterprise
+F4E1FCHewlett Packard Enterprise
 AC80D6Hexatronic AB
 641084HEXIUM Technical Development Co., Ltd.
 DC309CHeyrex Limited
@@ -14559,6 +14907,7 @@ F8C091Highgates Technology
 302952Hillstone Networks Inc
 001C54Hillstone Networks Inc
 0002A2Hilscher GmbH
+DC44B1Hilti Corporation
 70B265Hiltron s.r.l.
 00E0A1HIMA PAUL HILDEBRANDT GmbH Co. KG
 0006AEHimachal Futuristic Communications Ltd
@@ -14586,6 +14935,7 @@ ECE555Hirschmann Automation
 740BB0Hirschmann Automation and Control GmbH
 A0B086Hirschmann Automation and Control GmbH
 646038Hirschmann Automation and Control GmbH
+94FC87Hirschmann Automation and Control GmbH
 EC74BAHirschmann Automation and Control GmbH
 008063Hirschmann Automation and Control GmbH
 001A7CHirschmann Multimedia B.V.
@@ -14594,11 +14944,13 @@ B84DEEHisense broadband multimedia technology Co.,Ltd
 10394EHisense broadband multimedia technology Co.,Ltd
 FC5703Hisense broadband multimedia technology Co.,Ltd
 08674EHisense broadband multimedia technology Co.,Ltd
+142E43Hisense broadband multimedia technology Co.,Ltd
 AC4AFEHisense Broadband Multimedia Technology Co.,Ltd.
 A88200Hisense Electric Co.,Ltd
 5C3400Hisense Electric Co.,Ltd
 18300CHisense Electric Co.,Ltd
 38F554HISENSE ELECTRIC CO.,LTD
+1C6932Hisense Home Appliances Group Co., Ltd. Qingdao Branch
 001A95Hisense Mobile Communications Technoligy Co.,Ltd.
 E43BC9HISENSE VISUAL TECHNOLOGY CO.,LTD
 DC9A7DHISENSE VISUAL TECHNOLOGY CO.,LTD
@@ -14608,12 +14960,12 @@ CC1228HISENSE VISUAL TECHNOLOGY CO.,LTD
 E48A93HISENSE VISUAL TECHNOLOGY CO.,LTD
 903C1DHISENSE VISUAL TECHNOLOGY CO.,LTD
 88B863HISENSE VISUAL TECHNOLOGY CO.,LTD
+74D082HISENSE VISUAL TECHNOLOGY CO.,LTD
 A062FBHISENSE VISUAL TECHNOLOGY CO.,LTD
 000F3AHISHARP
 848A59Hisilicon Technologies Co., Ltd
 B4A82BHistar Digital Electronics Co., Ltd.
 0008B7HIT Incorporated
-18CC88Hitachi Air Conditioning Shimizu, Inc.
 000185Hitachi Aloka Medical, Ltd.
 0060E8HITACHI COMPUTER PRODUCTS (AMERICA), INC.
 D05FCEHitachi Data Systems
@@ -14622,6 +14974,7 @@ D05FCEHitachi Data Systems
 0002A3Hitachi Energy Switzerland Ltd
 000D97Hitachi Energy USA Inc.
 0080BCHITACHI ENGINEERING CO., LTD
+18CC88Hitachi Global Life Solutions, Inc.
 FC790BHitachi High Technologies America, Inc.
 0021BFHitachi High-Tech Control Systems Corporation
 DC175AHitachi High-Technologies Corporation
@@ -14927,12 +15280,14 @@ F46B8CHon Hai Precision Industry Co., Ltd.
 702084Hon Hai Precision Industry Co., Ltd.
 AC361BHon Hai Precision Industry Co.,LTD
 50EE32Hon Hai Precision Industry Co.,LTD
+346F3FHon Hai Precision Industry Co.,LTD
 444648Hon Hai Precision Industry Co.,LTD
 E8473AHon Hai Precision Industry Co.,LTD
 143A9AHon Hai Precision Industry Co.,LTD
 D42F4BHon Hai Precision Industry Co.,LTD
 9857D3HON HAI-CCPBG  PRECISION IND.CO.,LTD.
 001369Honda Electron Co., LED.
+5483BBHonda Motor Co., Ltd
 A4E9A3Honest Technology Co., Ltd
 00B069Honewell Oy
 A8BD1AHoney Bee (Hong Kong) Limited
@@ -14991,6 +15346,8 @@ C0280BHonor Device Co., Ltd.
 C89BADHonor Device Co., Ltd.
 9432C1Honor Device Co., Ltd.
 3486DAHonor Device Co., Ltd.
+A09A0CHonor Device Co., Ltd.
+C05724Honor Device Co., Ltd.
 EC5382Honor Device Co., Ltd.
 48BDA7Honor Device Co., Ltd.
 386504Honor Device Co., Ltd.
@@ -15002,6 +15359,9 @@ B8B1EAHonor Device Co., Ltd.
 70A703Honor Device Co., Ltd.
 CC6200Honor Device Co., Ltd.
 54EAE1Honor Device Co., Ltd.
+60D4AFHonor Device Co., Ltd.
+802AF6Honor Device Co., Ltd.
+00A307Honor Device Co., Ltd.
 60F04DHonor Device Co., Ltd.
 48C1EEHonor Device Co., Ltd.
 1461A4Honor Device Co., Ltd.
@@ -15016,6 +15376,7 @@ A06974Honor Device Co., Ltd.
 449046Honor Device Co., Ltd.
 0884FBHonor Device Co., Ltd.
 2844F4Honor Device Co., Ltd.
+B4B853Honor Device Co., Ltd.
 1CC992Honor Device Co., Ltd.
 68F0B5Honor Device Co., Ltd.
 D8AD49Honor Device Co., Ltd.
@@ -15047,6 +15408,7 @@ DCECE3HORYS TECHNOLOGIES LLC
 000BE4Hosiden Corporation
 D009F5Hosiden Corporation
 2C3EBFHOSIN Global Electronics Co., Ltd.
+8C37B7Hosin Global Electronics Co.,Ltd
 00E062HOST ENGINEERING
 041B94Host Mobility AB
 001061HOSTLINK CORP.
@@ -15079,6 +15441,8 @@ C85ACFHP Inc.
 48EA62HP Inc.
 F8EDFCHP Inc.
 4CCF7CHP Inc.
+F04EA4HP Inc.
+B4E25BHP Inc.
 B0227AHP Inc.
 3822E2HP Inc.
 E8D8D1HP Inc.
@@ -15108,6 +15472,8 @@ BCE92FHP Inc.
 001C2EHPN Supply Chain
 001FFEHPN Supply Chain
 001F28HPN Supply Chain
+50EE87HPRO-Control
+60A1FEHPRO-Control
 08F7E9HRCP Research and Development Partnership
 4CB4EAHRD (S) PTE., LTD.
 006031HRK SYSTEMS
@@ -15151,6 +15517,7 @@ B80018Htel
 001514Hu Zhou NAVA Networks&Electronics Ltd.
 14CAA0Hu&Co
 0011E2Hua Jung Components Co., Ltd.
+487696Huaan Zhongyun Co., Ltd.
 00257CHuachentel Technology Development Co., Ltd
 90D689Huahao Fangzhou Technology Co.,Ltd
 20FADBHuahao Kunpeng Technology (chengDu)  Co.,Ltd.
@@ -15273,9 +15640,12 @@ A44343Huawei Device Co., Ltd.
 4024D2Huawei Device Co., Ltd.
 1C0EAFHuawei Device Co., Ltd.
 3C7787Huawei Device Co., Ltd.
+78C884Huawei Device Co., Ltd.
 987EB5Huawei Device Co., Ltd.
 68951BHuawei Device Co., Ltd.
-78C884Huawei Device Co., Ltd.
+F45C42Huawei Device Co., Ltd.
+3C240AHuawei Device Co., Ltd.
+98045FHuawei Device Co., Ltd.
 E01F6AHuawei Device Co., Ltd.
 00566DHuawei Device Co., Ltd.
 90CC7AHuawei Device Co., Ltd.
@@ -15395,6 +15765,15 @@ F05C0EHuawei Device Co., Ltd.
 FC50D6Huawei Device Co., Ltd.
 605FAAHuawei Device Co., Ltd.
 247645Huawei Device Co., Ltd.
+6C7F49Huawei Device Co., Ltd.
+608306Huawei Device Co., Ltd.
+2462C6Huawei Device Co., Ltd.
+6C77F0Huawei Device Co., Ltd.
+64D562Huawei Device Co., Ltd.
+0894ECHuawei Device Co., Ltd.
+CCB775Huawei Device Co., Ltd.
+98A375Huawei Device Co., Ltd.
+B8752EHuawei Device Co., Ltd.
 74D6E5Huawei Device Co., Ltd.
 38396CHuawei Device Co., Ltd.
 5066E5Huawei Device Co., Ltd.
@@ -15499,9 +15878,15 @@ A44380Huawei Device Co., Ltd.
 689B43Huawei Device Co., Ltd.
 88DDB8Huawei Device Co., Ltd.
 4CDE48Huawei Device Co., Ltd.
+401CD4Huawei Device Co., Ltd.
 004B0DHuawei Device Co., Ltd.
 E04027Huawei Device Co., Ltd.
-401CD4Huawei Device Co., Ltd.
+A493ADHuawei Device Co., Ltd.
+2C3AB1Huawei Device Co., Ltd.
+E47319Huawei Device Co., Ltd.
+BCBCCAHuawei Device Co., Ltd.
+1449C5Huawei Device Co., Ltd.
+B454F2Huawei Device Co., Ltd.
 7C8931Huawei Device Co., Ltd.
 4825F3Huawei Device Co., Ltd.
 4831DBHuawei Device Co., Ltd.
@@ -15623,10 +16008,15 @@ C0DA5EHuawei Device Co., Ltd.
 2427E5Huawei Device Co., Ltd.
 E00DEEHuawei Device Co., Ltd.
 0CB5B3Huawei Device Co., Ltd.
-08B3D6Huawei Device Co., Ltd.
 782B60Huawei Device Co., Ltd.
 70B51AHuawei Device Co., Ltd.
 FC79DDHuawei Device Co., Ltd.
+08B3D6Huawei Device Co., Ltd.
+E0CDB8Huawei Device Co., Ltd.
+B4E5C5Huawei Device Co., Ltd.
+087C43Huawei Device Co., Ltd.
+545618Huawei Device Co., Ltd.
+F4A157Huawei Device Co., Ltd.
 D8B249Huawei Device Co., Ltd.
 C49D08Huawei Device Co., Ltd.
 686372Huawei Device Co., Ltd.
@@ -15741,9 +16131,16 @@ E4B107Huawei Device Co., Ltd.
 30E4D8Huawei Device Co., Ltd.
 B05A7BHuawei Device Co., Ltd.
 FC4CEFHuawei Device Co., Ltd.
-B00B22Huawei Device Co., Ltd.
 8C0572Huawei Device Co., Ltd.
+B00B22Huawei Device Co., Ltd.
 54DD21Huawei Device Co., Ltd.
+70EBA5Huawei Device Co., Ltd.
+10BC36Huawei Device Co., Ltd.
+B4F49BHuawei Device Co., Ltd.
+742435Huawei Device Co., Ltd.
+0C0ECBHuawei Device Co., Ltd.
+E880E7Huawei Device Co., Ltd.
+2C63A1Huawei Device Co., Ltd.
 0022A1Huawei Symantec Technologies Co.,Ltd.
 64F81CHuawei Technologies Co., Ltd.
 E00630HUAWEI TECHNOLOGIES CO.,LTD
@@ -15995,13 +16392,23 @@ B0D77EHUAWEI TECHNOLOGIES CO.,LTD
 3870F2HUAWEI TECHNOLOGIES CO.,LTD
 C4BB03HUAWEI TECHNOLOGIES CO.,LTD
 246078HUAWEI TECHNOLOGIES CO.,LTD
-4409C6HUAWEI TECHNOLOGIES CO.,LTD
 3CC5C7HUAWEI TECHNOLOGIES CO.,LTD
+4409C6HUAWEI TECHNOLOGIES CO.,LTD
 9C5766HUAWEI TECHNOLOGIES CO.,LTD
 5C0B3BHUAWEI TECHNOLOGIES CO.,LTD
 307A05HUAWEI TECHNOLOGIES CO.,LTD
 74FC77HUAWEI TECHNOLOGIES CO.,LTD
 2896B0HUAWEI TECHNOLOGIES CO.,LTD
+5093CEHUAWEI TECHNOLOGIES CO.,LTD
+683045HUAWEI TECHNOLOGIES CO.,LTD
+AC8AC7HUAWEI TECHNOLOGIES CO.,LTD
+18B657HUAWEI TECHNOLOGIES CO.,LTD
+64BC43HUAWEI TECHNOLOGIES CO.,LTD
+642F1CHUAWEI TECHNOLOGIES CO.,LTD
+E406E0HUAWEI TECHNOLOGIES CO.,LTD
+9C9774HUAWEI TECHNOLOGIES CO.,LTD
+C05BBDHUAWEI TECHNOLOGIES CO.,LTD
+440C4BHUAWEI TECHNOLOGIES CO.,LTD
 2831F8HUAWEI TECHNOLOGIES CO.,LTD
 C4AA99HUAWEI TECHNOLOGIES CO.,LTD
 BC1896HUAWEI TECHNOLOGIES CO.,LTD
@@ -16272,12 +16679,24 @@ DC9C99HUAWEI TECHNOLOGIES CO.,LTD
 7C692BHUAWEI TECHNOLOGIES CO.,LTD
 386EB2HUAWEI TECHNOLOGIES CO.,LTD
 7CC882HUAWEI TECHNOLOGIES CO.,LTD
+E87E1CHUAWEI TECHNOLOGIES CO.,LTD
 28353AHUAWEI TECHNOLOGIES CO.,LTD
 6030B3HUAWEI TECHNOLOGIES CO.,LTD
-E87E1CHUAWEI TECHNOLOGIES CO.,LTD
 14B903HUAWEI TECHNOLOGIES CO.,LTD
 500B23HUAWEI TECHNOLOGIES CO.,LTD
 C8B78AHUAWEI TECHNOLOGIES CO.,LTD
+402641HUAWEI TECHNOLOGIES CO.,LTD
+508D9EHUAWEI TECHNOLOGIES CO.,LTD
+545925HUAWEI TECHNOLOGIES CO.,LTD
+1C7055HUAWEI TECHNOLOGIES CO.,LTD
+28DCC3HUAWEI TECHNOLOGIES CO.,LTD
+1094EFHUAWEI TECHNOLOGIES CO.,LTD
+982AFDHUAWEI TECHNOLOGIES CO.,LTD
+10CD54HUAWEI TECHNOLOGIES CO.,LTD
+94A25DHUAWEI TECHNOLOGIES CO.,LTD
+B4C3D9HUAWEI TECHNOLOGIES CO.,LTD
+542618HUAWEI TECHNOLOGIES CO.,LTD
+949CBEHUAWEI TECHNOLOGIES CO.,LTD
 087073HUAWEI TECHNOLOGIES CO.,LTD
 989F1EHUAWEI TECHNOLOGIES CO.,LTD
 944788HUAWEI TECHNOLOGIES CO.,LTD
@@ -16511,8 +16930,15 @@ A87971HUAWEI TECHNOLOGIES CO.,LTD
 88DA04HUAWEI TECHNOLOGIES CO.,LTD
 04749EHUAWEI TECHNOLOGIES CO.,LTD
 986110HUAWEI TECHNOLOGIES CO.,LTD
-08FD58HUAWEI TECHNOLOGIES CO.,LTD
 B44389HUAWEI TECHNOLOGIES CO.,LTD
+08FD58HUAWEI TECHNOLOGIES CO.,LTD
+E48EC5HUAWEI TECHNOLOGIES CO.,LTD
+4CE65EHUAWEI TECHNOLOGIES CO.,LTD
+98535FHUAWEI TECHNOLOGIES CO.,LTD
+28D6ECHUAWEI TECHNOLOGIES CO.,LTD
+ACE011HUAWEI TECHNOLOGIES CO.,LTD
+5C4879HUAWEI TECHNOLOGIES CO.,LTD
+DC7EF5HUAWEI TECHNOLOGIES CO.,LTD
 D094CFHUAWEI TECHNOLOGIES CO.,LTD
 542259HUAWEI TECHNOLOGIES CO.,LTD
 041471HUAWEI TECHNOLOGIES CO.,LTD
@@ -16757,14 +17183,26 @@ B4394CHUAWEI TECHNOLOGIES CO.,LTD
 0455B8HUAWEI TECHNOLOGIES CO.,LTD
 1052BDHUAWEI TECHNOLOGIES CO.,LTD
 B81D1FHUAWEI TECHNOLOGIES CO.,LTD
+40EB21HUAWEI TECHNOLOGIES CO.,LTD
 A8C407HUAWEI TECHNOLOGIES CO.,LTD
 508D62HUAWEI TECHNOLOGIES CO.,LTD
 DC121DHUAWEI TECHNOLOGIES CO.,LTD
-40EB21HUAWEI TECHNOLOGIES CO.,LTD
 08D945HUAWEI TECHNOLOGIES CO.,LTD
 642E41HUAWEI TECHNOLOGIES CO.,LTD
 D4A254HUAWEI TECHNOLOGIES CO.,LTD
 EC8152HUAWEI TECHNOLOGIES CO.,LTD
+70E997HUAWEI TECHNOLOGIES CO.,LTD
+0816E3HUAWEI TECHNOLOGIES CO.,LTD
+9CDF8AHUAWEI TECHNOLOGIES CO.,LTD
+FCA27EHUAWEI TECHNOLOGIES CO.,LTD
+945AEAHUAWEI TECHNOLOGIES CO.,LTD
+748DAAHUAWEI TECHNOLOGIES CO.,LTD
+B43836HUAWEI TECHNOLOGIES CO.,LTD
+B042B7HUAWEI TECHNOLOGIES CO.,LTD
+209BDDHUAWEI TECHNOLOGIES CO.,LTD
+3C65D1HUAWEI TECHNOLOGIES CO.,LTD
+343DA9HUAWEI TECHNOLOGIES CO.,LTD
+C47BE3HUAWEI TECHNOLOGIES CO.,LTD
 00F952HUAWEI TECHNOLOGIES CO.,LTD
 2C15D9HUAWEI TECHNOLOGIES CO.,LTD
 D4A923HUAWEI TECHNOLOGIES CO.,LTD
@@ -17042,6 +17480,15 @@ D0C67FHUAWEI TECHNOLOGIES CO.,LTD
 98F3F6HUAWEI TECHNOLOGIES CO.,LTD
 C8E31DHUAWEI TECHNOLOGIES CO.,LTD
 50ACB9HUAWEI TECHNOLOGIES CO.,LTD
+C890F7HUAWEI TECHNOLOGIES CO.,LTD
+1088D3HUAWEI TECHNOLOGIES CO.,LTD
+145EBCHUAWEI TECHNOLOGIES CO.,LTD
+68B5E3HUAWEI TECHNOLOGIES CO.,LTD
+C46DD1HUAWEI TECHNOLOGIES CO.,LTD
+34A137HUAWEI TECHNOLOGIES CO.,LTD
+D0F815HUAWEI TECHNOLOGIES CO.,LTD
+FCEFD7HUAWEI TECHNOLOGIES CO.,LTD
+B49107HUAWEI TECHNOLOGIES CO.,LTD
 3C1A79Huayuan Technology CO.,LTD
 0022D3Hub-Tech
 6CAD3FHubbell Building Automation, Inc.
@@ -17314,6 +17761,7 @@ C4BA99I+ME Actia Informatik und Mikro-Elektronik GmbH
 18F87Ai3 International Inc.
 702D84i4C Innovations
 602103I4VINE, INC
+F88475i5LED, LLC
 0003B3IA Link Systems Co., Ltd.
 0009CFiAd GmbH
 2CC548IAdea Corporation
@@ -17415,6 +17863,7 @@ AC7A42iConnectivity
 B41CABICR, inc.
 001B13Icron Technologies Corporation
 00050AICS Spa
+248AB3ICTK Co., Ltd.
 00A09EICTV
 0003B1ICU Medical, Inc.
 001A01ICU Medical, Inc.
@@ -17435,7 +17884,7 @@ FCB7F0Idaho National Laboratory
 001606Ideal Industries
 0022ECIDEALBT TECHNOLOGY CORPORATION
 00037BIDEC IZUMI Corporation
-0024AEIDEMIA
+0024AEIDEMIA FRANCE SAS
 001BD0IDENTEC SOLUTIONS
 000A34Identicard Systems Incorporated
 0007BCIdentix Inc.
@@ -17572,6 +18021,9 @@ F43AFAIEEE Registration Authority
 380525IEEE Registration Authority
 DC76C3IEEE Registration Authority
 FCE498IEEE Registration Authority
+743336IEEE Registration Authority
+202BDAIEEE Registration Authority
+B4ABF3IEEE Registration Authority
 D015BBIEEE Registration Authority
 50482CIEEE Registration Authority
 BC3198IEEE Registration Authority
@@ -17646,6 +18098,8 @@ FCA2DFIEEE Registration Authority
 04585DIEEE Registration Authority
 B0CCCEIEEE Registration Authority
 006A5EIEEE Registration Authority
+0CBFB4IEEE Registration Authority
+587607IEEE Registration Authority
 68DA73IEEE Registration Authority
 705A6FIEEE Registration Authority
 4C74A7IEEE Registration Authority
@@ -17728,6 +18182,7 @@ F82BE6IEEE Registration Authority
 E0233BIEEE Registration Authority
 4808EBIEEE Registration Authority
 24A10DIEEE Registration Authority
+083C03IEEE Registration Authority
 C022F1IEEE Registration Authority
 88A6EFIEEE Registration Authority
 C86BBCIEEE Registration Authority
@@ -17804,6 +18259,8 @@ A459D3IEEE Registration Authority
 787835IEEE Registration Authority
 34B5F3IEEE Registration Authority
 F4979DIEEE Registration Authority
+807786IEEE Registration Authority
+34D7F5IEEE Registration Authority
 C85CE2IEEE Registration Authority
 5491AFIEEE Registration Authority
 90F421IEEE Registration Authority
@@ -17879,6 +18336,12 @@ F01204IEEE Registration Authority
 D4A0FBIEEE Registration Authority
 50FACBIEEE Registration Authority
 9CE450IEEE Registration Authority
+F040AFIEEE Registration Authority
+E8F6D7IEEE Registration Authority
+5C5C75IEEE Registration Authority
+58AD08IEEE Registration Authority
+60159FIEEE Registration Authority
+6C4780IEEE Registration Authority
 A0F509IEI Integration Corp.
 B4055DIEIT SYSTEMS Co., Ltd.
 9CC2C4IEIT SYSTEMS Co., Ltd.
@@ -18135,6 +18598,7 @@ C854A4Infinix mobility limited
 909DACInfinix mobility limited
 D02AAAInfinix mobility limited
 4CBB6FInfinix mobility limited
+28BBB2Infinix mobility limited
 00188AInfinova LLC
 EC6652Info Fiber Solutions Pvt Ltd
 DC2B66InfoBLOCK S.A. de C.V.
@@ -18209,6 +18673,7 @@ ACCF7BINGRAM MICRO SERVICES
 001707InGrid, Inc
 0023D2Inhand Electronics, Inc.
 EC6E79InHand Networks, INC.
+3C8129Inheco Industrial Heating and Cooling GmbH
 7CEF8AInhon International Ltd.
 A8E824INIM ELECTRONICS S.R.L.
 00256AinIT - Institut Industrial IT
@@ -18241,6 +18706,7 @@ A84397Innogrit Corporation
 842F75Innokas Group
 001044InnoLabs Corporation
 447C7FInnolight Technology Corporation
+44938DInnolux Corporation
 9CD48BInnolux Technology Europe BV
 88E90Finnomdlelab
 00056FInnomedia Technologies Pvt. Ltd.
@@ -18552,6 +19018,12 @@ C4FF99Intel Corporate
 E0D55DIntel Corporate
 E44AE0Intel Corporate
 A08527Intel Corporate
+FC9E53Intel Corporate
+D494A9Intel Corporate
+84083AIntel Corporate
+ECF33CIntel Corporate
+40ECBDIntel Corporate
+0CC98AIntel Corporate
 60452EIntel Corporate
 8CE9EEIntel Corporate
 4C496CIntel Corporate
@@ -18691,6 +19163,13 @@ E8BFE1Intel Corporate
 644A7DIntel Corporate
 AC3DCBIntel Corporate
 48E150Intel Corporate
+801316Intel Corporate
+2CEAFCIntel Corporate
+10A879Intel Corporate
+90B176Intel Corporate
+70A04BIntel Corporate
+0CAE39Intel Corporate
+04A6C8Intel Corporate
 E8C829Intel Corporate
 1091D1Intel Corporate
 6C4CE2Intel Corporate
@@ -18810,6 +19289,8 @@ ECED04Intel Corporate
 9C971BIntel Corporate
 F8CF52Intel Corporate
 5C6783Intel Corporate
+94270EIntel Corporate
+68F90FIntel Corporate
 F8FE5EIntel Corporate
 F020FFIntel Corporate
 C88A9AIntel Corporate
@@ -18950,6 +19431,13 @@ E0E258Intel Corporate
 381868Intel Corporate
 BCD22CIntel Corporate
 E03AAAIntel Corporate
+E0C932Intel Corporate
+543631Intel Corporate
+849265Intel Corporate
+90B021Intel Corporate
+9453FFIntel Corporate
+A8724DIntel Corporate
+6457BAIntel Corporate
 4C5F70Intel Corporate
 70D8C2Intel Corporate
 E46017Intel Corporate
@@ -19047,8 +19535,12 @@ AC45EFIntel Corporate
 C0A810Intel Corporate
 04F0EEIntel Corporate
 BCF105Intel Corporate
-4CA954Intel Corporate
 08EB21Intel Corporate
+4CA954Intel Corporate
+E07256Intel Corporate
+84D1C1Intel Corporate
+9047C2Intel Corporate
+4840D5Intel Corporate
 000CF1Intel Corporation
 00AA02Intel Corporation
 0002B3Intel Corporation
@@ -19247,6 +19739,7 @@ A85BD1INVENTEC CORPORATION
 001448Inventec Multimedia & Telecom Corporation
 5C2886Inventec(Chongqing) Corporation
 843A5BInventec(Chongqing) Corporation
+EC5B71Inventec(Chongqing) Corporation
 C47F51Inventek Systems
 00073AINVENTEL
 0016AEINVENTEL
@@ -19260,6 +19753,7 @@ C47F51Inventek Systems
 A463A1Inventus Power Eletronica do Brasil LTDA
 00D083INVERTEX, INC.
 00064CInvicta Networks, Inc.
+447CACInvictus-AV
 D4A499InView Technology Corporation
 B01B4BInvisible Fun Studio Limited
 00401DINVISIBLE SOFTWARE, INC.
@@ -19509,6 +20003,7 @@ D87E76ITEL MOBILE LIMITED
 24F306ITEL MOBILE LIMITED
 8022FAITEL MOBILE LIMITED
 94342FITEL MOBILE LIMITED
+DC5D31ITEL MOBILE LIMITED
 D019D3ITEL MOBILE LIMITED
 1C4C48ITEL MOBILE LIMITED
 EC7E91ITEL MOBILE LIMITED
@@ -19530,6 +20025,7 @@ A8D861ITEL MOBILE LIMITED
 000DFCITFOR Inc.
 001546ITG Worldwide Sdn Bhd
 101248ITG, Inc.
+E48F09ithinx GmbH
 000DD6ITI    LTD
 00132EITian Coporation
 5C2763Itibia Technologies
@@ -19539,6 +20035,7 @@ D8AE90Itibia Technologies
 B4E025ITLook
 00100CITO CO., LTD.
 009018ITO ELECTRIC INDUSTRY CO, LTD.
+DC74CEITOCHU Techno-Solutions Corporation
 002221ITOH DENKI CO,LTD.
 E09F2AIton Technology Corp.
 2C784CIton Technology Corp.
@@ -19771,6 +20268,7 @@ BC8529Jiangxi Remote lntelligence Technology Co.,Ltd
 F47257Jiangxi Remote lntelligence Technology Co.,Ltd
 9CDEF0Jiangxi Risound Electronics Co.,LTD
 081287Jiangxi Risound Electronics Co.,LTD
+185CA1Jiangxi Risound Electronics Co.,LTD
 605556Jiangxi Risound Electronics Co.,LTD
 74051DJiangxi Risound Electronics Co.,LTD
 840F2AJiangxi Risound Electronics Co.,LTD
@@ -19783,6 +20281,7 @@ D826FAJiangxi Zhentian Technology CO.,LTD
 50E971Jibo, Inc.
 3451AAJID GLOBAL
 409F87Jide Technology (Hong Kong) Limited
+186C60Jifeline Networks B.V.
 8C9351Jigowatts Inc.
 E06290Jinan Jovision Science & Technology Co., Ltd.
 D8B04CJinan USR IOT Technology Co., Ltd.
@@ -19933,6 +20432,8 @@ E45ECCJuniper Networks
 245D92Juniper Networks
 845234Juniper Networks
 C0DFEDJuniper Networks
+24DB94Juniper Networks
+8013BEJuniper Networks
 BC0FFEJuniper Networks
 D081C5Juniper Networks
 883037Juniper Networks
@@ -19977,6 +20478,7 @@ FC3342Juniper Networks
 588670Juniper Networks
 9C5A80Juniper Networks
 B41678Juniper Networks
+5C3977Juniper Networks
 C81337Juniper Networks
 0019E2Juniper Networks
 002688Juniper Networks
@@ -20008,6 +20510,8 @@ B4F95DJuniper Networks
 6C62FEJuniper Networks
 64AC2BJuniper Networks
 342865Juniper Networks
+F0D32BJuniper Networks
+B861FCJuniper Networks
 2C4C15Juniper Networks
 984925Juniper Networks
 407183Juniper Networks
@@ -20047,6 +20551,7 @@ A47F1BJuniper Networks
 C8D995Juniper Networks
 087671Juniper Networks
 E8A55AJuniper Networks
+E4793FJuniper Networks
 80433FJuniper Networks
 80711FJuniper Networks
 E8A245Juniper Networks
@@ -20176,6 +20681,7 @@ C40049Kamama
 002077KARDIOS SYSTEMS CORP.
 0008D1KAREL INC.
 001686Karl Storz Imaging
+9812B7KARST.AI
 000EF4Kasda Networks Inc
 80AD67Kasda Networks Inc
 0025C6kasercorp, ltd
@@ -20219,6 +20725,7 @@ B436E3KBVISION GROUP
 0008FAKEB Automation KG
 0060B5KEBA GmbH
 00141DKEBA Industrial Automation Germany GmbH
+28B67CKEBODA Intelligent TECHNOLOGY CO., LTD.
 00232EKedah Electronics Engineering, LLC
 F0F842KEEBOX, Inc.
 B81413Keen High Holding(HK) Ltd.
@@ -20280,7 +20787,6 @@ A49D49Ketra, Inc.
 0001FCKeyence Corporation
 0013A4KeyEye Communications
 000FC5KeyMed Ltd
-001ED1Keyprocessor B.V.
 001B6EKeysight Technologies, Inc.
 800902Keysight Technologies, Inc.
 001AC5Keysight Technologies, Inc.
@@ -20346,6 +20852,7 @@ DCD255Kinpo Electronics, Inc.
 002684KISAN SYSTEM
 0009B4KISAN TELECOM CO., LTD.
 2C922CKishu Giken Kogyou Company Ltd,.
+8C5D54Kisi
 002322KISS Teknical Solutions, Inc.
 000729Kistler Instrumente AG
 0023CEKITA DENSHI CORPORATION
@@ -20507,6 +21014,7 @@ AC1065KT Micro, Inc.
 0000EFKTI
 448C52KTIS CO., Ltd
 002614KTNF
+88F9C0KTS Kommunikationstechnik und Systeme GmbH
 44B382Kuang-chi Institute of Advanced Technology
 F0F56DKubota Corporation
 00C07EKUBOTA CORPORATION ELECTRONIC
@@ -20552,6 +21060,7 @@ CC501CKVH Industries, Inc.
 00C0DFKYE Systems Corp.
 E0913CKyeungin CNS Co., Ltd.
 BCC31BKygo Life A
+D4C1A8KYKXCOM Co., Ltd.
 001ECDKYLAND Technology Co. LTD
 78EC74Kyland-USA
 0015F1KYLINK Communications Corp.
@@ -20630,13 +21139,6 @@ E0589ELaerdal Medical
 001E85Lagotek Corporation
 000A54Laguna Hills, Inc.
 981C42LAIIER
-0025CALaird Connectivity
-B0FB15Laird Connectivity
-ECC07ALaird Connectivity
-C0EE40Laird Connectivity
-D8031ALaird Connectivity
-18C293Laird Connectivity
-E8CBF5Laird Connectivity
 00233DLaird Technologies
 00907DLake Communications
 001773Laketune Technologies Co. Ltd
@@ -20735,6 +21237,7 @@ E86A64LCFC(Hefei) Electronics Technology co., ltd
 902E16LCFC(Hefei) Electronics Technology co., ltd
 E88088LCFC(Hefei) Electronics Technology co., ltd
 745D22LCFC(Hefei) Electronics Technology co., ltd
+7CCF0FLCFC(Hefei) Electronics Technology co., ltd
 84A938LCFC(Hefei) Electronics Technology co., ltd
 5405DBLCFC(Hefei) Electronics Technology co., ltd
 C4EFBBLCFC(Hefei) Electronics Technology co., ltd
@@ -20749,6 +21252,7 @@ C4C6E6LCFC(Hefei) Electronics Technology co., ltd
 002B67LCFC(Hefei) Electronics Technology co., ltd
 C85309LCFC(Hefei) Electronics Technology co., ltd
 A82BDDLCFC(Hefei) Electronics Technology co., ltd
+E89744LCFC(Hefei) Electronics Technology co., ltd
 28D244LCFC(Hefei) Electronics Technology co., ltd
 507B9DLCFC(Hefei) Electronics Technology co., ltd
 88A4C2LCFC(Hefei) Electronics Technology co., ltd
@@ -20787,6 +21291,7 @@ A4978ALEAR
 14392FLEAR
 344E2FLEAR
 885046LEAR
+E8A927LEAR
 001A37Lear Corporation
 48C58DLear Corporation GmbH
 481693Lear Corporation GmbH
@@ -20933,6 +21438,8 @@ F801B4LG Electronics
 00E091LG Electronics
 6CD032LG Electronics
 58960ALG Electronics
+D0CDBFLG Electronics
+046F00LG Electronics
 14C913LG Electronics
 A823FELG Electronics
 30B4B8LG Electronics
@@ -21112,6 +21619,7 @@ FCCAC4LifeHealth, LLC
 D073D5LIFI LABS MANAGEMENT PTY LTD
 002707Lift Complex DS, JSC
 0017F5LIG NEOPTEK
+60464CLigent Tech,Inc
 38454CLight Labs, Inc.
 00016BLightChip, Inc.
 002524Lightcomm Technology Co., Ltd
@@ -21471,12 +21979,14 @@ D0699ELUMINEX Lighting Control Equipment
 0030C9LuxN, N
 985949LUXOTTICA GROUP S.P.A.
 80AA1CLuxottica Tristar (Dongguan) Optical Co.,Ltd
+384712Luxottica Tristar (Dongguan) Optical Co.,Ltd
 2C27E4Luxshare Precision Industry (Xuancheng) Co.,Ltd.
 607D09Luxshare Precision Industry Co., Ltd
 E89526Luxshare Precision Industry CO., LTD.
 108286Luxshare Precision Industry Co.,Ltd
 606D3CLuxshare Precision Industry Company Limited
 3C18A0Luxshare Precision Industry Company Limited
+74E6C7LUXSHARE-ICT Co., Ltd.
 002563Luxtera Inc
 C491CFLuxul
 A4134ELuxul
@@ -21498,6 +22008,7 @@ FC6C31LXinstruments GmbH
 ACAB8DLyngso Marine A/S
 C89E61Lyngsoe Systems LTd
 00E072LYNK
+94EAE7Lynq Technologies
 00058DLynx Photonic Networks, Inc.
 0019E5Lynx Studio Technology, Inc.
 0060FELYNX SYSTEM DEVELOPERS, INC.
@@ -21603,10 +22114,12 @@ B82410Magneti Marelli Slovakia s.r.o.
 00036AMainnet, Ltd.
 0023BFMainpine, Inc.
 006079Mainstream Data, Inc.
+6C76F7MainStreaming SpA
 00222Emaintech GmbH
 CCD81FMaipu Communication Technology Co.,Ltd.
 4CC844Maipu Communication Technology Co.,Ltd.
 C0493DMAITRISE TECHNOLOGIQUE
+54A0ABMaiyue Future Intelligent Technology (Suzhou) Co.,Ltd.
 3C7059MakerBot Industries
 000404Makino Milling Machine Co., Ltd.
 301A28Mako Networks Ltd
@@ -21618,6 +22131,7 @@ C0493DMAITRISE TECHNOLOGIQUE
 00065CMalachite Technologies, Inc.
 0CF019Malgn Technology Co., Ltd.
 0004ADMalibu Networks
+28ADEAMallow SAS
 70AD54Malvern Instruments Ltd
 001AA8Mamiya Digital Imaging Co., Ltd.
 0009BEMamiya-OP Co.,Ltd.
@@ -21641,6 +22155,7 @@ DC3C2EManufacturing System Insights, Inc.
 CC187BManzanita Systems, Inc.
 0050ACMAPLE COMPUTER CORPORATION
 00404BMAPLE COMPUTER SYSTEMS
+E46566Maple IoT Solutions LLC
 000A2EMAPLE NETWORKS CO., LTD
 0006D8Maple Optical Systems
 000449Mapletree Networks
@@ -21666,6 +22181,7 @@ C8AF40marco Systemanalyse und Entwicklung GmbH
 000032Marconi plc
 00A0ADMARCONI SPA
 00E0EEMAREL HF
+18FD00Marelli
 3C996DMarelli Europe s.p.a.
 000178MARGI Systems, Inc.
 001DE7Marine Sonic Technology, Ltd.
@@ -21748,6 +22264,7 @@ B4346CMATSUNICHI DIGITAL TECHNOLOGY (HONG KONG) LIMITED
 002178Matuschek Messtechnik GmbH
 0004ABMavenir Inc.
 000295MAVENIR IPA UK LTD
+A44A64Maverick Mobile LLC
 001D33Maverick Systems Inc.
 0009DDMavin Technology Inc.
 0003A3MAVIX, Ltd.
@@ -21827,6 +22344,7 @@ C43018MCS Logic Inc.
 1C86ADMCT CO., LTD.
 0014B2mCubelogics Corporation
 24C8D3McWane India Pvt Ltd
+742920MCX-PRO Kft.
 000D0CMDI Security Systems
 0012F6MDK CO.,LTD.
 000919MDS Gateways
@@ -21838,6 +22356,7 @@ C43018MCS Logic Inc.
 C4E510Mechatro, Inc.
 0012CAMechatronic Brick Aps
 282E30MECHATRONICS INNOVATION TECHNOLOGIES, S.L.U.
+B0435DMechoShade
 601D16Med-Eng Holdings ULC
 001B2DMed-Eng Systems Inc.
 705957Medallion Instrumentation Systems
@@ -21934,11 +22453,17 @@ D89424Mellanox Technologies, Inc.
 E8EBD3Mellanox Technologies, Inc.
 E89E49Mellanox Technologies, Inc.
 549B24Mellanox Technologies, Inc.
+04C5CDMellanox Technologies, Inc.
 900A84Mellanox Technologies, Inc.
 9C63C0Mellanox Technologies, Inc.
 5C2573Mellanox Technologies, Inc.
 B83FD2Mellanox Technologies, Inc.
 605E65Mellanox Technologies, Inc.
+0820E7Mellanox Technologies, Inc.
+2C9D90Mellanox Technologies, Inc.
+E46DABMellanox Technologies, Inc.
+A4A64EMellanox Technologies, Inc.
+2CB1B7Mellanox Technologies, Inc.
 1070FDMellanox Technologies, Inc.
 EC0D9AMellanox Technologies, Inc.
 F45214Mellanox Technologies, Inc.
@@ -21950,6 +22475,7 @@ F45214Mellanox Technologies, Inc.
 B0CF0EMellanox Technologies, Inc.
 204D52Mellanox Technologies, Inc.
 B45CB5Mellanox Technologies, Inc.
+F0BC50Mellanox Technologies, Inc.
 B8599FMellanox Technologies, Inc.
 3825F3Mellanox Technologies, Inc.
 90E317Mellanox Technologies, Inc.
@@ -21957,12 +22483,14 @@ CC40F3Mellanox Technologies, Inc.
 248A07Mellanox Technologies, Inc.
 E41D2DMellanox Technologies, Inc.
 98039BMellanox Technologies, Inc.
-B8E924Mellanox Technologies, Inc.
-2C5EABMellanox Technologies, Inc.
 B8CEF6Mellanox Technologies, Inc.
 C470BDMellanox Technologies, Inc.
+B8E924Mellanox Technologies, Inc.
+2C5EABMellanox Technologies, Inc.
 2801CDMellanox Technologies, Inc.
 8C913AMellanox Technologies, Inc.
+F0FB7FMellanox Technologies, Inc.
+643136Mellanox Technologies, Inc.
 1C34DAMellanox Technologies, Inc.
 506B4BMellanox Technologies, Inc.
 6433AAMellanox Technologies, Inc.
@@ -21971,6 +22499,7 @@ FC6A1CMellanox Technologies, Inc.
 A088C2Mellanox Technologies, Inc.
 E09D73Mellanox Technologies, Inc.
 5000E6Mellanox Technologies, Inc.
+70792DMellanox Technologies, Inc.
 A05E6BMELPER Co., Ltd.
 8497B8Memjet Inc.
 EC9327MEMMERT GmbH + Co. KG
@@ -21998,6 +22527,7 @@ D02516MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
 1C60DEMERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
 00209FMERCURY COMPUTER SYSTEMS, INC.
 284EE9mercury corperation
+E47C1Amercury corperation
 0C96CDMERCURY CORPORATION
 00271CMERCURY CORPORATION
 5046AEMERCURY CORPORATION
@@ -22293,6 +22823,8 @@ AC8EBDMicrosoft Corporation
 487B2FMicrosoft Corporation
 68F7D8Microsoft Corporation
 CC0DCBMicrosoft Corporation
+3833C5Microsoft Corporation
+9020D7Microsoft Corporation
 408E2CMicrosoft Corporation
 906AEBMicrosoft Corporation
 14CB65Microsoft Corporation
@@ -22305,6 +22837,8 @@ CC0DCBMicrosoft Corporation
 6C1544Microsoft Corporation
 CCB0B3Microsoft Corporation
 E8F673Microsoft Corporation
+7C6D12Microsoft Corporation
+B8BA66Microsoft Corporation
 CC60C8Microsoft Corporation
 A88C3EMicrosoft Corporation
 38563DMicrosoft Corporation
@@ -22332,6 +22866,7 @@ C4CB76Microsoft Corporation
 78862EMicrosoft Corporation
 74C412Microsoft Corporation
 587961Microsoft Corporation
+CC7645Microsoft Corporation
 3CFA06Microsoft Corporation
 686CE6Microsoft Corporation
 E8A72FMicrosoft Corporation
@@ -22346,6 +22881,7 @@ B84FD5Microsoft Corporation
 0025AEMicrosoft Corporation
 001DD8Microsoft Corporation
 84B1E2Microsoft Corporation
+70A8A5Microsoft Corporation
 38F23EMicrosoft Mobile Oy
 38256BMicrosoft Mobile Oy
 E498D1Microsoft Mobile Oy
@@ -22440,6 +22976,7 @@ E8EF05MIND TECH INTERNATIONAL LIMITED
 000F14Mindray Co., Ltd.
 380B26Mindray Co., Ltd.
 00A037Mindray DS USA, Inc.
+6C3E51Mindray North America
 0030DBMindready Solutions, Inc.
 000D5FMinds Inc
 00088AMinds@Work
@@ -22509,6 +23046,7 @@ A8F7D9Mist Systems, Inc.
 AC2316Mist Systems, Inc.
 709041Mist Systems, Inc.
 04CDC0Mist Systems, Inc.
+14A454Mist Systems, Inc.
 00E032MISYS FINANCIAL SYSTEMS, LTD.
 F0321AMita-Teknik A/S
 000D6BMita-Teknik A/S
@@ -22795,6 +23333,8 @@ B0C2C7Motorola Mobility LLC, a Lenovo Company
 00FADEMotorola Mobility LLC, a Lenovo Company
 C8D959Motorola Mobility LLC, a Lenovo Company
 C4493EMotorola Mobility LLC, a Lenovo Company
+A422B6Motorola Mobility LLC, a Lenovo Company
+185F27Motorola Mobility LLC, a Lenovo Company
 B04AB4Motorola Mobility LLC, a Lenovo Company
 40FAFEMotorola Mobility LLC, a Lenovo Company
 E426D5Motorola Mobility LLC, a Lenovo Company
@@ -22818,6 +23358,7 @@ E4907EMotorola Mobility LLC, a Lenovo Company
 F8EF5DMotorola Mobility LLC, a Lenovo Company
 083F21Motorola Mobility LLC, a Lenovo Company
 006201Motorola Mobility LLC, a Lenovo Company
+90B9F9Motorola Mobility LLC, a Lenovo Company
 6C976DMotorola Mobility LLC, a Lenovo Company
 6411A4Motorola Mobility LLC, a Lenovo Company
 D8CFBFMotorola Mobility LLC, a Lenovo Company
@@ -22841,6 +23382,9 @@ D45E89Motorola Mobility LLC, a Lenovo Company
 0C7DB0Motorola Mobility LLC, a Lenovo Company
 D45B51Motorola Mobility LLC, a Lenovo Company
 C8A1DCMotorola Mobility LLC, a Lenovo Company
+24D53BMotorola Mobility LLC, a Lenovo Company
+E0A366Motorola Mobility LLC, a Lenovo Company
+38EC07Motorola Mobility LLC, a Lenovo Company
 C89F0CMotorola Mobility LLC, a Lenovo Company
 ECED73Motorola Mobility LLC, a Lenovo Company
 68871CMotorola Mobility LLC, a Lenovo Company
@@ -22856,6 +23400,10 @@ D00401Motorola Mobility LLC, a Lenovo Company
 5C5188Motorola Mobility LLC, a Lenovo Company
 140589Motorola Mobility LLC, a Lenovo Company
 2036D0Motorola Mobility LLC, a Lenovo Company
+2812D0Motorola Mobility LLC, a Lenovo Company
+0C7165Motorola Mobility LLC, a Lenovo Company
+7CA53EMotorola Mobility LLC, a Lenovo Company
+C484C0Motorola Mobility LLC, a Lenovo Company
 00047DMotorola Solutions Inc.
 001F92Motorola Solutions Inc.
 4CCC34Motorola Solutions Inc.
@@ -23024,6 +23572,7 @@ A408EAMurata Manufacturing Co., Ltd.
 FCDBB3Murata Manufacturing Co., Ltd.
 10322CMurata Manufacturing Co., Ltd.
 78F505Murata Manufacturing Co., Ltd.
+80999BMurata Manufacturing Co., Ltd.
 4CEB76Murrelektronik GmbH
 000F9EMurrelektronik GmbH
 00079DMusashi Co., Ltd.
@@ -23139,11 +23688,13 @@ D40E60Nanjing phx-gctech Information Technology Co., Ltd
 00073DNanjing Postel Telecommunications Co., Ltd.
 88AF7BNanjing Powercore Tech Co.,Ltd
 906FA9NANJING PUTIAN TELECOMMUNICATIONS TECHNOLOGY CO.,LTD.
+DC045ANanjing Qinheng Microelectronics Co., Ltd.
 5414A7Nanjing Qinheng Microelectronics Co., Ltd.
 E04E7ANanjing Qinheng Microelectronics Co., Ltd.
 0C3D5ENanjing Qinheng Microelectronics Co., Ltd.
 701988Nanjing Qinheng Microelectronics Co., Ltd.
 C817F5Nanjing Qinheng Microelectronics Co., Ltd.
+546C50Nanjing Qinheng Microelectronics Co., Ltd.
 50547BNanjing Qinheng Microelectronics Co., Ltd.
 5C5310Nanjing Qinheng Microelectronics Co., Ltd.
 3CAB72Nanjing Qinheng Microelectronics Co., Ltd.
@@ -23152,6 +23703,7 @@ E466E5Nanjing Qinheng Microelectronics Co., Ltd.
 F4472ANanjing Rousing Sci. and Tech. Industrial Co., Ltd
 6C8366Nanjing SAC Power Grid Automation Co., Ltd.
 20DF3FNanjing SAC Power Grid Automation Co., Ltd.
+04174CNanjing SCIYON Wisdom Technology Group Co.,Ltd.
 000CB6NANJING SEU MOBILE & INTERNET TECHNOLOGY CO.,LTD
 00B78DNanjing Shining Electric Automation Co., Ltd
 0C63FCNanjing Signway Technology Co., Ltd
@@ -23429,81 +23981,82 @@ D49C53NETCRAZE LLC
 00121DNetfabric Corporation
 001DF2Netflix, Inc.
 00116FNetforyou Co., LTD.
-9CC9EBNETGEAR
-3894EDNETGEAR
-100C6BNETGEAR
-78D294NETGEAR
-B07FB9NETGEAR
 405D82NETGEAR
 DCEF09NETGEAR
-4C60DENETGEAR
 C43DC7NETGEAR
+4C60DENETGEAR
+100C6BNETGEAR
+3894EDNETGEAR
+9CC9EBNETGEAR
+B07FB9NETGEAR
+78D294NETGEAR
 08BD43NETGEAR
 289401NETGEAR
-44A56ENETGEAR
-288088NETGEAR
-1459C0NETGEAR
-CC40D0NETGEAR
-08028ENETGEAR
-9C3DCFNETGEAR
-C40415NETGEAR
-E8FCAFNETGEAR
 841B5ENETGEAR
-2CB05DNETGEAR
-A021B7NETGEAR
 C0FFD4NETGEAR
-6CB0CENETGEAR
-008EF2NETGEAR
-9CD36DNETGEAR
 0024B2NETGEAR
-001B2FNETGEAR
 001F33NETGEAR
-E046EENETGEAR
-941865NETGEAR
-B03956NETGEAR
-00146CNETGEAR
-001E2ANETGEAR
-00184DNETGEAR
+001B2FNETGEAR
+C40415NETGEAR
+9CD36DNETGEAR
+008EF2NETGEAR
+6CB0CENETGEAR
+9C3DCFNETGEAR
+08028ENETGEAR
+CC40D0NETGEAR
+1459C0NETGEAR
+288088NETGEAR
+44A56ENETGEAR
+A021B7NETGEAR
+2CB05DNETGEAR
+E8FCAFNETGEAR
+943B22NETGEAR
 A06391NETGEAR
-20E52ANETGEAR
-4494FCNETGEAR
 200CC8NETGEAR
-744401NETGEAR
+00184DNETGEAR
+001E2ANETGEAR
+00146CNETGEAR
 E091F5NETGEAR
-54077DNETGEAR
-3498B5NETGEAR
+744401NETGEAR
+4494FCNETGEAR
+20E52ANETGEAR
+B03956NETGEAR
+941865NETGEAR
+E046EENETGEAR
 C89E43NETGEAR
-80CC9CNETGEAR
-94A67ENETGEAR
-BCA511NETGEAR
-3C3786NETGEAR
 8C3BADNETGEAR
 B0B98ANETGEAR
-A00460NETGEAR
 506A03NETGEAR
 100D7FNETGEAR
-504A6ENETGEAR
-E0469ANETGEAR
 30469ANETGEAR
+E0469ANETGEAR
+A00460NETGEAR
 2C3033NETGEAR
-6CCDD6NETGEAR
-0836C9NETGEAR
-A040A0NETGEAR
-10DA43NETGEAR
-803773NETGEAR
-A42B8CNETGEAR
-28C68ENETGEAR
-04A151NETGEAR
+504A6ENETGEAR
+54077DNETGEAR
+3C3786NETGEAR
+BCA511NETGEAR
+94A67ENETGEAR
+80CC9CNETGEAR
+3498B5NETGEAR
 F87394NETGEAR
 204E7FNETGEAR
-C03F0ENETGEAR
-0026F2NETGEAR
-00223FNETGEAR
-000FB5NETGEAR
-00095BNETGEAR
 E4F4C6NETGEAR
+00095BNETGEAR
+000FB5NETGEAR
+00223FNETGEAR
+0026F2NETGEAR
+04A151NETGEAR
+28C68ENETGEAR
+A42B8CNETGEAR
+803773NETGEAR
+C03F0ENETGEAR
 E0C250NETGEAR
 C8102FNETGEAR
+10DA43NETGEAR
+A040A0NETGEAR
+0836C9NETGEAR
+6CCDD6NETGEAR
 000430Netgem
 D8C068Netgenetech.co.,ltd.
 E0E656Nethesis  srl
@@ -23579,6 +24132,7 @@ D8E72BNETSCOUT SYSTEMS INC
 940B2DNetView Technologies(Shenzhen) Co., Ltd
 0060C3NETVISION CORPORATION
 00137ANetvox Technology Co., Ltd.
+64D4F0NETVUE，INC.
 00C02ENETWIZ
 00505ANETWORK ALCHEMY, INC.
 0000A3NETWORK APPLICATION TECHNOLOGY
@@ -23690,6 +24244,8 @@ ACCE92New H3C Technologies Co., Ltd
 10B65ENew H3C Technologies Co., Ltd
 B8D4F7New H3C Technologies Co., Ltd
 0C2779New H3C Technologies Co., Ltd
+D8D7F3New H3C Technologies Co., Ltd
+900A75New H3C Technologies Co., Ltd
 9C0971New H3C Technologies Co., Ltd
 80616CNew H3C Technologies Co., Ltd
 C4C063New H3C Technologies Co., Ltd
@@ -23713,6 +24269,8 @@ DCDA80New H3C Technologies Co., Ltd
 D4A23DNew H3C Technologies Co., Ltd
 1090FANew H3C Technologies Co., Ltd
 BC5A34New H3C Technologies Co., Ltd
+903F86New H3C Technologies Co., Ltd
+2419A5New H3C Technologies Co., Ltd
 6C8720New H3C Technologies Co., Ltd
 28E424New H3C Technologies Co., Ltd
 54C6FFNew H3C Technologies Co., Ltd
@@ -23781,6 +24339,8 @@ ECDA59New H3C Technologies Co., Ltd
 F8388DNew H3C Technologies Co., Ltd
 105EAENew H3C Technologies Co., Ltd
 2C4C7DNew H3C Technologies Co., Ltd
+D425DENew H3C Technologies Co., Ltd
+2CE187New H3C Technologies Co., Ltd
 001C83New Level Telecom Co., Ltd.
 1C35F1NEW Lift Neue Elektronische Wege Steuerungsbau GmbH
 6405BENEW LIGHT LED
@@ -24022,6 +24582,7 @@ ECC40DNintendo Co.,Ltd
 E0EFBFNintendo Co.,Ltd
 948E6DNintendo Co.,Ltd
 38C6CENintendo Co.,Ltd
+C89143Nintendo Co.,Ltd
 DCCD18Nintendo Co.,Ltd
 28CF51Nintendo Co.,Ltd
 58B03ENintendo Co.,Ltd
@@ -24053,6 +24614,7 @@ E8DA20Nintendo Co.,Ltd
 A4C1E8Nintendo Co.,Ltd
 D86B83Nintendo Co.,Ltd
 4044F7Nintendo Co.,Ltd
+B86870Nintendo Co.,Ltd
 BCCE25Nintendo Co.,Ltd
 80D2E5Nintendo Co.,Ltd
 5C0CE6Nintendo Co.,Ltd
@@ -24063,6 +24625,7 @@ DC68EBNintendo Co.,Ltd
 0403D6Nintendo Co.,Ltd
 48F1EBNintendo Co.,Ltd
 78818CNintendo Co.,Ltd
+4C306ANintendo Co.,Ltd
 F0F69CNIO Co., Ltd.
 0020BDNIOBRARA R & D CORPORATION
 000369Nippon Antenna Co., Ltd.
@@ -24165,6 +24728,8 @@ E48184Nokia
 781F7CNokia
 2478EFNokia
 A8E5ECNokia
+68A34FNokia
+94AA07Nokia
 6C6286Nokia
 9CA389Nokia
 04A526Nokia
@@ -24182,6 +24747,8 @@ BC8D0ENokia
 903AA0Nokia
 9C47F4Nokia
 043D6ENokia
+7CAF77Nokia
+A81378Nokia
 60C9AANokia
 E0CB19Nokia
 1814AENokia
@@ -24218,6 +24785,8 @@ B0754DNokia
 3000FCNokia
 EC8E12Nokia
 24F68DNokia
+141826Nokia
+6C9188Nokia
 4C62CDNokia
 80B946Nokia
 9C5467Nokia
@@ -24240,6 +24809,8 @@ D4E33FNokia
 2C6F37Nokia
 941787Nokia
 1886C3Nokia
+8818F1Nokia
+CC58C7Nokia
 EC0C96Nokia
 20DE1ENokia
 205E97Nokia
@@ -24433,6 +25004,7 @@ DCD9AENokia Shanghai Bell Co., Ltd.
 88B362Nokia Shanghai Bell Co., Ltd.
 0847D0Nokia Shanghai Bell Co., Ltd.
 6C22F7Nokia Shanghai Bell Co., Ltd.
+E4729DNokia Shanghai Bell Co., Ltd.
 302364Nokia Shanghai Bell Co., Ltd.
 CCED21Nokia Shanghai Bell Co., Ltd.
 E01FEDNokia Shanghai Bell Co., Ltd.
@@ -24455,6 +25027,7 @@ B81904Nokia Shanghai Bell Co., Ltd.
 3CBD69Nokia Shanghai Bell Co., Ltd.
 503D7FNokia Shanghai Bell Co., Ltd.
 045665Nokia Shanghai Bell Co., Ltd.
+B41D62Nokia Shanghai Bell Co., Ltd.
 004043Nokia Siemens Networks GmbH & Co. KG.
 000FBBNokia Siemens Networks GmbH & Co. KG.
 80AB4DNokia Solutions and Networks GmbH & Co. KG
@@ -24491,9 +25064,12 @@ A0C98BNokia Solutions and Networks GmbH & Co. KG
 089BB9Nokia Solutions and Networks GmbH & Co. KG
 24DE8ANokia Solutions and Networks GmbH & Co. KG
 C02E1DNokia Solutions and Networks GmbH & Co. KG
+980A4BNokia Solutions and Networks GmbH & Co. KG
 2CC1F4Nokia Solutions and Networks India Private Limited
+A40853Nokia Solutions and Networks India Private Limited
 609849Nokia Solutions and Networks India Private Limited
 846EBCNokia Solutions and Networks India Private Limited
+0C8832Nokia Solutions and Networks India Private Limited
 BC515FNokia Solutions and Networks India Private Limited
 00E003NOKIA WIRELESS BUSINESS COMMUN
 00149BNokota Communications, LLC
@@ -24692,8 +25268,8 @@ D45297nSTREAMS Technologies, Inc.
 64E204NTN Technical Service Corporation
 0060DBNTP ELEKTRONIK A/S
 00158FNTT Advanced Technology Corporation
-34EF8BNTT Communications Corporation
 004013NTT DATA COMM. SYSTEMS CORP.
+34EF8BNTT DOCOMO BUSINESS, Inc.
 481063NTT Innovation Institute, Inc.
 00A044NTT IT CO., LTD.
 00135DNTTPC Communications, Inc.
@@ -24711,7 +25287,6 @@ E0735FNUCOM
 002410NUETEQ Technology,Inc.
 D8197ANuheara Ltd
 54D272Nuki Home Solutions GmbH
-B0435DNuLEDs, Inc.
 001F03NUM AG
 0013AFNUMA Technology,Inc.
 0018E9Numata Corporation
@@ -24739,12 +25314,12 @@ E01995Nutanix
 5087B8Nuvyyo Inc
 000C97NV ADB TTV Technologies SA
 001A85NV Michel Van de Wiele
-00124FnVent
 001849nVent, Schroff GmbH
 000BD5Nvergence, Inc.
 00044BNVIDIA
 48B02DNVIDIA Corporation
 4CBB47NVIDIA Corporation
+AC3AE2NVIDIA Corporation
 3C6D66NVIDIA Corporation
 001062NX SERVER, ILNC.
 50AD92NX Technologies
@@ -24762,6 +25337,8 @@ D419F6NXP Semiconductor (Tianjin) LTD.
 5C6152NXP Semiconductor (Tianjin) LTD.
 343C30NXP Semiconductor (Tianjin) LTD.
 F4635ANXP Semiconductor (Tianjin) LTD.
+ACF932NXP Semiconductor (Tianjin) LTD.
+4CD4B1NXP Semiconductor (Tianjin) LTD.
 A8F8C9NXP Semiconductor (Tianjin) LTD.
 50C1F0NXP Semiconductor (Tianjin) LTD.
 60045CNXP Semiconductor (Tianjin) LTD.
@@ -24777,9 +25354,15 @@ AC9A22NXP Semiconductors
 006037NXP Semiconductors
 E05124NXP Semiconductors
 38B9AFNXP Semiconductors Taiwan Ltd.
+10EDC8NXP Semiconductors Taiwan Ltd.
 44D465NXP Semiconductors Taiwan Ltd.
+144FF0NXP Semiconductors Taiwan Ltd.
 940E2ANXP Semiconductors Taiwan Ltd.
+1C0460NXP Semiconductors Taiwan Ltd.
+10CB33NXP Semiconductors Taiwan Ltd.
 34E1D7NXP Semiconductors Taiwan Ltd.
+10961DNXP USA, Inc
+28B20BNXP USA, Inc
 F0933ANxtConect
 00131FNxtPhase T&D, Corp.
 000370NXTV, Inc.
@@ -24871,6 +25454,7 @@ E8DF24OHSUNG
 F4AAD0OHSUNG
 C8DD6AOHSUNG
 D4FF26OHSUNG
+4892C1OHSUNG
 0010C1OI ELECTRIC CO.,LTD
 509F3BOI ELECTRIC CO.,LTD
 D8F1D8OI ELECTRIC CO.,LTD
@@ -24979,6 +25563,7 @@ E44122OnePlus Technology (Shenzhen) Co., Ltd
 78EDBCOnePlus Technology (Shenzhen) Co., Ltd
 8C64A2OnePlus Technology (Shenzhen) Co., Ltd
 94652DOnePlus Technology (Shenzhen) Co., Ltd
+946A7COnePlus Technology (Shenzhen) Co., Ltd
 74F91AOnface
 000A67OngCorp
 881E59Onion Corporation
@@ -24990,9 +25575,11 @@ E44122OnePlus Technology (Shenzhen) Co., Ltd
 000D80Online Development Inc
 100D2FOnline Security Pty. Ltd.
 00220AOnLive, Inc
+30CB89OnLogic Inc
 B86091Onnet Technologies and Innovations LLC
 00303CONNTO CORP.
 003077ONPREM NETWORKS
+449F79onsemi
 0019F7Onset Computer Corporation
 00135COnSite Systems, Inc.
 000734ONStor, Inc.
@@ -25352,6 +25939,7 @@ C8903EPakton Technologies
 D4F4BEPalo Alto Networks
 F4D58APalo Alto Networks
 7CC790Palo Alto Networks
+1CCF82Palo Alto Networks
 5C58E6Palo Alto Networks
 34E5ECPalo Alto Networks
 08661FPalo Alto Networks
@@ -25397,6 +25985,7 @@ D8AFF1Panasonic Appliances Company
 80C755Panasonic Appliances Company
 34317FPanasonic Appliances Company
 B46C47Panasonic Appliances Company
+20E59BPanasonic Automotive Systems
 24A87DPanasonic Automotive Systems Asia Pacific(Thailand)Co.,Ltd.
 B0D888Panasonic Automotive Systems Co.,Ltd
 545B86Panasonic Automotive Systems Co.,Ltd
@@ -25774,6 +26363,7 @@ E068EEPhyplus Microelectronics Limited
 DC9B95Phyplus Technology (Shanghai) Co., Ltd
 A46D33Phyplus Technology (Shanghai) Co., Ltd
 E8B527Phyplus Technology (Shanghai) Co., Ltd
+60D877Phyplus Technology (Shanghai) Co., Ltd
 D052A8Physical Graph Corporation
 F46FA4Physik Instrumente GmbH & Co. KG
 40BD9EPhysio-Control, Inc
@@ -25859,6 +26449,7 @@ F43149Pixel FX
 00214APixel Velocity, Inc
 00E09FPIXEL VISION
 002554Pixel8 Networks
+E8B3EEPixelent Inc.
 502267PixeLINK
 001F02Pixelmetrix Corporation Pte Ltd
 000818Pixelworks, Inc.
@@ -25868,6 +26459,7 @@ A0BAB8Pixon Imaging
 185253Pixord Corporation
 005069PixStream Incorporated
 7C6C39PIXSYS SRL
+204B2EPizzato Elettrica S.r.l.
 04E9E5PJRC.COM, LLC
 A8584EPK VEGA
 0015D9PKC Electronics Oy
@@ -25942,7 +26534,6 @@ E0AF4BPluribus Networks, Inc.
 2067B1Pluto inc.
 00E012PLUTO TECHNOLOGIES INTERNATIONAL INC.
 000EDFPLX Technology
-001AB9PMC
 00E004PMC-SIERRA, INC.
 00609DPMI FOOD EQUIPMENT GROUP
 44568DPNC Technologies  Co., Ltd.
@@ -26027,6 +26618,7 @@ D4D249Power Ethernet
 002364Power Instruments Pte Ltd
 006078POWER MEASUREMENT LTD.
 001FF4Power Monitors, Inc.
+0CEB25Power Plus Communications AG
 3C0868Power Plus Communications AG
 002518Power PLUS Communications AG
 80DB31Power Quotient International Co., Ltd.
@@ -26062,6 +26654,7 @@ D09288Powertek Limited
 88C242Poynt Co.
 64FB92PPC Broadband Inc.
 000808PPT Vision, Inc.
+DC575CPR Electronics A/S
 380A4FPRACHI ENTERPRISES
 008078PRACTICAL PERIPHERALS, INC.
 00C090PRAIM S.R.L.
@@ -26180,6 +26773,8 @@ F03F03Private
 BCC2D9Private
 603D61Private
 EC8439Private
+6C885FPrivate
+6C8166Private
 48062BPrivate
 111111Private
 7CE4AAPrivate
@@ -26213,7 +26808,6 @@ C0BA1FPrivate
 ACDE48Private
 0050C7Private
 A4A6A9Private
-906F18Private
 D85DFBPrivate
 609620Private
 50E14APrivate
@@ -26225,6 +26819,7 @@ D85DFBPrivate
 000578Private
 3824F1Private
 98173CPrivate
+8CA454Private
 4CE136Private
 48D35DPrivate
 24FDFAPrivate
@@ -26241,6 +26836,9 @@ B0ECE1Private
 EC554DPrivate
 F0F069Private
 EC34E2Private
+2CAFC4Private
+A4F4CAPrivate
+942D3APRIZOR VIZTECH LIMITED
 0015ABPRO CO SOUND INC
 D46132Pro Concept Manufacturer Co.,Ltd.
 00804APRO-LOG
@@ -26372,7 +26970,7 @@ C416FAPrysm Inc
 001FF6PS Audio International
 546925PS INODIC CO., LTD.
 900A3APSG Plastic Service GmbH
-0005DBPSI Nentec GmbH
+0005DBPSI Software SE,
 0013EDPSIA
 00251APsiber Data Systems Inc.
 BC5EA1PsiKick, Inc.
@@ -26384,6 +26982,7 @@ B8C227PSTec
 B04BBFPT HAN SUNG ELECTORONICS INDONESIA
 303F5DPT HAN SUNG ELECTORONICS INDONESIA
 7800A8PT HAN SUNG ELECTORONICS INDONESIA
+DCF34CPT HAN SUNG ELECTORONICS INDONESIA
 F8A475PT Indoreka Jaya Wutama
 000691PT Inovacao
 CC19A8PT Inovação e Sistemas SA
@@ -26493,6 +27092,9 @@ ACB722Qingdao Haier Technology Co.,Ltd
 68E478Qingdao Haier Technology Co.,Ltd
 24E8CEQingdao Haier Technology Co.,Ltd
 94224CQingdao Haier Technology Co.,Ltd
+04C9DEQingdao HaierTechnology Co.,Ltd
+3412DCQingdao HaierTechnology Co.,Ltd
+0439CBQingdao HaierTechnology Co.,Ltd
 24DD1BQingdao Hi-image Technologies Co., Ltd
 001F72QingDao Hiphone Technology Co,.Ltd
 8C9F3BQingdao Hisense Communications Co.,Ltd.
@@ -26524,10 +27126,12 @@ E0D8C4Qingdao Intelligent&Precise Electronics Co.,Ltd.
 386407Qingdao Intelligent&Precise Electronics Co.,Ltd.
 A8301CQingdao Intelligent&Precise Electronics Co.,Ltd.
 E03ECBQingdao Intelligent&Precise Electronics Co.,Ltd.
+646BE7Qingdao Intelligent&Precise Electronics Co.,Ltd.
 80CBBCQingdao Intelligent&Precise Electronics Co.,Ltd.
 50BA02Qingdao Intelligent&Precise Electronics Co.,Ltd.
 E4E33DQingdao Intelligent&Precise Electronics Co.,Ltd.
 B8D82DQingdao Intelligent&Precise Electronics Co.,Ltd.
+F0ED51Qingdao Intelligent&Precise Electronics Co.,Ltd.
 BC5C17Qingdao Intelligent&Precise Electronics Co.,Ltd.
 7CB37BQingdao Intelligent&Precise Electronics Co.,Ltd.
 4495FAQingdao Santong Digital Technology Co.Ltd
@@ -26566,6 +27170,7 @@ C49886Qorvo International Pte. Ltd.
 18FC26Qorvo International Pte. Ltd.
 9C6937Qorvo International Pte. Ltd.
 6CD8FBQorvo Utrecht B.V.
+A05866Qorvo Utrecht B.V.
 103597Qorvo Utrecht B.V.
 000C48QoStek Corporation
 207C14Qotom
@@ -26663,6 +27268,7 @@ BCE767Quanzhou  TDX Electronics Co., Ltd
 60D30AQuatius Limited
 988E79Qudelix, Inc.
 780541Queclink Wireless Solutions Co., Ltd
+200D3DQuectel Wireless Solutions Co., Ltd.
 3C227FQuectel Wireless Solutions Co., Ltd.
 C4A64EQuectel Wireless Solutions Co.,Ltd.
 B4EDD5Quectel Wireless Solutions Co.,Ltd.
@@ -26674,6 +27280,8 @@ EC1D9EQuectel Wireless Solutions Co.,Ltd.
 ACD929Quectel Wireless Solutions Co.,Ltd.
 60323BQuectel Wireless Solutions Co.,Ltd.
 F4AB5CQuectel Wireless Solutions Co.,Ltd.
+9C04B6Quectel Wireless Solutions Co.,Ltd.
+ECB50AQuectel Wireless Solutions Co.,Ltd.
 E82404Quectel Wireless Solutions Co.,Ltd.
 50E9DFQuectel Wireless Solutions Co.,Ltd.
 E408E7Quectel Wireless Solutions Co.,Ltd.
@@ -26682,6 +27290,8 @@ E408E7Quectel Wireless Solutions Co.,Ltd.
 2CC682Quectel Wireless Solutions Co.,Ltd.
 18CEDFQuectel Wireless Solutions Co.,Ltd.
 682499Quectel Wireless Solutions Co.,Ltd.
+A8DD9FQuectel Wireless Solutions Co.,Ltd.
+681268Quectel Wireless Solutions Co.,Ltd.
 E88DA6Quectel Wireless Solutions Co.,Ltd.
 DCBDCCQuectel Wireless Solutions Co.,Ltd.
 A486AEQuectel Wireless Solutions Co.,Ltd.
@@ -26695,6 +27305,9 @@ E84727Quectel Wireless Solutions Co.,Ltd.
 DC2E97Quectel Wireless Solutions Co.,Ltd.
 009B08Quectel Wireless Solutions Co.,Ltd.
 A8C050Quectel Wireless Solutions Co.,Ltd.
+3C1ACCQuectel Wireless Solutions Co.,Ltd.
+E485FBQuectel Wireless Solutions Co.,Ltd.
+2CF8ECQuectel Wireless Solutions Co.,Ltd.
 B00C9DQuectel Wireless Solutions Co.,Ltd.
 E8979AQuectel Wireless Solutions Co.,Ltd.
 900371Quectel Wireless Solutions Co.,Ltd.
@@ -26787,7 +27400,7 @@ F8F014RackWare Inc.
 000175Radiant Communications Corp.
 D0E828Radiant Industries Incorporated
 00E00DRADIANT SYSTEMS
-24F2DDRadiant Zemax LLC
+24F2DDRadiant Vision Systems, LLC
 000ACERADIANTECH, INC.
 0023C5Radiation Safety and Control Services Inc
 0034F1Radicom Research, Inc.
@@ -26988,6 +27601,7 @@ B0A187Realme Chongqing Mobile Telecommunications Corp.,Ltd.
 ACC9FFRealme Chongqing Mobile Telecommunications Corp.,Ltd.
 80E769Realme Chongqing Mobile Telecommunications Corp.,Ltd.
 F4D7E4Realme Chongqing Mobile Telecommunications Corp.,Ltd.
+80B82ARealme Chongqing Mobile Telecommunications Corp.,Ltd.
 FC2A46Realme Chongqing Mobile Telecommunications Corp.,Ltd.
 480286Realme Chongqing Mobile Telecommunications Corp.,Ltd.
 0C9043Realme Chongqing Mobile Telecommunications Corp.,Ltd.
@@ -27011,6 +27625,7 @@ D097FERealme Chongqing Mobile Telecommunications Corp.,Ltd.
 88AE35Realme Chongqing Mobile Telecommunications Corp.,Ltd.
 0CE67CRealme Chongqing Mobile Telecommunications Corp.,Ltd.
 C04327Realme Chongqing Mobile Telecommunications Corp.,Ltd.
+A4CF03Realme Chongqing Mobile Telecommunications Corp.,Ltd.
 C4DF39Realme Chongqing Mobile Telecommunications Corp.,Ltd.
 7CB073Realme Chongqing Mobile Telecommunications Corp.,Ltd.
 10F605Realme Chongqing Mobile Telecommunications Corp.,Ltd.
@@ -27111,6 +27726,7 @@ B482C5Relay2, Inc.
 34D2C4RENA GmbH Print Systeme
 001507Renaissance Learning Inc
 001403Renasis, LLC
+90FB93Renesas Design US Inc.
 74803FRenesas Electronics (Penang) Sdn. Bhd.
 5CC9C0Renesas Electronics (Penang) Sdn. Bhd.
 50E7A0Renesas Electronics (Penang) Sdn. Bhd.
@@ -27258,6 +27874,7 @@ CC3BFBRing LLC
 343EA4Ring LLC
 187F88Ring LLC
 C4DBADRing LLC
+00B463Ring LLC
 649A63Ring LLC
 90486CRing LLC
 242BD6Ring LLC
@@ -27366,6 +27983,7 @@ E48EBBRockwell Automation
 001D9CRockwell Automation
 001CE7Rocon PLC Research Centre
 74604CRODE
+B07A16ROEHN
 AC8ACDROGER D.Wensker, G.Wensker sp.j.
 002211Rohati Systems
 0090B8ROHDE & SCHWARZ GMBH & CO. KG
@@ -27379,6 +27997,7 @@ A8B57CRoku, Inc
 345E08Roku, Inc
 9CF1D4Roku, Inc
 20EFBDRoku, Inc
+EC9B75Roku, Inc
 D4E22FRoku, Inc
 8C4962Roku, Inc
 C83A6BRoku, Inc
@@ -27448,6 +28067,7 @@ C4AD34Routerboard.com
 6C3B6BRouterboard.com
 D401C3Routerboard.com
 04F41CRouterboard.com
+D0EA11Routerboard.com
 48A98ARouterboard.com
 2CC81BRouterboard.com
 64D154Routerboard.com
@@ -27506,6 +28126,7 @@ AC6706Ruckus Wireless
 2CC5D3Ruckus Wireless
 789F6ARuckus Wireless
 F06FCERuckus Wireless
+CC2DD2Ruckus Wireless
 341593Ruckus Wireless
 842388Ruckus Wireless
 70CA97Ruckus Wireless
@@ -27521,6 +28142,7 @@ EC8CA2Ruckus Wireless
 40B82DRuckus Wireless
 70B258Ruckus Wireless
 74317ERuckus Wireless
+BC9C8DRuckus Wireless
 00E63ARuckus Wireless
 80F0CFRuckus Wireless
 C0C70ARuckus Wireless
@@ -27583,6 +28205,7 @@ D838FCRuckus Wireless
 CC1B5ARuckus Wireless
 003358Ruckus Wireless
 B4E53ERuckus Wireless
+ACDE01Ruckus Wireless
 0015C3Ruf Telematik AG
 0013D5RuggedCom
 94B8C5RuggedCom Inc.
@@ -27597,6 +28220,8 @@ E05D54Ruijie Networks Co.,LTD
 C0B8E6Ruijie Networks Co.,LTD
 FC599FRuijie Networks Co.,LTD
 105F02Ruijie Networks Co.,LTD
+7408AARuijie Networks Co.,LTD
+8CDD30Ruijie Networks Co.,LTD
 14144BRuijie Networks Co.,LTD
 4881D4Ruijie Networks Co.,LTD
 28D0F5Ruijie Networks Co.,LTD
@@ -27611,6 +28236,7 @@ C4B25BRuijie Networks Co.,LTD
 984A6BRuijie Networks Co.,LTD
 58B4BBRuijie Networks Co.,LTD
 4C4968Ruijie Networks Co.,LTD
+D8332ARuijie Networks Co.,LTD
 D43127Ruijie Networks Co.,LTD
 7042D3Ruijie Networks Co.,LTD
 7085C4Ruijie Networks Co.,LTD
@@ -27701,6 +28327,7 @@ A086ECSAEHAN HITEC Co., Ltd
 000E2BSafari Technologies
 00604BSafe-com GmbH & Co. KG
 D087B5SAFEMO PTE. LTD.
+E40177SafeOwl, Inc.
 7C6ADBSafeTone Technology Co.,Ltd
 00D030Safetran Systems Corp
 509A46Safetrust Inc
@@ -27766,6 +28393,8 @@ ECFC2FSagemcom Broadband SAS
 D8CF61Sagemcom Broadband SAS
 3817B1Sagemcom Broadband SAS
 102BAASagemcom Broadband SAS
+64FA2BSagemcom Broadband SAS
+7CD4A8Sagemcom Broadband SAS
 2047B5Sagemcom Broadband SAS
 788DAFSagemcom Broadband SAS
 087B12Sagemcom Broadband SAS
@@ -27805,6 +28434,7 @@ B88C2BSagemcom Broadband SAS
 BCD5EDSagemcom Broadband SAS
 8C9A8FSagemcom Broadband SAS
 707DA1Sagemcom Broadband SAS
+EC50A6Sagemcom Broadband SAS
 58687ASagemcom Broadband SAS
 186A81Sagemcom Broadband SAS
 A07F8ASagemcom Broadband SAS
@@ -27843,6 +28473,8 @@ D084B0Sagemcom Broadband SAS
 3C5836Sagemcom Broadband SAS
 A03C20Sagemcom Broadband SAS
 CCFAF1Sagemcom Broadband SAS
+68ABA9Sagemcom Broadband SAS
+FC6637Sagemcom Broadband SAS
 44053FSagemcom Broadband SAS
 F40595Sagemcom Broadband SAS
 F04DD4Sagemcom Broadband SAS
@@ -27874,6 +28506,8 @@ A89A93Sagemcom Broadband SAS
 6867C7Sagemcom Broadband SAS
 441524Sagemcom Broadband SAS
 D427FFSagemcom Broadband SAS
+B01FF4Sagemcom Broadband SAS
+6418DFSagemcom Broadband SAS
 A42249Sagemcom Broadband SAS
 20B82BSagemcom Broadband SAS
 B86AF1Sagemcom Broadband SAS
@@ -27911,6 +28545,7 @@ A02DDBSagemcom Broadband SAS
 D4B5CDSagemcom Broadband SAS
 30F600Sagemcom Broadband SAS
 A039F9Sagemcom Broadband SAS
+54B27ESagemcom Broadband SAS
 0023A5SageTV, LLC
 000B7ESAGINOMIYA Seisakusho Inc.
 14FEAFSAGITTAR LIMITED
@@ -27955,6 +28590,7 @@ A457A0SAMJIN Co., Ltd.
 00155BSampo Corporation
 004006SAMPO TECHNOLOGY CORPORATION
 009013SAMSAN CORP.
+28EA5BSAMSARA NETWORKS INC
 FCDB21SAMSARA NETWORKS INC
 00210DSAMSIN INNOTEC
 00E099SAMSON AG
@@ -28194,6 +28830,9 @@ A8EE67Samsung Electronics Co.,Ltd
 A01B9ESamsung Electronics Co.,Ltd
 D87154Samsung Electronics Co.,Ltd
 7833C6Samsung Electronics Co.,Ltd
+885E54Samsung Electronics Co.,Ltd
+704EE0Samsung Electronics Co.,Ltd
+8CA3ECSamsung Electronics Co.,Ltd
 FC936BSamsung Electronics Co.,Ltd
 7C752DSamsung Electronics Co.,Ltd
 84EEE4Samsung Electronics Co.,Ltd
@@ -28352,6 +28991,9 @@ C07AD6Samsung Electronics Co.,Ltd
 8075BFSamsung Electronics Co.,Ltd
 E49F7DSamsung Electronics Co.,Ltd
 388CEFSamsung Electronics Co.,Ltd
+A8D162Samsung Electronics Co.,Ltd
+4CEBB0Samsung Electronics Co.,Ltd
+786089Samsung Electronics Co.,Ltd
 2015DESamsung Electronics Co.,Ltd
 CCE9FASamsung Electronics Co.,Ltd
 6466D8Samsung Electronics Co.,Ltd
@@ -28530,6 +29172,8 @@ E4A430Samsung Electronics Co.,Ltd
 ECB550Samsung Electronics Co.,Ltd
 7C7BBFSamsung Electronics Co.,Ltd
 8C2E72Samsung Electronics Co.,Ltd
+60B4A2Samsung Electronics Co.,Ltd
+140B9ESamsung Electronics Co.,Ltd
 384A80Samsung Electronics Co.,Ltd
 E41088Samsung Electronics Co.,Ltd
 B440DCSamsung Electronics Co.,Ltd
@@ -28679,6 +29323,9 @@ A0B0BDSamsung Electronics Co.,Ltd
 24A452Samsung Electronics Co.,Ltd
 5CDC49Samsung Electronics Co.,Ltd
 74F441Samsung Electronics Co.,Ltd
+5C5136Samsung Electronics Co.,Ltd
+BC277ASamsung Electronics Co.,Ltd
+800D3FSamsung Electronics Co.,Ltd
 28E6A9Samsung Electronics Co.,Ltd
 9C3928Samsung Electronics Co.,Ltd
 BC0EABSamsung Electronics Co.,Ltd
@@ -28864,9 +29511,10 @@ A49FE7Samsung Electronics Co.,Ltd
 9C8306Samsung Electronics Co.,Ltd
 68DFE4Samsung Electronics Co.,Ltd
 CC20ACSamsung Electronics Co.,Ltd
+E8C913Samsung Electronics Co.,Ltd
 24F40ASamsung Electronics Co.,Ltd
 78C11DSamsung Electronics Co.,Ltd
-E8C913Samsung Electronics Co.,Ltd
+5CD33DSamsung Electronics Co.,Ltd
 0023C2SAMSUNG Electronics. Co. LTD
 C8418ASamsung Electronics.,LTD
 8CB0E9Samsung Electronics.,LTD
@@ -29060,6 +29708,7 @@ F04B6AScientific Production Association Siberian Arsenal, Ltd.
 000B27Scion Corporation
 A8A097ScioTeq bvba
 3C672CSciovid Inc.
+7C246AScita Solutions
 00A046SCITEX CORP. LTD.
 000057SCITEX CORPORATION LTD.
 00A0FDSCITEX DIGITAL PRINTING, INC.
@@ -29155,6 +29804,7 @@ E47185Securifi Ltd
 58B568SECURITAS DIRECT ESPAÑA, SAU
 0023B6SECURITE COMMUNICATIONS / HONEYWELL
 00086ASecuriton Gmbh
+38E054Security Design, Inc.
 00E0FFSECURITY DYNAMICS TECHNOLOGIES, Inc.
 00250ASecurity Expert Co. Ltd
 A4FCCESecurity Expert Ltd.
@@ -29207,6 +29857,7 @@ AC1826Seiko Epson Corporation
 A4EE57Seiko Epson Corporation
 389D92Seiko Epson Corporation
 44D244Seiko Epson Corporation
+DC83BFSeiko Epson Corporation
 080083Seiko Instruments Inc.
 008015SEIKO SYSTEMS, INC.
 0000B8SEIKOSHA CO., LTD.
@@ -29305,6 +29956,7 @@ FCA84ASentinum GmbH
 007B18SENTRY Co., LTD.
 3C450BSentry Equipment Corp.
 0090EBSENTRY TELECOM SYSTEMS
+0CE709Sentyron B.V
 10E3C7Seohwa Telecom
 38F7B2SEOJUN ELECTRIC
 001C3CSeon Design Inc.
@@ -29342,10 +29994,12 @@ B4A5EFSercomm Corporation.
 0C7329Sercomm Corporation.
 D42122Sercomm Corporation.
 00C002Sercomm Corporation.
+F464B6Sercomm Corporation.
 000E8FSercomm Corporation.
 2C0823Sercomm France Sarl
 54ECB0Sercomm France Sarl
 2C93FBSercomm France Sarl
+3417DDSercomm France Sarl
 18EFC0Sercomm Japan Corporation
 4CFBFESercomm Japan Corporation
 A401DESERCOMM PHILIPPINES INC
@@ -29570,6 +30224,7 @@ C49878SHANGHAI MOAAN INTELLIGENT TECHNOLOGY CO.,LTD
 849DC2Shanghai MXCHIP Information Technology Co., Ltd.
 B0F893Shanghai MXCHIP Information Technology Co., Ltd.
 047863Shanghai MXCHIP Information Technology Co., Ltd.
+88A68DShanghai MXCHIP Information Technology Co., Ltd.
 80A036Shanghai MXCHIP Information Technology Co., Ltd.
 6879C4Shanghai MXCHIP Information Technology Co., Ltd.
 D0BAE4Shanghai MXCHIP Information Technology Co., Ltd.
@@ -29629,6 +30284,7 @@ E078A3Shanghai Winner Information Technology Co.,Inc
 644BC3Shanghai WOASiS Telecommunications Ltd., Co.
 7CB960Shanghai X-Cheng telecom LTD
 DC813DSHANGHAI XIANGCHENG COMMUNICATION TECHNOLOGY CO., LTD
+58BD35SHANGHAI XIANGCHENG COMMUNICATION TECHNOLOGY CO., LTD
 F421AEShanghai Xiaodu Technology Limited
 1C3B01Shanghai Xiaodu Technology Limited
 D484D0Shanghai Xiaodu Technology Limited
@@ -29691,6 +30347,9 @@ E4671ESHEN ZHEN NUO XIN CHENG TECHNOLOGY co., Ltd.
 9CBB98Shen Zhen RND Electronic Co.,LTD
 A8F038SHEN ZHEN SHI JIN HUA TAI ELECTRONICS CO.,LTD
 FC58FAShen Zhen Shi Xin Zhong Xin Technology Co.,Ltd.
+8C0528SHEN ZHEN TENDA TECHNOLOGY CO.,LTD
+0C8509SHEN ZHEN TENDA TECHNOLOGY CO.,LTD
+809FE4SHEN ZHEN TENDA TECHNOLOGY CO.,LTD
 8C44BBSHEN ZHEN TENDA TECHNOLOGY CO.,LTD
 4CAE31ShengHai Electronics (Shenzhen) Ltd
 0012DDShengqu Information Technology (Shanghai) Co., Ltd.
@@ -29724,6 +30383,7 @@ F0CCE0Shenzhen All-Smartlink Technology Co.,Ltd.
 BC49B2SHENZHEN ALONG COMMUNICATION TECH CO., LTD
 30EC7CShenzhen Along Electronics Co., Ltd
 CCA219SHENZHEN ALONG INVESTMENT CO.,LTD
+E8EA7CShenzhen Amazwear Holdings Co., Ltd
 900EB3Shenzhen Amediatech Technology Co., Ltd.
 102D31Shenzhen Americas Trading Company LLC
 A0C6ECShenZhen ANYK Technology Co.,LTD
@@ -29740,6 +30400,7 @@ A0FF22SHENZHEN APICAL TECHNOLOGY CO., LTD
 ACE64BShenzhen Baojia Battery Technology Co., Ltd.
 002494Shenzhen Baoxin Tech CO., Ltd.
 A4403DShenzhen Baseus Technology Co., Ltd.
+38FBA0Shenzhen Baseus Technology CoLtd
 B050BCSHENZHEN BASICOM ELECTRONIC CO.,LTD.
 14A417Shenzhen Belon Technology CO.,LTD
 DC4BFEShenzhen Belon Technology CO.,LTD
@@ -29759,6 +30420,7 @@ ACA213Shenzhen Bilian electronic CO.,LTD
 CC641ASHENZHEN BILIAN ELECTRONIC CO.，LTD
 145D34SHENZHEN BILIAN ELECTRONIC CO.，LTD
 94BA06SHENZHEN BILIAN ELECTRONIC CO.，LTD
+6CD552SHENZHEN BILIAN ELECTRONIC CO.，LTD
 A09F10SHENZHEN BILIAN ELECTRONIC CO.，LTD
 380146SHENZHEN BILIAN ELECTRONIC CO.，LTD
 E0B94DSHENZHEN BILIAN ELECTRONIC CO.，LTD
@@ -29769,6 +30431,7 @@ F0C814SHENZHEN BILIAN ELECTRONIC CO.，LTD
 74EE2ASHENZHEN BILIAN ELECTRONIC CO.，LTD
 146B9CSHENZHEN BILIAN ELECTRONIC CO.，LTD
 387ACCSHENZHEN BILIAN ELECTRONIC CO.，LTD
+84FC14SHENZHEN BILIAN ELECTRONIC CO.，LTD
 2CC3E6SHENZHEN BILIAN ELECTRONIC CO.，LTD
 347DE4SHENZHEN BILIAN ELECTRONIC CO.，LTD
 60FB00SHENZHEN BILIAN ELECTRONIC CO.，LTD
@@ -29799,6 +30462,7 @@ CCD29BShenzhen Bopengfa Elec&Technology CO.,Ltd
 001D2ASHENZHEN BUL-TECH CO.,LTD.
 D0666DShenzhen Bus-Lan Technology Co., Ltd.
 80F7A6Shenzhen C-Data Technology Co., Ltd.
+C4CD50Shenzhen C-Data Technology Co., Ltd.
 E0E8E6Shenzhen C-Data Technology Co., Ltd.
 505B1DShenzhen C-Data Technology Co., Ltd.
 D05FAFShenzhen C-Data Technology Co., Ltd.
@@ -29840,6 +30504,7 @@ B48107SHENZHEN CHUANGWEI-RGB ELECTRONICS CO.,LTD
 FCA386SHENZHEN CHUANGWEI-RGB ELECTRONICS CO.,LTD
 C4BD8DSHENZHEN CHUANGWEI-RGB ELECTRONICS CO.,LTD
 C8AAB2SHENZHEN CHUANGWEI-RGB ELECTRONICS CO.,LTD
+28B446SHENZHEN CHUANGWEI-RGB ELECTRONICS CO.,LTD
 30B0EAShenzhen Chuangxin Internet Communication Technology Co., Ltd
 707D95Shenzhen City LinwlanTechnology Co. Ltd.
 6CECA1SHENZHEN CLOU ELECTRONICS CO. LTD.
@@ -29873,6 +30538,7 @@ A82C3EShenzhen Cultraview Digital Technology Co., Ltd
 B83D4EShenzhen Cultraview Digital Technology Co.,Ltd Shanghai Branch
 681DEFShenzhen CYX Technology Co., Ltd.
 54466BShenzhen CZTIC Electronic Technology Co., Ltd
+64B4E8Shenzhen D-Robotics Co., Ltd.
 CCC50ASHENZHEN DAJIAHAO TECHNOLOGY CO.,LTD
 D8BC59Shenzhen DAPU Microelectronics Co., Ltd
 D866C6Shenzhen Daystar Technology Co.,ltd
@@ -30041,6 +30707,7 @@ C02C7AShenzhen Horn Audio Co.,Ltd.
 04F0E4ShenZhen Hosecom Electronic Technology Co.,LTD
 98C7A4Shenzhen HS Fiber Communication Equipment CO., LTD
 A45006SHENZHEN HUACHUANG SHIDAI TECHNOLOGYCO.,LTD
+78FDF1Shenzhen Huadian Communication Co., Ltd
 F0E752Shenzhen Huajuxin Semiconductor Co.,ltd
 18C8E7Shenzhen Hualistone Technology Co.,Ltd
 3C1512Shenzhen Huanhu Technology Co.,Ltd
@@ -30050,6 +30717,7 @@ DCB131SHENZHEN HUARUIAN TECHNOLOGY CO.,LTD
 48A22DShenzhen Huaxuchang Telecom Technology Co.,Ltd
 C05E79SHENZHEN HUAXUN ARK TECHNOLOGIES CO.,LTD
 30A612ShenZhen Hugsun Technology Co.,Ltd.
+48FC7CShenzhen Huidu Technology Co., Ltd.
 704F08Shenzhen Huisheng Information Technology Co., Ltd.
 002663Shenzhen Huitaiwei Tech. Ltd, co.
 988B69Shenzhen hylitech Co.,LTD
@@ -30080,6 +30748,8 @@ A47D9FShenzhen iComm Semiconductor CO.,LTD
 E0CB56Shenzhen iComm Semiconductor CO.,LTD
 D0A0BBShenzhen iComm Semiconductor CO.,LTD
 A0AC78Shenzhen iComm Semiconductor CO.,LTD
+149569Shenzhen iComm Semiconductor CO.,LTD
+F4A3C2Shenzhen iComm Semiconductor CO.,LTD
 98C97CShenzhen iComm Semiconductor CO.,LTD
 84B4D2Shenzhen iComm Semiconductor CO.,LTD
 509B94Shenzhen iComm Semiconductor CO.,LTD
@@ -30088,9 +30758,14 @@ C8EDFCShenzhen Ideaform Industrial Product Design Co., Ltd
 9C00D3SHENZHEN IK WORLD Technology Co., Ltd
 10BA1ASHENZHEN IK WORLD Technology Co., Ltd
 700FC7SHENZHEN IKINLOOP TECHNOLOGY CO.,LTD.
+A4B256Shenzhen Incar Technology Co., Ltd.
+D41368Shenzhen Intellirocks Tech. Co. Ltd.
 D4ADFCShenzhen Intellirocks Tech. Co. Ltd.
 E47305Shenzhen INVT Electric CO.,Ltd
 D8380DSHENZHEN IP-COM Network Co.,Ltd
+903196SHENZHEN IP-COM NETWORKS CO.,LTD.
+14EB03SHENZHEN IP-COM NETWORKS CO.,LTD.
+3420D3SHENZHEN IP-COM NETWORKS CO.,LTD.
 844709Shenzhen IP3 Century Intelligent Technology CO.,Ltd
 8C5105Shenzhen ireadygo Information Technology CO.,LTD.
 0CE159Shenzhen iStartek Technology Co., Ltd.
@@ -30117,6 +30792,7 @@ B8F653Shenzhen Jingxun Software Telecommunication Technology Co.,Ltd
 30C01BShenzhen Jingxun Software Telecommunication Technology Co.,Ltd
 28FA19Shenzhen Jingxun Software Telecommunication Technology Co.,Ltd
 F4BCDAShenzhen Jingxun Software Telecommunication Technology Co.,Ltd
+4C3C8FShenzhen Jingxun Technology Co., Ltd.
 20185BShenzhen Jingxun Technology Co., Ltd.
 E826CFShenzhen Jingxun Technology Co., Ltd.
 102874Shenzhen Jingxun Technology Co., Ltd.
@@ -30221,6 +30897,8 @@ B899AEShenzhen MiaoMing  Intelligent Technology Co.,Ltd
 2CB0FDShenzhen MiaoMing  Intelligent Technology Co.,Ltd
 38CA73Shenzhen MiaoMing  Intelligent Technology Co.,Ltd
 8CE4DBShenzhen MiaoMing Intelligent Technology Co.,Ltd
+7483A0Shenzhen MiaoMing Intelligent Technology Co.,Ltd
+50617EShenzhen MiaoMing Intelligent Technology Co.,Ltd
 387B01Shenzhen MiaoMing Intelligent Technology Co.,Ltd
 E89505Shenzhen MiaoMing Intelligent Technology Co.,Ltd
 008497Shenzhen MiaoMing Intelligent Technology Co.,Ltd
@@ -30300,6 +30978,7 @@ E0B72EShenZhen Qualmesh Technology Co.,Ltd.
 AC1F09shenzhen RAKwireless technology  Co.,Ltd
 6C5D63ShenZhen Rapoo Technology Co., Ltd.
 E41218ShenZhen Rapoo Technology Co., Ltd.
+F0ABFAShenzhen Rayin Technology Co.,Ltd
 888279Shenzhen RB-LINK Intelligent Technology Co.Ltd
 4891F6Shenzhen Reach software technology CO.,LTD
 E8ABFAShenzhen Reecam Tech.Ltd.
@@ -30345,6 +31024,8 @@ B4E265Shenzhen SDMC Technology CO.,Ltd.
 5C7B5CShenzhen SDMC Technology CO.,Ltd.
 FCD5D9Shenzhen SDMC Technology CO.,Ltd.
 2CECF7Shenzhen SDMC Technology CO.,Ltd.
+E4FAE4Shenzhen SDMC Technology CP,.LTD
+045FA6Shenzhen SDMC Technology CP,.LTD
 081651SHENZHEN SEA STAR TECHNOLOGY CO.,LTD
 68EDA4Shenzhen Seavo Technology Co.,Ltd
 000209Shenzhen SED Information Technology Co., Ltd.
@@ -30353,6 +31034,7 @@ D4CFF9Shenzhen SEI Robotics Co.,Ltd
 2CD8AEShenzhen SEI Robotics Co.,Ltd
 8C9806SHENZHEN SEI ROBOTICS CO.,LTD
 142A14ShenZhen Selenview Digital Technology Co.,Ltd
+C8ADE7Shenzhen Shengxi Industrial Co.,Ltd
 607DDDShenzhen Shichuangyi Electronics Co.,Ltd
 90028AShenzhen Shidean Legrand Electronic Products Co.,Ltd
 00A1DEShenZhen ShiHua Technology CO.,LTD
@@ -30361,6 +31043,7 @@ C44EACShenzhen Shiningworth Technology Co., Ltd.
 94017DSHENZHEN SHLINK.CO.,LIMITED
 A8F5E1Shenzhen Shokz Co., Ltd.
 A00CE2Shenzhen Shokz Co., Ltd.
+B88411Shenzhen Shokz Co., Ltd.
 246830Shenzhen Shokzhear Co., Ltd
 745CFAShenzhen Shunrui Gaojie Technology Co., Ltd.
 D0F8E7Shenzhen Shutong Space Technology Co., Ltd
@@ -30381,6 +31064,8 @@ E028B1Shenzhen Skyworth Digital  Technology  CO., Ltd
 303180Shenzhen Skyworth Digital  Technology  CO., Ltd
 9CF8B8Shenzhen Skyworth Digital  Technology  CO., Ltd
 FC386AShenzhen Skyworth Digital  Technology  CO., Ltd
+703A8CShenzhen Skyworth Digital  Technology  CO., Ltd
+6C1041Shenzhen Skyworth Digital  Technology  CO., Ltd
 C8138BShenzhen Skyworth Digital  Technology  CO., Ltd
 34AA31Shenzhen Skyworth Digital  Technology  CO., Ltd
 A04C0CShenzhen Skyworth Digital  Technology  CO., Ltd
@@ -30389,6 +31074,7 @@ AC8866Shenzhen Skyworth Digital  Technology  CO., Ltd
 B88EB0Shenzhen Skyworth Digital  Technology  CO., Ltd
 F4D454Shenzhen Skyworth Digital  Technology  CO., Ltd
 D0B1CAShenzhen Skyworth Digital  Technology  CO., Ltd
+60B705Shenzhen Skyworth Digital  Technology  CO., Ltd
 80EE25Shenzhen Skyworth Digital  Technology  CO., Ltd
 1055E4Shenzhen Skyworth Digital  Technology  CO., Ltd
 24E8E5Shenzhen Skyworth Digital  Technology  CO., Ltd
@@ -30401,6 +31087,8 @@ C068CCShenzhen Skyworth Digital  Technology  CO., Ltd
 BC9D4EShenzhen Skyworth Digital  Technology  CO., Ltd
 0CA94AShenzhen Skyworth Digital  Technology  CO., Ltd
 18EBD4Shenzhen Skyworth Digital  Technology  CO., Ltd
+D0458DShenzhen Skyworth Digital  Technology  CO., Ltd
+509FB9Shenzhen Skyworth Digital  Technology  CO., Ltd
 F09008Shenzhen Skyworth Digital  Technology  CO., Ltd
 B09738Shenzhen Skyworth Digital  Technology  CO., Ltd
 F8B8B4Shenzhen Skyworth Digital  Technology  CO., Ltd
@@ -30443,10 +31131,10 @@ E4C1F1SHENZHEN SPOTMAU INFORMATION TECHNOLIGY CO., Ltd
 A80CCAShenzhen Sundray Technologies company Limited
 703A73Shenzhen Sundray Technologies company Limited
 202027Shenzhen Sundray Technologies company Limited
+4CEF56Shenzhen Sundray Technologies company Limited
 941457Shenzhen Sundray Technologies company Limited
 ACFC82Shenzhen Sundray Technologies company Limited
 C8A23BShenzhen Sundray Technologies company Limited
-4CEF56Shenzhen Sundray Technologies company Limited
 D468BAShenzhen Sundray Technologies company Limited
 9C3A9AShenzhen Sundray Technologies company Limited
 186F2DShenzhen Sundray Technologies company Limited
@@ -30470,6 +31158,7 @@ CC242EShenzhen SuperElectron Technology Co.,Ltd.
 043CE8Shenzhen SuperElectron Technology Co.,Ltd.
 8012DFShenzhen SuperElectron Technology Co.,Ltd.
 68AE04Shenzhen SuperElectron Technology Co.,Ltd.
+4068F9Shenzhen SuperElectron Technology Co.,Ltd.
 900E9EShenzhen SuperElectron Technology Co.,Ltd.
 A8B483Shenzhen SuperElectron Technology Co.,Ltd.
 E8268DShenzhen SuperElectron Technology Co.,Ltd.
@@ -30481,6 +31170,7 @@ FC0C45Shenzhen SuperElectron Technology Co.,Ltd.
 DC4BDDShenzhen SuperElectron Technology Co.,Ltd.
 E4F3E8Shenzhen SuperElectron Technology Co.,Ltd.
 34D72FShenzhen SuperElectron Technology Co.,Ltd.
+B8CD58Shenzhen SuperElectron Technology Co.,Ltd.
 98CCD9Shenzhen SuperElectron Technology Co.,Ltd.
 704CB6Shenzhen SuperElectron Technology Co.,Ltd.
 F4442CShenzhen SuperElectron Technology Co.,Ltd.
@@ -30492,6 +31182,7 @@ FCD586Shenzhen SuperElectron Technology Co.,Ltd.
 E4293DShenzhen Sy-Fiber Optical Communication Technology.Co.,Ltd
 00153AShenzhen Syscan Technology Co.,Ltd.
 3C39A8Shenzhen Taichi Technology Limited
+A4AB39Shenzhen Taichi Technology Limited
 58FDBEShenzhen Taikaida Technology Co., Ltd
 E0B98AShenzhen Taike industrial automation company,Ltd
 C458C2Shenzhen TATFOOK Technology Co., Ltd.
@@ -30503,6 +31194,8 @@ B49EE6SHENZHEN TECHNOLOGY CO LTD
 50E666Shenzhen Techtion Electronics Co., Ltd.
 986297Shenzhen Techwinsemi Technology Co., Ltd.
 C4D4D0SHENZHEN TECNO TECHNOLOGY
+C06E3DSHENZHEN TECNO TECHNOLOGY
+A49DB8SHENZHEN TECNO TECHNOLOGY
 14A86BShenZhen Telacom Science&Technology Co., Ltd
 F86C03Shenzhen Teleone Technology Co., Ltd
 0026BFShenZhen Temobi Science&Tech Development Co.,Ltd
@@ -30546,6 +31239,7 @@ BC458CShenzhen Topwise Communication Co.,Ltd
 002126Shenzhen Torch Equipment Co., Ltd.
 D8D866SHENZHEN TOZED TECHNOLOGIES CO.,LTD.
 F83C44SHENZHEN TRANSCHAN TECHNOLOGY LIMITED
+045E0ASHENZHEN TRANSCHAN TECHNOLOGY LIMITED
 68D1FDShenzhen Trimax Technology Co.,Ltd
 4CA38Fshenzhen trolink  Technology Co.,Ltd
 488F4Cshenzhen trolink  Technology Co.,Ltd
@@ -30554,6 +31248,7 @@ F0A882shenzhen trolink  Technology Co.,Ltd
 94A408Shenzhen Trolink Technology CO, LTD
 68B9D3Shenzhen Trolink Technology CO, LTD
 304A26Shenzhen Trolink Technology CO, LTD
+CCC4B2Shenzhen Trolink Technology Co.,LTD
 1840A4Shenzhen Trylong Smart Science and Technology Co., Ltd.
 0022ABShenzhen Turbosight Technology Ltd
 E0C86ASHENZHEN TW-SCIE Co., Ltd
@@ -30574,6 +31269,7 @@ B4293DShenzhen Urovo Technology Co.,Ltd.
 C40880Shenzhen UTEPO Tech Co., Ltd.
 102FA3Shenzhen Uvision-tech Technology Co.Ltd
 1C4EA2Shenzhen V-Link Technology CO., LTD.
+341FC4Shenzhen V-Link Technology CO., LTD.
 703A2DShenzhen V-Link Technology CO., LTD.
 9C0E4AShenzhen Vastking Electronic Co.,Ltd.
 E8B723Shenzhen Vatilon Electronics Co.,Ltd
@@ -30590,6 +31286,7 @@ C086B3Shenzhen Voxtech Co., Ltd.
 10C34DSHENZHEN WATER WORLD CO.,LTD.
 FCB585Shenzhen Water World Information Co.,Ltd.
 644212Shenzhen Water World Information Co.,Ltd.
+5C4546Shenzhen Water World Information Co.,Ltd.
 6405E9Shenzhen WayOS Technology Crop., Ltd.
 584704Shenzhen Webridge Technology Co.,Ltd
 CC8CDAShenzhen Wei Da Intelligent Technology Go.,Ltd
@@ -30628,6 +31325,7 @@ F4C4D6Shenzhen Xinfa Electronic Co.,ltd
 0016C5Shenzhen Xing Feng Industry Co.,Ltd
 F41AB0Shenzhen Xingguodu Technology Co., Ltd.
 6CB0FDShenzhen Xinghai Iot Technology Co.,Ltd
+EC5865Shenzhen Xinguodu Technology Co., Ltd
 3CBB73Shenzhen Xinguodu Technology Co., Ltd.
 40C81FShenzhen Xinguodu Technology Co., Ltd.
 00195DShenZhen XinHuaTong Opto Electronics Co.,Ltd
@@ -30647,6 +31345,7 @@ A01859Shenzhen Yidashi Electronics Co Ltd
 18AFA1Shenzhen Yifang Network Technology Co., Ltd.
 C48F07Shenzhen Yihao Hulian Science and Technology Co., Ltd.
 2098D8Shenzhen Yingdakang Technology CO., LTD
+B8CC38Shenzhen Yinwang Intelligent Technologies Co., Ltd.
 109166Shenzhen Yinwang Intelligent Technologies Co.,Ltd.
 60A730Shenzhen Yipinfang Internet Technology Co.,Ltd
 482218Shenzhen Yipingfang Network Technology Co., Ltd.
@@ -30691,6 +31390,7 @@ C4518DShenzhen YOUHUA Technology Co., Ltd
 34E71CShenzhen YOUHUA Technology Co., Ltd
 C4047BShenzhen YOUHUA Technology Co., Ltd
 D0F76EShenzhen YOUHUA Technology Co., Ltd
+A857BAShenzhen YOUHUA Technology Co., Ltd
 7886B6Shenzhen YOUHUA Technology Co., Ltd
 1CD5E2Shenzhen YOUHUA Technology Co., Ltd
 70ACD7Shenzhen YOUHUA Technology Co., Ltd
@@ -30709,6 +31409,7 @@ FC34E2Shenzhen YOUHUA Technology Co., Ltd
 94D60Eshenzhen yunmao information technologies co., ltd
 240F5EShenzhen z-router Technology Co., Ltd
 A05394Shenzhen zediel co., Ltd.
+60470AShenzhen Zenith Intelligent Technology Co., Ltd.
 E43A6EShenzhen Zeroone Technology CO.,LTD
 2C67FBShenZhen Zhengjili Electronics Co., LTD
 F85E3CSHENZHEN ZHIBOTONG ELECTRONICS CO.,LTD
@@ -30740,6 +31441,7 @@ A02442Shenzhenshi Xinzhongxin Technology Co.Ltd
 0008E7SHI ControlSystems,Ltd.
 000939ShibaSoku Co.,Ltd.
 002216SHIBAURA VENDING MACHINE CORPORATION
+14DD48Shield AI
 E806EBShieldSOS LLC
 785364SHIFT GmbH
 445F7AShihlin Electric & Engineering Corp.
@@ -30814,6 +31516,7 @@ D834EESHURE INCORPORATED
 601199Siama Systems Inc
 88615ASiano Mobile Silicon Ltd.
 001D1FSiauliu Tauro Televizoriai, JSC
+041CDBSiba Service
 000B1CSIBCO bv
 64EAC5SiboTech Automation Co., Ltd.
 00024CSiByte, Inc.
@@ -30835,9 +31538,11 @@ FC702ESichuan AI-Link Technology Co., Ltd.
 70C912Sichuan AI-Link Technology Co., Ltd.
 80D10ASichuan AI-Link Technology Co., Ltd.
 647B40Sichuan AI-Link Technology Co., Ltd.
+0CF2F5Sichuan AI-Link Technology Co., Ltd.
 102D41Sichuan AI-Link Technology Co., Ltd.
 C0E7BFSichuan AI-Link Technology Co., Ltd.
 0CCDB4Sichuan AI-Link Technology Co., Ltd.
+C0A4B9Sichuan AI-Link Technology Co., Ltd.
 DC9758Sichuan AI-Link Technology Co., Ltd.
 10381FSichuan AI-Link Technology Co., Ltd.
 54F15FSichuan AI-Link Technology Co., Ltd.
@@ -30890,6 +31595,8 @@ CC2614Sichuan Tianyi Comheart Telecom Co.,LTD
 64C01ASichuan Tianyi Comheart Telecom Co.,LTD
 CC6D55Sichuan Tianyi Comheart Telecom Co.,LTD
 AC017ASichuan Tianyi Comheart Telecom Co.,LTD
+E86E3ESichuan Tianyi Comheart Telecom Co.,LTD
+8800C6Sichuan Tianyi Comheart Telecom Co.,LTD
 F86691Sichuan Tianyi Comheart Telecom Co.,LTD
 645234Sichuan Tianyi Comheart Telecom Co.,LTD
 44D506Sichuan Tianyi Comheart Telecom Co.,LTD
@@ -30906,6 +31613,8 @@ CCA260Sichuan Tianyi Comheart Telecom Co.,LTD
 E04FBDSichuan Tianyi Comheart Telecom Co.,LTD
 5CA176Sichuan Tianyi Comheart Telecom Co.,LTD
 30BDFESichuan Tianyi Comheart Telecom Co.,LTD
+B8A792Sichuan Tianyi Comheart Telecom Co.,LTD
+681EA3Sichuan Tianyi Comheart Telecom Co.,LTD
 681A7CSichuan Tianyi Comheart Telecom Co.,LTD
 988CB3Sichuan Tianyi Comheart Telecom Co.,LTD
 9052BFSichuan Tianyi Comheart Telecom Co.,LTD
@@ -31075,6 +31784,7 @@ E8A364Signal Path International / Peachtree Audio
 9850A3SIGNALTEK JSC
 001D79SIGNAMAX LLC
 C42996Signify B.V.
+FC268CSignify B.V.
 001B4CSigntech
 0050DESIGNUM SYSTEMS CORP.
 001604Sigpro
@@ -31120,6 +31830,8 @@ E406BFSilicon Laboratories
 880F62Silicon Laboratories
 BC8D7ESilicon Laboratories
 180DF9Silicon Laboratories
+5C3AA2Silicon Laboratories
+A459BFSilicon Laboratories
 187A3ESilicon Laboratories
 70AC08Silicon Laboratories
 E0798DSilicon Laboratories
@@ -31141,10 +31853,16 @@ A46DD4Silicon Laboratories
 FC4D6ASilicon Laboratories
 C02CEDSilicon Laboratories
 08FD52Silicon Laboratories
-449FDASilicon Laboratories
 983268Silicon Laboratories
+449FDASilicon Laboratories
 8C73DASilicon Laboratories
 18690ASilicon Laboratories
+6CE4A4Silicon Laboratories
+60B763Silicon Laboratories
+70D07ESilicon Laboratories
+6083DASilicon Laboratories
+E07291Silicon Laboratories
+88BA74Silicon Laboratories
 540F57Silicon Laboratories
 2C1165Silicon Laboratories
 50325FSilicon Laboratories
@@ -31163,6 +31881,8 @@ ECF64CSilicon Laboratories
 08B95FSilicon Laboratories
 F074BFSilicon Laboratories
 F044D3Silicon Laboratories
+6CA042Silicon Laboratories
+D878F0Silicon Laboratories
 84BA20Silicon Laboratories
 003C84Silicon Laboratories
 CC86ECSilicon Laboratories
@@ -31185,6 +31905,8 @@ C4D8C8Silicon Laboratories
 00BE44Silicon Laboratories
 94A081Silicon Laboratories
 F0FD45Silicon Laboratories
+CC36BBSilicon Laboratories
+901F09Silicon Laboratories
 385B44Silicon Laboratories
 943469Silicon Laboratories
 9035EASilicon Laboratories
@@ -31212,9 +31934,11 @@ D4FE28Silicon Laboratories
 348D13Silicon Laboratories
 20A716Silicon Laboratories
 C09B9ESilicon Laboratories
-B48931Silicon Laboratories
 7C31FASilicon Laboratories
+B48931Silicon Laboratories
 E456ACSilicon Laboratories
+B0E8E8Silicon Laboratories
+403802Silicon Laboratories
 00235FSilicon Micro Sensors GmbH
 486834Silicon Motion, Inc.
 002452Silicon Software GmbH
@@ -31321,6 +32045,7 @@ BC102FSJI Industry Company
 50FDD5SJI Industry Company
 1CE89ESJIT
 34FC99SJIT Co., Ltd.
+3455E5SJIT Co., Ltd.
 286BB4SJIT Co., Ltd.
 ACE42ESK hynix
 10A743SK Mtek Limited
@@ -31396,6 +32121,7 @@ D452EESKY UK LIMITED
 902106SKY UK LIMITED
 380A0ASky-City Communication and Electronics Limited Company
 00167DSky-Line Information Co., Ltd.
+406E0FSKYASTAR TECHNOLOGLES(ZHUHAI) LTD
 68F0D0SkyBell Technologies Inc.
 9C54DASkyBell Technologies Inc.
 D0C193SKYBELL, INC
@@ -31412,6 +32138,7 @@ E8CE06SkyHawke Technologies, LLC.
 9C45F0SKYLARK ELECTRONICS PVT LTD
 B0BC8ESkyMirr
 306CBESkymotion Technology (HK) Limited
+4461DFSkyquad Electronics & Appliances Pvt. Ltd.
 00301DSKYSTREAM, INC.
 A0B9EDSkytap
 D8052ESkyviia Corporation
@@ -31643,6 +32370,7 @@ F81D90Solidwintech
 0003C2Solphone K.K.
 00216DSoltech Co., Ltd.
 001119Solteras, Inc.
+500FC6solum
 000EB0Solutions Radio BV
 0021ECSolutronic GmbH
 000251Soma Networks, Inc.
@@ -32037,6 +32765,7 @@ E8F2E3Starcor Beijing Co.,Limited
 001063STARGUIDE DIGITAL NETWORKS
 A800E3Starkey Labs Inc.
 9C9C1DStarkey Labs Inc.
+588990Starkey Labs Inc.
 38BC61Starkoff Co., Ltd.
 00268CStarLeaf Ltd.
 984E97Starlight Marketing (H. K.) Ltd.
@@ -32060,6 +32789,7 @@ B88EC6Stateless Networks
 702F4BSteelcase Inc.
 20AF1BSteelSeries ApS
 289A4BSteelSeries ApS
+30836BSteeRetail Co.,Ltd.
 50D274Steffes Corporation
 002047STEINBRECHER CORP.
 CCBD35Steinel GmbH
@@ -32097,6 +32827,7 @@ EC0482STL Systems AG
 001139STOEBER ANTRIEBSTECHNIK GmbH + Co. KG.
 001273Stoke Inc
 0014E7Stolinx,. Inc
+5CC41DStone Devices Sdn. Bhd.
 001EE9Stoneridge Electronics AB
 587A4DStonesoft Corporation
 D093F8Stonestreet One LLC
@@ -32158,9 +32889,11 @@ E457A8Stuart Manufacturing, Inc.
 000422Studio Technologies, Inc
 78BEBDSTULZ GmbH
 002158Style Flying Technology Co.
+8079EFSUB-ZERO GROUP, INC.
 983571Sub10 Systems Ltd
 5C2D08Subeca
 6C42ABSubscriber Networks, Inc.
+80B269Subtle Computing
 0025F0Suga Electronics Limited
 54B620SUHDOL E&C Co.Ltd.
 0004AESullair Corporation
@@ -32524,9 +33257,11 @@ BC0FB7sywinkey HongKong Co,. Limited?
 0C9AE6SZ DJI TECHNOLOGY CO.,LTD
 60601FSZ DJI TECHNOLOGY CO.,LTD
 E47A2CSZ DJI TECHNOLOGY CO.,LTD
+882985SZ DJI TECHNOLOGY CO.,LTD
 58B858SZ DJI TECHNOLOGY CO.,LTD
 34D262SZ DJI TECHNOLOGY CO.,LTD
 04A85ASZ DJI TECHNOLOGY CO.,LTD
+4C43F6SZ DJI TECHNOLOGY CO.,LTD
 68C95DSZ Knowact Robot Technology Co., Ltd
 E031D0SZ Telstar CO., LTD
 3CB43DSZ Tenveo video technology co., Ltd
@@ -32607,6 +33342,7 @@ AC3728Taicang T&W Electronics
 F06865Taicang T&W Electronics
 F844E3Taicang T&W Electronics
 8049BFTaicang T&W Electronics
+84C665Taicang T&W Electronics
 60BD2CTaicang T&W Electronics
 784F24Taicang T&W Electronics
 A41EE1Taicang T&W Electronics
@@ -32759,9 +33495,11 @@ CCA12BTCL King Electrical Appliances (Huizhou) Co., Ltd
 08C3B3TCL King Electrical Appliances(Huizhou)Co.,Ltd
 C07982TCL King Electrical Appliances(Huizhou)Co.,Ltd
 D065B3TCL King Electrical Appliances(Huizhou)Co.,Ltd
+18ACC2TCL King Electrical Appliances(Huizhou)Co.,Ltd
 4887B8TCL King Electrical Appliances(Huizhou)Co.,Ltd
 382656TCL King Electrical Appliances(Huizhou)Co.,Ltd
 2CE032TCL King Electrical Appliances(Huizhou)Co.,Ltd
+8C0F7ETCL King Electrical Appliances(Huizhou)Co.,Ltd
 4C4929TCL King Electrical Appliances(Huizhou)Co.,Ltd
 C87EA1TCL MOKA International Limited
 987A9BTCL MOKA International Limited
@@ -32811,6 +33549,7 @@ D8E56DTCT mobile ltd
 94D859TCT mobile ltd
 B0E03CTCT mobile ltd
 2C532BTCT mobile ltd
+987800TCT mobile ltd
 942790TCT mobile ltd
 E4E130TCT mobile ltd
 A8A198TCT mobile ltd
@@ -32881,18 +33620,6 @@ F8FEA8Technico Japan Corporation
 F01628Technicolor (China) Technology Co., Ltd.
 38F18FTechnicolor (China) Technology Co., Ltd.
 2C301ATechnicolor CH USA Inc for Telus
-E0B9E5Technicolor Delivery Technologies Belgium NV
-30918FTechnicolor Delivery Technologies Belgium NV
-9C9726Technicolor Delivery Technologies Belgium NV
-A0B53CTechnicolor Delivery Technologies Belgium NV
-D4351DTechnicolor Delivery Technologies Belgium NV
-A491B1Technicolor Delivery Technologies Belgium NV
-C4EA1DTechnicolor Delivery Technologies Belgium NV
-589835Technicolor Delivery Technologies Belgium NV
-20B001Technicolor Delivery Technologies Belgium NV
-A4B1E9Technicolor Delivery Technologies Belgium NV
-D4925ETechnicolor Delivery Technologies Belgium NV
-101331Technicolor Delivery Technologies Belgium NV
 0005EDTechnikum Joanneum GmbH
 0008C9TechniSat Digital GmbH Daun
 3CCD5ATechnische Alternative GmbH
@@ -32997,6 +33724,7 @@ BC09EBTECNO MOBILE LIMITED
 B4BA6ATECNO MOBILE LIMITED
 4476E7TECNO MOBILE LIMITED
 40A786TECNO MOBILE LIMITED
+D89999TECNO MOBILE LIMITED
 0021DCTECNOALARM S.r.l.
 94C2BDTECNOBIT
 00E020TECNOMEN OY
@@ -33062,6 +33790,7 @@ BCF9F2TEKO
 001146Telecard-Pribor Ltd
 F450EBTelechips Inc
 88462ATelechips Inc.
+B8511DTELECHIPS, INC
 68418FTelechips, Inc.
 B4D286Telechips, Inc.
 7C240CTelechips, Inc.
@@ -33138,6 +33867,7 @@ D819CETelesquare
 009056TELESTREAM, INC.
 006062TELESYNC, INC.
 00119BTelesynergy Research Inc.
+3C2AB3Telesystem communications Pte Ltd
 48B9C2Teletics Inc.
 001B6FTeletrak Ltd
 0030B7Teletrol Systems, Inc.
@@ -33156,13 +33886,16 @@ A4EF52Telewave Co., Ltd.
 001104TELEXY
 00305ATELGEN CORPORATION
 500401TelHi Corporation
+0009D8Telia Company AB
 001C32Telian Corporation
 0030FATELICA, INC.
 CC67D8Telin Semiconductor (Wuhan) Co.,Ltd
 00C089TELINDUS DISTRIBUTION
 382228Telink Micro LLC
 BC9D37Telink Micro LLC
+74DC13Telink Micro LLC
 C0A3C7Telink Micro LLC
+603FFBTelink Micro LLC
 AC5C80Telink Micro LLC
 4C8237Telink Micro LLC
 BCF212Telink Micro LLC
@@ -33194,6 +33927,7 @@ A4C138Telink Semiconductor (Taipei) Co. Ltd.
 00A0FFTELLABS OPERATIONS, INC.
 ACCA54Telldus Technologies AB
 104121TELLESCOM INDUSTRIA E COMERCIO EM TELECOMUNICACAO
+B81E61TELLESCOM INDUSTRIA E COMERCIO EM TELECOMUNICACAO
 44896DTELLESCOM INDUSTRIA E COMERCIO EM TELECOMUNICACAO
 542F8ATELLESCOM INDUSTRIA E COMERCIO EM TELECOMUNICACAO
 F45420TELLESCOM INDUSTRIA E COMERCIO EM TELECOMUNICACAO
@@ -33205,7 +33939,6 @@ F45420TELLESCOM INDUSTRIA E COMERCIO EM TELECOMUNICACAO
 000EDCTellion INC.
 000C7ETellium Incorporated
 002117Tellord
-0015EATellumat (Pty) Ltd
 0004DBTellus Group Corp.
 0090FFTELLUS TECHNOLOGY INC.
 004007TELMAT INFORMATIQUE
@@ -33260,6 +33993,7 @@ D83214Tenda Technology Co.,Ltd.Dongguan branch
 502B73Tenda Technology Co.,Ltd.Dongguan branch
 001DB7Tendril Networks, Inc.
 10D680Tendyron Corporation
+8813C2Tendyron Corporation
 389592Tendyron Corporation
 105FD4Tendyron Corporation
 F88DEFTenebraex
@@ -33319,6 +34053,7 @@ B456B9Teraspek Technologies Co.,Ltd
 00245DTerberg besturingstechniek B.V.
 C4D655Tercel technology co.,ltd
 34A3BFTerewave. Inc.
+3077DFTerex Corporation
 00C039Teridian Semiconductor Corporation
 0020B4TERMA ELEKTRONIK AS
 0011C4Terminales de Telecomunicacion Terrestre, S.L.
@@ -33337,6 +34072,7 @@ F4B6E5TerraSem Co.,Ltd
 54F8F0Tesla Inc
 98ED5CTesla,Inc.
 90E643Tesla,Inc.
+D44F14Tesla,Inc.
 0C298FTesla,Inc.
 4CFCAATesla,Inc.
 90C99BTesorion Nederland B.V.
@@ -33425,8 +34161,11 @@ EC09C9Texas Instruments
 58D15ATexas Instruments
 C45746Texas Instruments
 443E8ATexas Instruments
-E0DEF2Texas Instruments
 F4063CTexas Instruments
+E0DEF2Texas Instruments
+448346Texas Instruments
+787871Texas Instruments
+DCDEE3Texas Instruments
 880CE0Texas Instruments
 B83DF6Texas Instruments
 847293Texas Instruments
@@ -33504,8 +34243,8 @@ FCDEC5Texas Instruments
 08D593Texas Instruments
 88CFCDTexas Instruments
 F8916FTexas Instruments
-6C1AEATexas Instruments
 684406Texas Instruments
+6C1AEATexas Instruments
 D4E95ETexas Instruments
 90CEB8Texas Instruments
 B4BC7CTexas Instruments
@@ -33581,6 +34320,7 @@ A4B0F5Texas Instruments
 2CD3ADTexas Instruments
 E45D39Texas Instruments
 D81D13Texas Instruments
+8CD066Texas Instruments
 CCB54CTexas Instruments
 74A58CTexas Instruments
 3CE002Texas Instruments
@@ -33659,6 +34399,8 @@ D4060FTexas Instruments
 A4C34ETexas Instruments
 742981Texas Instruments
 88546BTexas Instruments
+746A84Texas Instruments
+A861ECTexas Instruments
 407912Texas Instruments
 58A15FTexas Instruments
 10CABFTexas Instruments
@@ -33722,9 +34464,11 @@ C0D60ATexas Instruments
 042322Texas Instruments
 4CDA38Texas Instruments
 CCDAB5Texas Instruments
+C8C83FTexas Instruments
 D852FATexas Instruments
 38E2C4Texas Instruments
-C8C83FTexas Instruments
+649B8FTexas Instruments
+289E1ETexas Instruments
 0020C2TEXAS MEMORY SYSTEMS, INC.
 00A0B4TEXAS MICROSYSTEMS, INC.
 000309Texcel Technology PLC
@@ -33971,6 +34715,7 @@ FCAE2BTitan Products Ltd.
 0011E8Tixi.Com
 CC6DEFTJK Tietolaite Oy
 00047ETKH Security B.V.
+001ED1TKH Security B.V.
 000673TKH Security Solutions USA
 4017F6TKH SECURITY,S.L.U.
 0026EETKM GmbH
@@ -34037,6 +34782,7 @@ DCDB70Tonfunk Systementwicklung und Service GmbH
 8081A5TONGQING COMMUNICATION EQUIPMENT (SHENZHEN) Co.,Ltd
 001699Tonic DVB Marketing Ltd
 D45944tonies GmbH
+989E80tonies GmbH
 8892CCTonly Technology Co. Ltd
 84D352Tonly Technology Co. Ltd
 D8AA59Tonly Technology Co. Ltd
@@ -34048,6 +34794,7 @@ A8E6E8Tonly Technology Co. Ltd
 286F40Tonly Technology Co. Ltd
 00A07CTONYANG NYLON CO., LTD.
 0017B7Tonze Technology Co.
+A46185Tools for Humanity Corporation
 0C8D98TOP EIGHT IND CORP
 000B89Top Global Technology, Ltd.
 0010D1Top Layer Networks, Inc.
@@ -34143,6 +34890,8 @@ D86595Toy's Myth Inc.
 8C9109Toyoshima Electric Technoeogy(Suzhou) Co.,Ltd.
 000AABToyota Technical Development Corporation
 08CA45Toyou Feiji Electronics Co., Ltd.
+98A942Tozed Kangwei Tech Co., Ltd
+0C61F9Tozed Kangwei Tech Co., Ltd
 FC3FFCTozed Kangwei Tech Co.,Ltd
 D842F7Tozed Kangwei Tech Co.,Ltd
 58FCC6TOZO INC
@@ -34198,6 +34947,8 @@ DC6279TP-Link Systems Inc
 48C381TP-Link Systems Inc.
 CCBABDTP-Link Systems Inc.
 3C7895TP-Link Systems Inc.
+B8FBB3TP-Link Systems Inc.
+186945TP-Link Systems Inc.
 306893TP-Link Systems Inc.
 EC750CTP-Link Systems Inc.
 98BA5FTP-Link Systems Inc.
@@ -34206,6 +34957,7 @@ E0280ATP-Link Systems Inc.
 8C86DDTP-Link Systems Inc.
 503DD1TP-Link Systems Inc.
 94EF50TP-Link Systems Inc.
+6C4CBCTP-Link Systems Inc.
 04C845TP-Link Systems Inc.
 782051TP-Link Systems Inc.
 B45BD1TP-Link Systems Inc.
@@ -34214,6 +34966,8 @@ F4F50BTP-Link Systems Inc.
 040F66TP-Link Systems Inc.
 D8F12ETP-Link Systems Inc.
 105A95TP-Link Systems Inc.
+58044FTP-Link Systems Inc.
+20E15DTP-Link Systems Inc.
 BC071DTP-Link Systems Inc.
 3C6AD2TP-Link Systems Inc.
 A82948TP-Link Systems Inc.
@@ -34222,6 +34976,8 @@ E0D362TP-Link Systems Inc.
 8C902DTP-Link Systems Inc.
 0CEF15TP-Link Systems Inc.
 5CA64FTP-Link Systems Inc.
+ACA7F1TP-Link Systems Inc.
+58D812TP-Link Systems Inc.
 68DDB7TP-LINK TECHNOLOGIES CO.,LTD.
 14D864TP-LINK TECHNOLOGIES CO.,LTD.
 AC84C6TP-LINK TECHNOLOGIES CO.,LTD.
@@ -34254,6 +35010,7 @@ E8DE27TP-LINK TECHNOLOGIES CO.,LTD.
 BCD177TP-LINK TECHNOLOGIES CO.,LTD.
 F8CE21TP-LINK TECHNOLOGIES CO.,LTD.
 F8C903TP-LINK TECHNOLOGIES CO.,LTD.
+2C79BETP-LINK TECHNOLOGIES CO.,LTD.
 3C6A48TP-LINK TECHNOLOGIES CO.,LTD.
 DC0077TP-LINK TECHNOLOGIES CO.,LTD.
 F42A7DTP-LINK TECHNOLOGIES CO.,LTD.
@@ -34278,6 +35035,7 @@ E894F6TP-LINK TECHNOLOGIES CO.,LTD.
 1CFA68TP-LINK TECHNOLOGIES CO.,LTD.
 C04A00TP-LINK TECHNOLOGIES CO.,LTD.
 743989TP-LINK TECHNOLOGIES CO.,LTD.
+889986TP-LINK TECHNOLOGIES CO.,LTD.
 60292BTP-LINK TECHNOLOGIES CO.,LTD.
 7844FDTP-LINK TECHNOLOGIES CO.,LTD.
 F4848DTP-LINK TECHNOLOGIES CO.,LTD.
@@ -34311,6 +35069,7 @@ D8150DTP-LINK TECHNOLOGIES CO.,LTD.
 CC3429TP-LINK TECHNOLOGIES CO.,LTD.
 4C10D5TP-LINK TECHNOLOGIES CO.,LTD.
 60A3E3TP-LINK TECHNOLOGIES CO.,LTD.
+446690TP-LINK TECHNOLOGIES CO.,LTD.
 78605BTP-LINK TECHNOLOGIES CO.,LTD.
 04F9F8TP-LINK TECHNOLOGIES CO.,LTD.
 480EECTP-LINK TECHNOLOGIES CO.,LTD.
@@ -34392,6 +35151,7 @@ F4F26DTP-LINK TECHNOLOGIES CO.,LTD.
 0C722CTP-LINK TECHNOLOGIES CO.,LTD.
 245A5FTP-LINK TECHNOLOGIES CO.,LTD.
 9C4782TP-LINK TECHNOLOGIES CO.,LTD.
+84B890TP-LINK TECHNOLOGIES CO.,LTD.
 000E73Tpack A/S
 001B20TPine Technology
 58639ATPL SYSTEMES
@@ -34411,6 +35171,7 @@ B813E9Trace Live Network
 00165CTrackflow Ltd.
 D8C6F9Tracklab Inc
 58A0CBTrackNet, Inc
+50AB29Trackunit ApS
 8020AFTrade FIDES, a.s.
 5C7B6CTradit Co., Ltd
 008028TRADPOST (HK) LTD
@@ -34483,6 +35244,7 @@ B8BD79TrendPoint Systems
 70A191Trendsetter Medical, LLC
 00D06ETRENDVIEW RECORDERS LTD.
 00106FTRENTON TECHNOLOGY INC.
+9C3312Treon Oy
 34A709Trevil srl
 0001AETrex Enterprises
 3055EDTrex Network LLC
@@ -34595,6 +35357,7 @@ E0271ATTC Next-generation Home Network System WG
 EC4644TTK SAS
 542097TTTech Auto  AG
 8823FETTTech Computertechnik AG
+8445A0Tube investments of India Limited
 147373TUBITAK UEKAE
 18C451Tucson Embedded Systems
 00805ATULIP COMPUTERS INTERNAT'L B.V
@@ -34622,6 +35385,7 @@ C4693ETurbulence Design Inc.
 0021F1Tutus Data AB
 1C90FFTuya Smart Inc.
 FC3CD7Tuya Smart Inc.
+E4AEE4Tuya Smart Inc.
 FC671FTuya Smart Inc.
 CC8CBFTuya Smart Inc.
 381F8DTuya Smart Inc.
@@ -34634,11 +35398,14 @@ B8060DTuya Smart Inc.
 F8172DTuya Smart Inc.
 D8C80CTuya Smart Inc.
 00337ATuya Smart Inc.
+D8FC92Tuya Smart Inc.
 C482E1Tuya Smart Inc.
 105A17Tuya Smart Inc.
 C0F853Tuya Smart Inc.
 3C0B59Tuya Smart Inc.
 BC351ETuya Smart Inc.
+20F1B2Tuya Smart Inc.
+30487DTuya Smart Inc.
 18DE50Tuya Smart Inc.
 A09208Tuya Smart Inc.
 7CF666Tuya Smart Inc.
@@ -34693,6 +35460,7 @@ B8F44Fu-blox AG
 CCF957u-blox AG
 80A197u-blox AG
 5464DEu-blox AG
+90F861u-blox AG
 0011E0U-MEDIA Communications, Inc.
 C46354U-Raku, Inc.
 001580U-WAY CORPORATION
@@ -34708,6 +35476,7 @@ C4E17CU2S co.
 E4AB46UAB Selteka
 388A21UAB Teltonika Telematics
 7CD9F4UAB Teltonika Telematics
+6CAFABUAB Teltonika Telematics
 546F71uAvionix Corporation
 1C83ECUbee Interactive co, Limited.
 5876B3Ubee Interactive Co., Limited
@@ -34750,12 +35519,14 @@ AC8BA9Ubiquiti Inc
 58D61FUbiquiti Inc
 6C63F8Ubiquiti Inc
 A89C6CUbiquiti Inc
+74F92CUbiquiti Inc
 0418D6Ubiquiti Inc
 24A43CUbiquiti Inc
 44D9E7Ubiquiti Inc
 D021F9Ubiquiti Inc
 70A741Ubiquiti Inc
 8CEDE1Ubiquiti Inc
+9041B2Ubiquiti Inc
 F4E2C6Ubiquiti Inc
 D8B370Ubiquiti Inc
 B4FBE4Ubiquiti Inc
@@ -34763,6 +35534,8 @@ B4FBE4Ubiquiti Inc
 FCECDAUbiquiti Inc
 942A6FUbiquiti Inc
 1C0B8BUbiquiti Inc
+74FA29Ubiquiti Inc
+D489C1Ubiquiti Inc
 00156DUbiquiti Inc
 002722Ubiquiti Inc
 DC9FDBUbiquiti Inc
@@ -34772,6 +35545,8 @@ F492BFUbiquiti Inc
 68D79AUbiquiti Inc
 1C6A1BUbiquiti Inc
 8C3066Ubiquiti Inc
+CC35D9Ubiquiti Inc
+A4F8FFUbiquiti Inc
 301518Ubiquitous Communication Co. ltd.
 9CB008Ubiquitous Computing Technology Corporation
 6C5E7AUbiquitous Internet Telecom Co., Ltd
@@ -34800,6 +35575,7 @@ FC946CUBIVELOX
 44AA27udworks Co., Ltd.
 001005UEC COMMERCIAL
 000FDCUeda Japan  Radio Co., Ltd.
+30F03AUEI Electronics Private Ltd.
 ACBE75Ufine Technologies Co.,Ltd.
 E8C57AUfispace Co., LTD.
 342C8EUfispace Co., LTD.
@@ -34807,6 +35583,7 @@ E8C57AUfispace Co., LTD.
 6852D6UGame Technology Co.,Ltd
 44EFCFUGENE SOLUTION inc.
 6C1FF7Ugreen Group Limited
+EC1AC3Ugreen Group Limited
 4C3FA7uGrid Network Inc.
 00089DUHD-Elektronik
 000D16UHS Systems Pty Ltd
@@ -34842,6 +35619,7 @@ A47B85ULTIMEDIA Co Ltd,
 000414Umezawa Musen Denki Co., Ltd.
 B4C810Umpi srl
 001131UNATECH. CO.,LTD
+14D67CUncord Technologies Private Limited
 88C48EUNEEVIU TECHNOLOGIES INDIA PRIVATE LIMITED
 78EF4CUnetconvergence Co., Ltd.
 0001A7UNEX TECHNOLOGY CORPORATION
@@ -34929,8 +35707,12 @@ A01C87UNION MAN TECHNOLOGY CO.,LTD
 184F43UNIONMAN TECHNOLOGY CO.,LTD
 4C7B35UNIONMAN TECHNOLOGY CO.,LTD
 841A24UNIONMAN TECHNOLOGY CO.,LTD
+3C49FFUNIONMAN TECHNOLOGY CO.,LTD
+20B83DUNIONMAN TECHNOLOGY CO.,LTD
+A0FDD9UNIONMAN TECHNOLOGY CO.,LTD
 F02178UNIONMAN TECHNOLOGY CO.,LTD
 E8122DUNIONMAN TECHNOLOGY CO.,LTD
+089C74UNIONMAN TECHNOLOGY CO.,LTD
 84D9C8Unipattern Co.,
 002111Uniphone Inc.
 0024F2Uniphone Telecommunication Co., Ltd.
@@ -34946,6 +35728,7 @@ D01AA7UniPrint
 00003DUNISYS
 08000BUNISYS CORPORATION
 4C5ED3Unisyue Technologies Co; LTD.
+9C935CUnisyue Technologies Co;LTD
 D88A3BUNIT-EM
 98DCD9UNITEC Co., Ltd.
 00E05DUNITEC CO., LTD.
@@ -35009,28 +35792,29 @@ B8F255Universal Electronics, Inc.
 9CAC6DUniversal Electronics, Inc.
 185111Universal Electronics, Inc.
 3499D7Universal Flow Monitors, Inc.
-8C3B4AUniversal Global Scientific Industrial Co., Ltd.
-3CE1A1Universal Global Scientific Industrial Co., Ltd.
-E02A82Universal Global Scientific Industrial Co., Ltd.
-70F395Universal Global Scientific Industrial Co., Ltd.
-0C3CCDUniversal Global Scientific Industrial Co., Ltd.
-002186Universal Global Scientific Industrial Co., Ltd.
-083A88Universal Global Scientific Industrial Co., Ltd.
-FC4DD4Universal Global Scientific Industrial Co., Ltd.
-CC52AFUniversal Global Scientific Industrial Co., Ltd.
-002713Universal Global Scientific Industrial Co., Ltd.
-E04F43Universal Global Scientific Industrial Co., Ltd.
-047BCBUniversal Global Scientific Industrial Co., Ltd.
-001E37Universal Global Scientific Industrial Co., Ltd.
-001A6BUniversal Global Scientific Industrial Co., Ltd.
-001641Universal Global Scientific Industrial Co., Ltd.
-0010C6Universal Global Scientific Industrial Co., Ltd.
-00247EUniversal Global Scientific Industrial Co., Ltd.
-4439C4Universal Global Scientific Industrial Co., Ltd.
-402CF4Universal Global Scientific Industrial Co., Ltd.
-387C76Universal Global Scientific Industrial Co., Ltd.
-6C0B84Universal Global Scientific Industrial Co., Ltd.
+8C3B4AUniversal Global Scientific Industrial., Ltd
+70F395Universal Global Scientific Industrial., Ltd
+E02A82Universal Global Scientific Industrial., Ltd
+3CE1A1Universal Global Scientific Industrial., Ltd
+0C3CCDUniversal Global Scientific Industrial., Ltd
+002186Universal Global Scientific Industrial., Ltd
+002713Universal Global Scientific Industrial., Ltd
+CC52AFUniversal Global Scientific Industrial., Ltd
+FC4DD4Universal Global Scientific Industrial., Ltd
+083A88Universal Global Scientific Industrial., Ltd
+E04F43Universal Global Scientific Industrial., Ltd
+702661Universal Global Scientific Industrial., Ltd
+00247EUniversal Global Scientific Industrial., Ltd
+0010C6Universal Global Scientific Industrial., Ltd
+001641Universal Global Scientific Industrial., Ltd
+001A6BUniversal Global Scientific Industrial., Ltd
+001E37Universal Global Scientific Industrial., Ltd
+402CF4Universal Global Scientific Industrial., Ltd
+4439C4Universal Global Scientific Industrial., Ltd
+047BCBUniversal Global Scientific Industrial., Ltd
 10E18EUniversal Global Scientific Industrial., Ltd
+6C0B84Universal Global Scientific Industrial., Ltd
+387C76Universal Global Scientific Industrial., Ltd
 0006A9Universal Instruments Corp.
 54D1B0Universal Laser Systems, Inc
 0026DAUniversal Media Corporation /Slovakia/ s.r.o.
@@ -35059,6 +35843,7 @@ E43C80University of Oklahoma
 0000EAUPNOD AB
 70D880Upos System sp. z o.o.
 000670Upponetti Oy
+E847F3upscale ai
 000867Uptime Devices
 508A42Uptmate Technology Co., LTD
 D4BF7FUPVEL
@@ -35181,10 +35966,24 @@ C4509CVantiva - Connected Home
 C44FD5Vantiva - Connected Home
 1036AAVantiva - Connected Home
 DC7306Vantiva Connected Home - Home Networks
+985B76Vantiva Connected Home - Orange Belgium
 3034F6Vantiva Connected Home - Subcomponents
 D8D8E5Vantiva Connected Home - Technologies Telco
 08C7F5Vantiva Connected Home - Technologies Telco
+9840D4Vantiva Connected Home - Technologies Telco
 60D8A4Vantiva Connected Home - Technologies Telco
+30918FVantiva Technologies Belgium
+E0B9E5Vantiva Technologies Belgium
+9C9726Vantiva Technologies Belgium
+A0B53CVantiva Technologies Belgium
+C4EA1DVantiva Technologies Belgium
+A491B1Vantiva Technologies Belgium
+D4351DVantiva Technologies Belgium
+589835Vantiva Technologies Belgium
+20B001Vantiva Technologies Belgium
+A4B1E9Vantiva Technologies Belgium
+101331Vantiva Technologies Belgium
+D4925EVantiva Technologies Belgium
 CC03FAVantiva USA LLC
 48F7C0Vantiva USA LLC
 480033Vantiva USA LLC
@@ -35259,6 +36058,7 @@ D08A91Vantiva USA LLC
 0C0227Vantiva USA LLC
 F4C114Vantiva USA LLC
 F820D2Vantiva USA LLC
+641B85Vantiva USA LLC
 98524AVantiva USA LLC
 A0FF70Vantiva USA LLC
 5C7D7DVantiva USA LLC
@@ -35372,6 +36172,7 @@ A06A00Verilink Corporation
 485D36Verizon
 20C047Verizon
 C8A70AVerizon Business
+7CA236Verizon Connect
 948FEEVerizon Telematics
 E0A700Verkada Inc
 0018E1Verkerk Service Systemen
@@ -35472,6 +36273,7 @@ B87424Viessmann Elektronik GmbH
 B82903VIETNAM POST AND TELECOMMUNICATION INDUSTRY TECHNOLOGY JOIN STOCK COMPANY
 7C7B68VIETNAM POST AND TELECOMMUNICATION INDUSTRY TECHNOLOGY JOIN STOCK COMPANY
 4C12E8VIETNAM POST AND TELECOMMUNICATION INDUSTRY TECHNOLOGY JOIN STOCK COMPANY
+C42C7BVIETNAM POST AND TELECOMMUNICATION INDUSTRY TECHNOLOGY JOIN STOCK COMPANY
 CC7190VIETNAM POST AND TELECOMMUNICATION INDUSTRY TECHNOLOGY JOINT STOCK COMPANY
 240B2AViettel Group
 FC019EVIEVU
@@ -35642,6 +36444,9 @@ B46E10vivo Mobile Communication Co., Ltd.
 D84A83vivo Mobile Communication Co., Ltd.
 904C02vivo Mobile Communication Co., Ltd.
 041FB8vivo Mobile Communication Co., Ltd.
+3041DBvivo Mobile Communication Co., Ltd.
+44FB76vivo Mobile Communication Co., Ltd.
+80BF21vivo Mobile Communication Co., Ltd.
 009CC0vivo Mobile Communication Co., Ltd.
 74C530vivo Mobile Communication Co., Ltd.
 20E46Fvivo Mobile Communication Co., Ltd.
@@ -35674,6 +36479,7 @@ E45AA2vivo Mobile Communication Co., Ltd.
 1C7ACFvivo Mobile Communication Co., Ltd.
 1C7A43vivo Mobile Communication Co., Ltd.
 340557vivo Mobile Communication Co., Ltd.
+2482CAvivo Mobile Communication Co., Ltd.
 743357vivo Mobile Communication Co., Ltd.
 541149vivo Mobile Communication Co., Ltd.
 3CA2C3vivo Mobile Communication Co., Ltd.
@@ -35763,6 +36569,8 @@ FC1A11vivo Mobile Communication Co., Ltd.
 A86F36vivo Mobile Communication Co., Ltd.
 D498B9vivo Mobile Communication Co., Ltd.
 6C40E8vivo Mobile Communication Co., Ltd.
+B49D6Bvivo Mobile Communication Co., Ltd.
+AC401Evivo Mobile Communication Co., Ltd.
 609E64Vivonic GmbH
 64B64AViVOtech, Inc.
 0002D1Vivotek, Inc.
@@ -35788,6 +36596,7 @@ C41CFFVizio, Inc
 14C67DVizio, Inc
 80051FVizio, Inc
 24EE5DVizio, Inc
+F04FE0Vizio, Inc
 74E277Vizmonet Pte Ltd
 0016B0VK Corporation
 B843E4Vlatacom
@@ -35888,6 +36697,7 @@ C4EEAEVSS Monitoring
 001F6EVtech Engineering Corporation
 000D14Vtech Innovation LP dba Advanced American Telephones
 000908VTech Technology Corp.
+1C8EE6VTECH TELECOMMUNICATIONS LIMITED
 00122AVTech Telecommunications Ltd.
 C468D0VTech Telecommunications Ltd.
 14AEDBVTech Telecommunications Ltd.
@@ -35901,6 +36711,7 @@ A4975CVTech Telecommunications Ltd.
 000EF7Vulcan Portals Inc
 D44C24Vuppalamritha Magnetic Components LTD
 C877F3VusionGroup
+6CF43DVusionGroup
 840055VusionGroup
 B8C051VusionGroup
 A4EA4FVusionGroup
@@ -35909,6 +36720,7 @@ A4EA4FVusionGroup
 BCA13AVusionGroup
 C4EB68VusionGroup
 882222VusionGroup
+84C7E2VusionGroup
 D46352Vutility Inc.
 002398Vutlan sro
 006DFBVutrix Technologies Ltd
@@ -36351,50 +37163,6 @@ F4A80DWistron InfoComm(Kunshan)Co.,Ltd.
 3C970EWistron InfoComm(Kunshan)Co.,Ltd.
 F4F19EWistron InforComm (Zhongshan) Corporation
 ECB4E8Wistron Mexico SA de CV
-8C53E6Wistron Neweb Corporation
-AC919BWistron Neweb Corporation
-10E8A7Wistron Neweb Corporation
-984914Wistron Neweb Corporation
-B00073Wistron Neweb Corporation
-A854B2Wistron Neweb Corporation
-90A4DEWistron Neweb Corporation
-746FF7Wistron Neweb Corporation
-DC4BA1Wistron Neweb Corporation
-2441FEWistron Neweb Corporation
-885A85Wistron Neweb Corporation
-B89F09Wistron Neweb Corporation
-2824FFWistron Neweb Corporation
-B882F2Wistron Neweb Corporation
-401A58Wistron Neweb Corporation
-38B800Wistron Neweb Corporation
-60E6F0Wistron Neweb Corporation
-7061BEWistron Neweb Corporation
-1CD6BEWistron Neweb Corporation
-2C9FFBWistron Neweb Corporation
-44E4EEWistron Neweb Corporation
-B8B7F1Wistron Neweb Corporation
-2CDCADWistron Neweb Corporation
-BC307DWistron Neweb Corporation
-48A9D2Wistron Neweb Corporation
-80EA23Wistron Neweb Corporation
-001BB1Wistron Neweb Corporation
-BC307EWistron Neweb Corporation
-8C579BWistron Neweb Corporation
-282E89Wistron Neweb Corporation
-388D3DWistron Neweb Corporation
-8C8B5BWistron Neweb Corporation
-F46C68Wistron Neweb Corporation
-E8C7CFWistron Neweb Corporation
-64FF0AWistron Neweb Corporation
-D86162Wistron Neweb Corporation
-E037BFWistron Neweb Corporation
-000B6BWistron Neweb Corporation
-6002B4Wistron Neweb Corporation
-589671Wistron Neweb Corporation
-58E403Wistron Neweb Corporation
-78670EWistron Neweb Corporation
-30144AWistron Neweb Corporation
-F86DCCWistron Neweb Corporation
 1894A3Wistron Service(Kunshan) Co., Ltd.
 0012C3WIT S.A.
 0010D0WITCOM, LTD.
@@ -36426,6 +37194,53 @@ B0BF99WIZITDONGDO
 441319WKK TECHNOLOGY LTD.
 00408FWM-DATA MINFO AB
 00A0AFWMS INDUSTRIES
+AC919BWNC Corporation
+8C53E6WNC Corporation
+DC4BA1WNC Corporation
+2441FEWNC Corporation
+746FF7WNC Corporation
+A854B2WNC Corporation
+90A4DEWNC Corporation
+B00073WNC Corporation
+984914WNC Corporation
+10E8A7WNC Corporation
+442538WNC Corporation
+2824FFWNC Corporation
+B89F09WNC Corporation
+B882F2WNC Corporation
+885A85WNC Corporation
+8C579BWNC Corporation
+80EA23WNC Corporation
+48A9D2WNC Corporation
+BC307DWNC Corporation
+BC307EWNC Corporation
+2C9FFBWNC Corporation
+1CD6BEWNC Corporation
+7061BEWNC Corporation
+60E6F0WNC Corporation
+38B800WNC Corporation
+401A58WNC Corporation
+001BB1WNC Corporation
+2CDCADWNC Corporation
+B8B7F1WNC Corporation
+44E4EEWNC Corporation
+282E89WNC Corporation
+388D3DWNC Corporation
+8C8B5BWNC Corporation
+6002B4WNC Corporation
+000B6BWNC Corporation
+E037BFWNC Corporation
+D86162WNC Corporation
+64FF0AWNC Corporation
+E8C7CFWNC Corporation
+F46C68WNC Corporation
+589671WNC Corporation
+D85B27WNC Corporation
+78670EWNC Corporation
+58E403WNC Corporation
+F86DCCWNC Corporation
+205843WNC Corporation
+30144AWNC Corporation
 0012F8WNI Resources, LLC
 B0E9FEWoan Technology (Shenzhen) Co., Ltd.
 B4ED54Wohler Technologies
@@ -36553,6 +37368,7 @@ E4CE02WyreStorm Technologies Ltd
 505800WyTec International, Inc.
 345D10Wytek
 D03F27Wyze Labs Inc
+F0C88BWyze Labs Inc
 80482CWyze Labs Inc
 7C78B2Wyze Labs Inc
 2CAA8EWyze Labs Inc
@@ -36656,6 +37472,7 @@ C09A71XIAMEN MEITU MOBILE TECHNOLOGY CO.LTD
 B4A305XIAMEN YAXON NETWORK CO., LTD.
 001565XIAMEN YEALINK NETWORK TECHNOLOGY CO.,LTD
 F4B549Xiamen Yeastar Digital Technology Co., Ltd
+80C2F0Xiamen Yeastar Digital Technology Co.,Ltd
 34D772Xiamen Yudian Automation Technology Co., Ltd
 FC584Axiamenshi c-chip technology co., ltd
 C4A9B8XIAMENSHI C-CHIP TECHNOLOGY CO.,LTD
@@ -36699,6 +37516,11 @@ E85FB4Xiaomi Communications Co Ltd
 3C3824Xiaomi Communications Co Ltd
 E87EEFXiaomi Communications Co Ltd
 882F92Xiaomi Communications Co Ltd
+400877Xiaomi Communications Co Ltd
+08B339Xiaomi Communications Co Ltd
+B85384Xiaomi Communications Co Ltd
+808F97Xiaomi Communications Co Ltd
+4CE20FXiaomi Communications Co Ltd
 A4CCB3Xiaomi Communications Co Ltd
 2CFE4FXiaomi Communications Co Ltd
 F8710CXiaomi Communications Co Ltd
@@ -36741,6 +37563,7 @@ A86A86Xiaomi Communications Co Ltd
 444A37Xiaomi Communications Co Ltd
 88B951Xiaomi Communications Co Ltd
 4C8E19Xiaomi Communications Co Ltd
+4C55B2Xiaomi Communications Co Ltd
 FCA9F5Xiaomi Communications Co Ltd
 902AEEXiaomi Communications Co Ltd
 E4BCAAXiaomi Communications Co Ltd
@@ -36785,6 +37608,8 @@ A82BD5Xiaomi Communications Co Ltd
 9812E0Xiaomi Communications Co Ltd
 70217FXiaomi Communications Co Ltd
 44CBADXiaomi Communications Co Ltd
+D8E374Xiaomi Communications Co Ltd
+44BDC8Xiaomi Communications Co Ltd
 14993EXiaomi Communications Co Ltd
 24D337Xiaomi Communications Co Ltd
 947BAEXiaomi Communications Co Ltd
@@ -36825,6 +37650,7 @@ D0AE05Xiaomi Communications Co Ltd
 A4C3BEXiaomi Communications Co Ltd
 FC4345Xiaomi Communications Co Ltd
 D893D4Xiaomi Communications Co Ltd
+80E63CXiaomi Communications Co Ltd
 3050CEXiaomi Communications Co Ltd
 B405A1Xiaomi Communications Co Ltd
 886C60Xiaomi Communications Co Ltd
@@ -36912,6 +37738,7 @@ D0B60AXingluo Technology Company  Limited
 506028Xirrus Inc.
 48C093Xirrus, Inc.
 0050B9XITRON TECHNOLOGIES, INC.
+0005BAXK22 Enterprises, LLC
 00A0E3XKL SYSTEMS CORP.
 782F17Xlab Co.,Ltd
 001EA0XLN-t
@@ -37004,6 +37831,7 @@ F065C2Yanfeng Visteon Electronics Technology (Shanghai) Co.,Ltd.
 A428B7Yangtze Memory Technologies Co., Ltd.
 205CFAYangzhou ChangLian Network Technology Co,ltd.
 00D032YANO ELECTRIC CO., LTD.
+B855EAYantai Jahport Electronic Technology Co., Ltd.
 000B31Yantai ZhiYang Scientific and technology industry CO., LTD
 6C9354Yaojin Technology (Shenzhen) Co., LTD.
 F88479Yaojin Technology(Shenzhen)Co.,Ltd
@@ -37023,6 +37851,8 @@ EC1DA9YEALINK(XIAMEN) NETWORK TECHNOLOGY CO.,LTD.
 805E0CYEALINK(XIAMEN) NETWORK TECHNOLOGY CO.,LTD.
 3497D7YEALINK(XIAMEN) NETWORK TECHNOLOGY CO.,LTD.
 C4FC22YEALINK(XIAMEN) NETWORK TECHNOLOGY CO.,LTD.
+F01653YEALINK(XIAMEN) NETWORK TECHNOLOGY CO.,LTD.
+B061A9YEALINK(XIAMEN) NETWORK TECHNOLOGY CO.,LTD.
 001AC2YEC Co.,Ltd.
 F82441Yeelink
 541D61YEESTOR Microelectronics Co., Ltd
@@ -37038,6 +37868,7 @@ B4C170Yi chip Microelectronics (Hangzhou) Co., Ltd
 5033F0YICHEN (SHENZHEN) TECHNOLOGY CO.LTD
 00B810Yichip Microelectronics (Hangzhou) Co.,Ltd
 1CC1BCYichip Microelectronics (Hangzhou) Co.,Ltd
+108321Yichip Microelectronics (Hangzhou) Co.,Ltd
 9C8275Yichip Microelectronics (Hangzhou) Co.,Ltd
 CC14A6Yichun MyEnergy Domain, Inc
 0018E4YIGUANG
@@ -37047,6 +37878,7 @@ A81F79Yingling Innovations Pte. Ltd.
 A08CF2YINUOLINK CO.,LTD
 000655Yipee, Inc.
 60489CYIPPEE ELECTRONICS CO.,LIMITED
+182439YIPPEE ELECTRONICS CP.,LIMITED
 000689yLez Technologies Pte Ltd
 002176YMax Telecom Ltd.
 001B05YMC AG
@@ -37284,6 +38116,7 @@ B44C3BZhejiang Dahua Technology Co., Ltd.
 F8CE07ZHEJIANG DAHUA TECHNOLOGYCO.,LTD
 4C99E8ZHEJIANG DAHUA TECHNOLOGYCO.,LTD
 30DDAAZHEJIANG DAHUA TECHNOLOGYCO.,LTD
+A8CA87ZHEJIANG DAHUA ZHILIAN CO.,LTD
 98288Bzhejiang Dusun Electron Co.,Ltd
 8CC7D0zhejiang ebang communication co.,ltd
 C04A09Zhejiang Everbright Communication Equip. Co,. Ltd
@@ -37361,6 +38194,7 @@ B4622EZhong Ge Smart Technology Co., Ltd.
 C46E33Zhong Ge Smart Technology Co., Ltd.
 002598Zhong Shan City Litai Electronic Industrial Co. Ltd
 F81B04Zhong Shan City Richsound Electronic Industrial Ltd
+5CF53AZhongge Smart Technology(Shanghai) Co., Ltd
 04E69EZHONGGUANCUN XINHAIZEYOU TECHNOLOGY CO.,LTD
 BC4E5DZhongMiao Technology Co., Ltd.
 94C960Zhongshan B&T technology.co.,ltd
@@ -37540,6 +38374,12 @@ FCABF5zte corporation
 88C78Fzte corporation
 F07A55zte corporation
 D46195zte corporation
+EC79C0zte corporation
+6C11BAzte corporation
+A0552Ezte corporation
+5CFFA9zte corporation
+24C013zte corporation
+E09D1Ezte corporation
 5C101Ezte corporation
 C89828zte corporation
 DC3642zte corporation
@@ -37636,6 +38476,10 @@ E0C29Ezte corporation
 542B76zte corporation
 BC4529zte corporation
 405493zte corporation
+64EB94zte corporation
+142004zte corporation
+B472D4zte corporation
+6C7742zte corporation
 58D312zte corporation
 D8097Fzte corporation
 FCFA21zte corporation
@@ -37828,6 +38672,9 @@ B47CA6zte corporation
 5872C9zte corporation
 5478F0zte corporation
 18B0A4zte corporation
+983FA4zte corporation
+682ADDzte corporation
+F00C51zte corporation
 648505zte corporation
 E4604Dzte corporation
 F4E84Fzte corporation
@@ -37920,12 +38767,15 @@ C4CCF9zte corporation
 785237zte corporation
 647520zte corporation
 B85213zte corporation
+D83139zte corporation
+841623zte corporation
 7866AEZTEC Instruments, Inc.
 ECEED8ZTLX Network Technology Co.,Ltd
 384B5BZTRON TECHNOLOGY LIMITED
 0023EFZuend Systemtechnik AG
 000BEAZultys Technologies
 00021AZuma Networks
+ACEA70ZUNDA Inc.
 58B0D4ZuniData Systems Inc.
 802FDEZurich Instruments AG
 001512Zurich University of Applied Sciences
@@ -37963,6 +38813,7 @@ C86C87Zyxel Communications Corporation
 48EDE6Zyxel Communications Corporation
 30BD13Zyxel Communications Corporation
 FC9F2AZyxel Communications Corporation
+C83374Zyxel Communications Corporation
 1071B3Zyxel Communications Corporation
 5C648EZyxel Communications Corporation
 4CC53EZyxel Communications Corporation
@@ -37979,6 +38830,7 @@ E8377AZyxel Communications Corporation
 64DD68Zyxel Communications Corporation
 BC7EC3Zyxel Communications Corporation
 C02E5FZyxel Communications Corporation
+4463C2Zyxel Communications Corporation
 143375Zyxel Communications Corporation
 D41AD1Zyxel Communications Corporation
 D8ECE5Zyxel Communications Corporation
@@ -37996,6 +38848,7 @@ A0E4CBZyxel Communications Corporation
 5067F0Zyxel Communications Corporation
 04BF6DZyxel Communications Corporation
 C49A31Zyxel Communications Corporation
+3CF75DZyxel Communications Corporation
 FC22F4Zyxel Communications Corporation
 F08756Zyxel Communications Corporation
 7C7716Zyxel Communications Corporation
