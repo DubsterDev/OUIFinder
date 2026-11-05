@@ -12,7 +12,20 @@ jobs:
   update-ouis:
     runs-on: ubuntu-latest
     steps:
+    - name: Generate a token
+      id: generate-token
+      uses: actions/create-github-app-token@v3
+      with:
+        client-id: ${{ vars.APP_CLIENT_ID }}
+        private-key: ${{ secrets.APP_PRIVATE_KEY }}
+        owner: DubsterDev
+        repositories: OUIFinder
+        permission-contents: write
+        
     - uses: actions/checkout@v7
+      with:
+        token: ${{ steps.generate-token.outputs.token }}
+        
     - uses: actions/setup-node@v7
       with:
         node-version: 24
@@ -21,8 +34,8 @@ jobs:
     - name: Commit changes
       run: |
         if ! git diff --quiet; then
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "oui-updater[bot]"
+          git config user.email "353088946+oui-updater[bot]@users.noreply.github.com"
           git add -u
           git commit -m "[bot] Update OUIs"
           git push
