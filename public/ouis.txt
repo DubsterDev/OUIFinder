@@ -3629,6 +3629,7 @@ D0052AArcadyan Corporation
 7C4FB5Arcadyan Corporation
 507E5DArcadyan Corporation
 0012BFArcadyan Corporation
+8CA02CArcadyan Corporation
 000F7BArce Sistemas, S.A.
 64E815Arcelik A.S
 0011E1Arcelik A.S
@@ -6332,7 +6333,6 @@ F8E5CFCGI IT UK LIMITED
 001D6FChainzone Technology Co., Ltd
 E03560Challenger Supply Holdings, LLC
 001525Chamberlain Access Solutions
-0CA2F4Chameleon Technology (UK) Limited
 E80734Champion Optical Network Engineering, LLC
 E44E76CHAMPIONTECH  ENTERPRISE (SHENZHEN) INC
 24C86EChaney Instrument Co.
@@ -11087,6 +11087,8 @@ D0167Ceero inc.
 0CC763eero inc.
 ACF896eero inc.
 2074DDeero inc.
+20AD72eero inc.
+34238Eeero inc.
 48DD0Ceero inc.
 3C5CF1eero inc.
 F8BC0Eeero inc.
@@ -12158,6 +12160,7 @@ DC55B1Espressif Inc.
 3CE255Espressif Inc.
 CCE732Espressif Inc.
 6CE210Espressif Systems (Singapore) Pte. Ltd
+9CE087Espressif Systems (Singapore) Pte. Ltd
 20D5C2Espressif Systems (Singapore) Pte. Ltd
 B8BB11Espressif Systems (Singapore) Pte. Ltd
 1C8B84Espressif Systems (Singapore) Pte. Ltd
@@ -12165,6 +12168,7 @@ B8BB11Espressif Systems (Singapore) Pte. Ltd
 ACA26AEspressif Systems (Singapore) Pte. Ltd
 20E5A4Espressif Systems (Singapore) Pte. Ltd
 B4FEB5Espressif Systems (Singapore) Pte. Ltd
+D82332Espressif Systems (Singapore) Pte. Ltd
 6C3DD8Espressif Systems (Singapore) Pte. Ltd
 6CC4AFEspressif Systems (Singapore) Pte. Ltd
 A06025Espressif Systems (Singapore) Pte. Ltd
@@ -14841,6 +14845,7 @@ C4CAD9Hangzhou H3C Technologies Co., Limited
 5866BAHangzhou H3C Technologies Co., Limited
 70BAEFHangzhou H3C Technologies Co., Limited
 586AB1Hangzhou H3C Technologies Co., Limited
+B07EF4Hangzhou HikAuto Technology Co., Ltd.
 34BD20Hangzhou Hikrobot Technology Co., Ltd.
 EC15FEHangzhou Hikstorage Technology Co.,Ltd.
 0C75D2Hangzhou Hikvision Digital Technology Co.,Ltd.
@@ -16348,6 +16353,8 @@ B8005BHuawei Device Co., Ltd.
 8CA229Huawei Device Co., Ltd.
 E0C0B4Huawei Device Co., Ltd.
 0C2FD1Huawei Device Co., Ltd.
+2CEB66Huawei Device Co., Ltd.
+544387Huawei Device Co., Ltd.
 E01F6AHuawei Device Co., Ltd.
 00566DHuawei Device Co., Ltd.
 90CC7AHuawei Device Co., Ltd.
@@ -16481,6 +16488,9 @@ DC8E6DHuawei Device Co., Ltd.
 80DACEHuawei Device Co., Ltd.
 C06194Huawei Device Co., Ltd.
 9CA118Huawei Device Co., Ltd.
+807039Huawei Device Co., Ltd.
+901C23Huawei Device Co., Ltd.
+3005C8Huawei Device Co., Ltd.
 74D6E5Huawei Device Co., Ltd.
 38396CHuawei Device Co., Ltd.
 5066E5Huawei Device Co., Ltd.
@@ -16753,6 +16763,7 @@ FCC766Huawei Device Co., Ltd.
 8467E8Huawei Device Co., Ltd.
 F0210EHuawei Device Co., Ltd.
 E04123Huawei Device Co., Ltd.
+341E64Huawei Device Co., Ltd.
 D8B249Huawei Device Co., Ltd.
 C49D08Huawei Device Co., Ltd.
 686372Huawei Device Co., Ltd.
@@ -16887,6 +16898,10 @@ D8C960Huawei Device Co., Ltd.
 247755Huawei Device Co., Ltd.
 4CCBEAHuawei Device Co., Ltd.
 808426Huawei Device Co., Ltd.
+4C64C9Huawei Device Co., Ltd.
+5025FEHuawei Device Co., Ltd.
+70BE8EHuawei Device Co., Ltd.
+08F679Huawei Device Co., Ltd.
 0022A1Huawei Symantec Technologies Co.,Ltd.
 64F81CHuawei Technologies Co., Ltd.
 E00630HUAWEI TECHNOLOGIES CO.,LTD
@@ -19107,6 +19122,7 @@ D0DA24IEEE Registration Authority
 04ECA9IEEE Registration Authority
 5CAB22IEEE Registration Authority
 B8F453IEEE Registration Authority
+047B43IEEE Registration Authority
 C85CE2IEEE Registration Authority
 5491AFIEEE Registration Authority
 90F421IEEE Registration Authority
@@ -20666,6 +20682,7 @@ B4D8DEiota Computing, Inc.
 20D906Iota, Inc.
 14168CIoTronix Technologies Sdn. Bhd.
 C40EB7IoTronix Technologies Sdn. Bhd.
+68D770IoTronix Technologies Sdn. Bhd.
 94376CIoTronix Technologies Sdn. Bhd.
 247260IOTTECH Corp
 00D082IOWAVE INC.
@@ -20677,6 +20694,7 @@ C40EB7IoTronix Technologies Sdn. Bhd.
 000713IP One, Inc.
 0006FAIP SQUARE Co, Ltd.
 003062IP Video Networks Inc
+C86594IP Yusupov Nargiz Nakibovich
 44666EIP-LINE
 20AA25IP-NET LLC
 5884E4IP500 Alliance e.V.
@@ -22069,8 +22087,6 @@ A4F7D0LAN Accessories Co., Ltd.
 B0966CLanbowan Technology Ltd.
 001619Lancelan Technologies S.L.
 00406DLANCO, INC.
-00A057LANCOM Systems GmbH
-2CD7FFLANCOM Systems GmbH
 0060B6LAND COMPUTER CO., LTD.
 0011DBLand-Cellular Corporation
 6CB4A7Landauer, Inc.
@@ -22335,6 +22351,7 @@ B03795LG Electronics
 201742LG Electronics
 785DC8LG Electronics
 388C50LG Electronics
+102513LG Electronics
 64E4A5LG Electronics
 8C5646LG Electronics
 F83869LG Electronics
@@ -23375,6 +23392,7 @@ DCFBB8Meizhou Guo Wei Electronics Co., Ltd
 3CC1F6Melange Systems Pvt. Ltd.
 00060CMelco Industries, Inc.
 D48DD9Meld Technology, Inc
+00CE39MeLE Technologies(Shenzhen)Co.,Ltd.
 E861BEMelec Inc.
 00E030MELITA INTERNATIONAL CORP.
 7CFE90Mellanox Technologies, Inc.
@@ -24325,6 +24343,7 @@ C4493EMotorola Mobility LLC, a Lenovo Company
 A422B6Motorola Mobility LLC, a Lenovo Company
 185F27Motorola Mobility LLC, a Lenovo Company
 8457EBMotorola Mobility LLC, a Lenovo Company
+608D28Motorola Mobility LLC, a Lenovo Company
 B04AB4Motorola Mobility LLC, a Lenovo Company
 40FAFEMotorola Mobility LLC, a Lenovo Company
 E426D5Motorola Mobility LLC, a Lenovo Company
@@ -24402,6 +24421,7 @@ C484C0Motorola Mobility LLC, a Lenovo Company
 982BA6Motorola Mobility LLC, a Lenovo Company
 689268Motorola Mobility LLC, a Lenovo Company
 F02E7AMotorola Mobility LLC, a Lenovo Company
+E42224Motorola Mobility LLC, a Lenovo Company
 00047DMotorola Solutions Inc.
 001F92Motorola Solutions Inc.
 4CCC34Motorola Solutions Inc.
@@ -26392,6 +26412,8 @@ AC3AE2NVIDIA Corporation
 4449C0NVIDIA Corporation
 F0FABANVIDIA Corporation
 147830NVIDIA Corporation
+94B2ECNVIDIA Corporation
+88B8F7NVIDIA Corporation
 742554NVIDIA Corporation
 3C6D66NVIDIA Corporation
 483106NVIDIA Corporation
@@ -29135,6 +29157,8 @@ B07A16ROEHN
 AC8ACDROGER D.Wensker, G.Wensker sp.j.
 002211Rohati Systems
 0090B8ROHDE & SCHWARZ GMBH & CO. KG
+00A057Rohde & Schwarz Networks and Cybersecurity GmbH
+2CD7FFRohde & Schwarz Networks and Cybersecurity GmbH
 001D12ROHM CO., LTD.
 00018AROI COMPUTER AG
 0005CBROIS Technologies, Inc.
@@ -32304,6 +32328,7 @@ FCD5D9Shenzhen SDMC Technology CO.,Ltd.
 2CECF7Shenzhen SDMC Technology CO.,Ltd.
 E4FAE4Shenzhen SDMC Technology CP,.LTD
 78AFB8Shenzhen SDMC Technology CP,.LTD
+84C300Shenzhen SDMC Technology CP,.LTD
 045FA6Shenzhen SDMC Technology CP,.LTD
 081651SHENZHEN SEA STAR TECHNOLOGY CO.,LTD
 68EDA4Shenzhen Seavo Technology Co.,Ltd
@@ -37639,6 +37664,7 @@ A06A00Verilink Corporation
 000459Veristar Corporation
 080082VERITAS SOFTWARE
 001863Veritech Electronics Limited
+182F58Veritech LLC
 0004A0Verity Instruments, Inc.
 0013E9VeriWave, Inc.
 1878D4Verizon
@@ -37668,6 +37694,7 @@ E4BC96Versuni
 D069D0Verto Medical Solutions, LLC
 C8E1A7Vertu Corporation Limited
 3466EAVERTU INTERNATIONAL CORPORATION LIMITED
+0CA2F4Verve Energy Technology
 0005C8VERYTECH
 002346Vestac
 909877Vestel Elektronik San ve Tic. A.S.
@@ -39033,6 +39060,8 @@ C46940Xiaomi Communications Co Ltd
 D8EDA8Xiaomi Communications Co Ltd
 1C2575Xiaomi Communications Co Ltd
 3007EBXiaomi Communications Co Ltd
+D4D96AXiaomi Communications Co Ltd
+50EEF8Xiaomi Communications Co Ltd
 A4CCB3Xiaomi Communications Co Ltd
 2CFE4FXiaomi Communications Co Ltd
 F8710CXiaomi Communications Co Ltd
@@ -39129,6 +39158,7 @@ D8E374Xiaomi Communications Co Ltd
 B47E9FXiaomi Communications Co Ltd
 E4D398Xiaomi Communications Co Ltd
 B00BE2Xiaomi Communications Co Ltd
+8854E0Xiaomi Communications Co Ltd
 14993EXiaomi Communications Co Ltd
 24D337Xiaomi Communications Co Ltd
 947BAEXiaomi Communications Co Ltd
