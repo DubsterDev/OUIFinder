@@ -1322,6 +1322,7 @@ E0D3F0AltoBeam Inc.
 38BEABAltoBeam Inc.
 801A23AltoBeam Inc.
 087683AltoBeam Inc.
+F0276EAltoBeam Inc.
 DC2919AltoBeam(Xiamen)Technology Co., Ltd.
 E496AEALTOGRAPHICS Inc.
 003081ALTOS C&C
@@ -13248,6 +13249,7 @@ B04C05Fresenius Medical Care Deutschland GmbH
 24B6B8FRIEM SPA
 0CC574FRITZ! Technology GmbH
 487F80FRITZ! Technology GmbH
+1C07DDFRITZ! Technology GmbH
 007AA4FRITZ! Technology GmbH
 249900FRITZ! Technology GmbH
 1C23A2FRITZ! Technology GmbH
