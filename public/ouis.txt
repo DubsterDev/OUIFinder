@@ -10,6 +10,7 @@ A85EE412Sided Technology, LLC
 0050291394 PRINTER WORKING GROUP
 00A02D1394 Trade Association
 00197416063
+2099EC1AN Inc.
 38A3E01Finity Inc
 1895521MORE
 6CCE441MORE
@@ -4081,6 +4082,7 @@ D45D64ASUSTek COMPUTER INC.
 086266ASUSTek COMPUTER INC.
 40167EASUSTek COMPUTER INC.
 30C599ASUSTek COMPUTER INC.
+4440ABASUSTek COMPUTER INC.
 08BFB8ASUSTek COMPUTER INC.
 04D9F5ASUSTek COMPUTER INC.
 40B076ASUSTek COMPUTER INC.
@@ -5735,6 +5737,7 @@ B49882Brusa HyPower AG
 709BFCBryton Inc.
 D06A1FBSE CO.,LTD.
 48264CBSH Electrical Appliances (Jiangsu) Co., Ltd.
+A4053EBSH Electrodomésticos España, S.A.
 68A40EBSH Hausgeräte GmbH
 942770BSH Hausgeräte GmbH
 38B4D3BSH Hausgeräte GmbH
@@ -5770,6 +5773,7 @@ EC5A31BUFFALO.INC
 B0C745BUFFALO.INC
 D056F2BUFFALO.INC
 7498F4BUFFALO.INC
+AC66B3BUFFALO.INC
 9096F3BUFFALO.INC
 18ECE7BUFFALO.INC
 6084BDBUFFALO.INC
@@ -10031,6 +10035,7 @@ F40270Dell Inc.
 C4D6D3Dell Inc.
 8CE9FFDell Inc.
 2453EDDell Inc.
+3479DFDell Inc.
 4CD717Dell Inc.
 44A842Dell Inc.
 4C7625Dell Inc.
@@ -11048,6 +11053,7 @@ A40F25eero inc.
 5C51DFeero inc.
 0C393Deero inc.
 441404eero inc.
+D8E6ABeero inc.
 74B6B6eero inc.
 30578Eeero inc.
 F021E0eero inc.
@@ -11090,6 +11096,7 @@ ACF896eero inc.
 2074DDeero inc.
 20AD72eero inc.
 34238Eeero inc.
+B8CD2Beero inc.
 48DD0Ceero inc.
 3C5CF1eero inc.
 F8BC0Eeero inc.
@@ -13064,6 +13071,7 @@ A4E88DFN-LINK TECHNOLOGY Ltd.
 648214FN-LINK TECHNOLOGY Ltd.
 28F52BFN-LINK TECHNOLOGY Ltd.
 0CA280FN-LINK TECHNOLOGY Ltd.
+10D605FN-LINK TECHNOLOGY Ltd.
 448763FN-LINK TECHNOLOGY Ltd.
 C00925FN-LINK TECHNOLOGY Ltd.
 B08CB3FN-LINK TECHNOLOGY Ltd.
@@ -14689,6 +14697,7 @@ D42493GW Technologies Co.,Ltd
 B48618GX India Pvt Ltd
 44995BGX India Pvt Ltd
 200C86GX India Pvt Ltd
+B4416BGX India Pvt Ltd
 B43D08GX International BV
 043604Gyeyoung I&T
 8CEE17GYGES LABS PTE.LTD
@@ -15418,6 +15427,7 @@ E81CA5Hewlett Packard Enterprise
 9CDAB7Hewlett Packard Enterprise
 EC7CBAHewlett Packard Enterprise
 586D0CHewlett Packard Enterprise
+B83184Hewlett Packard Enterprise
 B47AF1Hewlett Packard Enterprise
 489ECBHewlett Packard Enterprise
 9C1C12Hewlett Packard Enterprise
@@ -15538,6 +15548,7 @@ AC02CAHI Solutions, Inc.
 ACCF23Hi-flying electronics technology Co.,Ltd
 E04B45Hi-P Electronics Pte Ltd
 0014DFHI-P Tech Corporation
+046EE5HI-POWER Solution CO.,LTD.
 000964Hi-Techniques, Inc.
 D8C691Hichan Technology Corp.
 000AF9HiConnect, Inc.
@@ -15617,6 +15628,7 @@ A88200Hisense Electric Co.,Ltd
 18300CHisense Electric Co.,Ltd
 38F554HISENSE ELECTRIC CO.,LTD
 1C6932Hisense Home Appliances Group Co., Ltd. Qingdao Branch
+4CA637Hisense Home Appliances Group Co.,Ltd.Qingdao Branch
 001A95Hisense Mobile Communications Technoligy Co.,Ltd.
 E43BC9HISENSE VISUAL TECHNOLOGY CO.,LTD
 DC9A7DHISENSE VISUAL TECHNOLOGY CO.,LTD
@@ -15625,6 +15637,7 @@ C40826HISENSE VISUAL TECHNOLOGY CO.,LTD
 CC1228HISENSE VISUAL TECHNOLOGY CO.,LTD
 E48A93HISENSE VISUAL TECHNOLOGY CO.,LTD
 C48ACEHISENSE VISUAL TECHNOLOGY CO.,LTD
+188947HISENSE VISUAL TECHNOLOGY CO.,LTD
 903C1DHISENSE VISUAL TECHNOLOGY CO.,LTD
 88B863HISENSE VISUAL TECHNOLOGY CO.,LTD
 74D082HISENSE VISUAL TECHNOLOGY CO.,LTD
@@ -15946,6 +15959,7 @@ F4939FHon Hai Precision Industry Co., Ltd.
 D0F405Hon Hai Precision Industry Co., Ltd.
 20538DHon Hai Precision Industry Co., Ltd.
 F46B8CHon Hai Precision Industry Co., Ltd.
+90C046Hon Hai Precision Industry Co., Ltd.
 1CA0B8Hon Hai Precision Industry Co., Ltd.
 28C13CHon Hai Precision Industry Co., Ltd.
 702084Hon Hai Precision Industry Co., Ltd.
@@ -17192,6 +17206,9 @@ CC38E1HUAWEI TECHNOLOGIES CO.,LTD
 C4550DHUAWEI TECHNOLOGIES CO.,LTD
 BC36F7HUAWEI TECHNOLOGIES CO.,LTD
 E0150BHUAWEI TECHNOLOGIES CO.,LTD
+4C48D4HUAWEI TECHNOLOGIES CO.,LTD
+8025D2HUAWEI TECHNOLOGIES CO.,LTD
+98C063HUAWEI TECHNOLOGIES CO.,LTD
 2831F8HUAWEI TECHNOLOGIES CO.,LTD
 C4AA99HUAWEI TECHNOLOGIES CO.,LTD
 BC1896HUAWEI TECHNOLOGIES CO.,LTD
@@ -17491,6 +17508,8 @@ C0A36DHUAWEI TECHNOLOGIES CO.,LTD
 24EA9BHUAWEI TECHNOLOGIES CO.,LTD
 F05D88HUAWEI TECHNOLOGIES CO.,LTD
 4C631BHUAWEI TECHNOLOGIES CO.,LTD
+789F5BHUAWEI TECHNOLOGIES CO.,LTD
+D81EA8HUAWEI TECHNOLOGIES CO.,LTD
 087073HUAWEI TECHNOLOGIES CO.,LTD
 989F1EHUAWEI TECHNOLOGIES CO.,LTD
 944788HUAWEI TECHNOLOGIES CO.,LTD
@@ -18022,6 +18041,8 @@ B4D1F6HUAWEI TECHNOLOGIES CO.,LTD
 64876CHUAWEI TECHNOLOGIES CO.,LTD
 60BBEBHUAWEI TECHNOLOGIES CO.,LTD
 20FF0CHUAWEI TECHNOLOGIES CO.,LTD
+8C054DHUAWEI TECHNOLOGIES CO.,LTD
+80FF60HUAWEI TECHNOLOGIES CO.,LTD
 00F952HUAWEI TECHNOLOGIES CO.,LTD
 2C15D9HUAWEI TECHNOLOGIES CO.,LTD
 D4A923HUAWEI TECHNOLOGIES CO.,LTD
@@ -18322,6 +18343,9 @@ D89333HUAWEI TECHNOLOGIES CO.,LTD
 780E3EHUAWEI TECHNOLOGIES CO.,LTD
 F8293AHUAWEI TECHNOLOGIES CO.,LTD
 E407B4HUAWEI TECHNOLOGIES CO.,LTD
+E4C1D8HUAWEI TECHNOLOGIES CO.,LTD
+04958EHUAWEI TECHNOLOGIES CO.,LTD
+D43F38HUAWEI TECHNOLOGIES CO.,LTD
 3C1A79Huayuan Technology CO.,LTD
 0022D3Hub-Tech
 6CAD3FHubbell Building Automation, Inc.
@@ -19037,6 +19061,7 @@ E0233BIEEE Registration Authority
 24A10DIEEE Registration Authority
 083C03IEEE Registration Authority
 74A235IEEE Registration Authority
+5C6CBBIEEE Registration Authority
 C022F1IEEE Registration Authority
 88A6EFIEEE Registration Authority
 C86BBCIEEE Registration Authority
@@ -23708,6 +23733,7 @@ D88039Microchip Technology Inc.
 D8478FMicrochip Technology Inc.
 803428Microchip Technology Inc.
 0C025BMicrochip Technology Inc.
+14A07DMicrochip Technology Inc.
 44B7D0Microchip Technology Inc.
 5410ECMicrochip Technology Inc.
 0004A3Microchip Technology Inc.
@@ -25197,6 +25223,7 @@ D8E72BNETSCOUT SYSTEMS INC
 008060NETWORK INTERFACE CORPORATION
 006010NETWORK MACHINES, INC.
 7C79D4Network Optix, Inc.
+14F474Network Orbiter Private Limited
 0080D8NETWORK PERIPHERALS INC.
 00C054NETWORK PERIPHERALS, LTD.
 00050CNetwork Photonics, Inc.
@@ -25319,6 +25346,7 @@ BC5A34New H3C Technologies Co., Ltd
 7C6AD7New H3C Technologies Co., Ltd
 04896DNew H3C Technologies Co., Ltd
 7C1795New H3C Technologies Co., Ltd
+84413CNew H3C Technologies Co., Ltd
 6C8720New H3C Technologies Co., Ltd
 28E424New H3C Technologies Co., Ltd
 54C6FFNew H3C Technologies Co., Ltd
@@ -25371,6 +25399,7 @@ ECCD4CNew H3C Technologies Co., Ltd
 90742ENew H3C Technologies Co., Ltd
 30F527New H3C Technologies Co., Ltd
 8C96A5New H3C Technologies Co., Ltd
+9884C1New H3C Technologies Co., Ltd
 B4D7DBNew H3C Technologies Co., Ltd
 7449D2New H3C Technologies Co., Ltd
 58B38FNew H3C Technologies Co., Ltd
@@ -25392,6 +25421,8 @@ F8388DNew H3C Technologies Co., Ltd
 D425DENew H3C Technologies Co., Ltd
 2CE187New H3C Technologies Co., Ltd
 3890FENew H3C Technologies Co., Ltd
+182162New H3C Technologies Co., Ltd
+4CE20CNew H3C Technologies Co., Ltd
 001C83New Level Telecom Co., Ltd.
 1C35F1NEW Lift Neue Elektronische Wege Steuerungsbau GmbH
 6405BENEW LIGHT LED
@@ -26154,6 +26185,7 @@ BC515FNokia Solutions and Networks India Private Limited
 E4D436Nokia Solutions and Networks India Private Limited
 945DBFNokia Solutions and Networks India Private Limited
 A09CC2Nokia Solutions and Networks India Private Limited
+AC6460Nokia Solutions and Networks India Private Limited
 78BB5CNokia Solutions and Networks India Private Limited
 00E003NOKIA WIRELESS BUSINESS COMMUN
 00149BNokota Communications, LLC
@@ -26561,6 +26593,7 @@ D01B1FOHSUNG
 F4832COHSUNG
 E8DF24OHSUNG
 343E25OHSUNG
+846E2FOHSUNG
 1C3929OHSUNG
 309E1DOHSUNG
 98F5A9OHSUNG
@@ -27708,6 +27741,7 @@ FC335FPolyera
 0015B4Polymap  Wireless LLC
 000F48Polypix Inc.
 7820BDPolysense (Beijing) Technologies Co. Ltd
+E4200BPolystack Technologies Private Limited
 64AE88Polytec GmbH
 702393Polytech A/S
 00045EPolyTrax Information Technology AG
@@ -28692,6 +28726,7 @@ E0686DRaybased AB
 00196DRaybit Systems Korea, Inc
 0019ABRaycom CO ., LTD
 0080F2RAYCOM SYSTEMS INC
+589D44Raycon
 08482CRaycore Taiwan Co., LTD.
 30D941Raydium Semiconductor Corp.
 00408BRAYLAN CORPORATION
@@ -29706,6 +29741,7 @@ F40595Sagemcom Broadband SAS
 00604CSagemcom Broadband SAS
 8C10D4Sagemcom Broadband SAS
 2C2B86Sagemcom Broadband SAS
+BC47D6Sagemcom Broadband SAS
 08D59DSagemcom Broadband SAS
 589043Sagemcom Broadband SAS
 907282Sagemcom Broadband SAS
@@ -29748,6 +29784,7 @@ E04F95Sagemcom Broadband SAS
 580E85Sagemcom Broadband SAS
 ECB157Sagemcom Broadband SAS
 244750Sagemcom Broadband SAS
+B00DA8Sagemcom Broadband SAS
 0023A5SageTV, LLC
 000B7ESAGINOMIYA Seisakusho Inc.
 14FEAFSAGITTAR LIMITED
@@ -33461,6 +33498,7 @@ A00CA1SKTB SKiT
 98672ESkullcandy
 D08A55Skullcandy
 880894Skullcandy
+748B7FSkullcandy
 38F32ESkullcandy
 60C5E6Skullcandy
 8C0DD9Skullcandy
@@ -33939,6 +33977,7 @@ BC3329Sony Interactive Entertainment Inc.
 001D0DSony Interactive Entertainment Inc.
 C863F1Sony Interactive Entertainment Inc.
 280DFCSony Interactive Entertainment Inc.
+78E04DSony Interactive Entertainment Inc.
 EC748CSony Interactive Entertainment Inc.
 04F778Sony Interactive Entertainment Inc.
 C84AA0Sony Interactive Entertainment Inc.
@@ -34008,6 +34047,7 @@ D046DCSouthwest Research Institute
 000E16SouthWing S.L.
 88C3B3SOVICO
 C87324Sow Cheng Technology Co. Ltd.
+281F81SOXAI Inc.
 001357Soyal Technology Co., Ltd.
 CCE8ACSOYEA Technology Co.,Ltd.
 00502CSOYO COMPUTER, INC.
@@ -36890,6 +36930,7 @@ A09208Tuya Smart Inc.
 1869D8Tuya Smart Inc.
 D8D668Tuya Smart Inc.
 80647CTuya Smart Inc.
+A8AB18Tuya Smart Inc.
 A88055Tuya Smart Inc.
 508BB9Tuya Smart Inc.
 D81F12Tuya Smart Inc.
@@ -36899,6 +36940,7 @@ D81F12Tuya Smart Inc.
 D032E7Tuya Smart Inc.
 ACF878Tuya Smart Inc.
 A8DDBCTuya Smart Inc.
+2C1DBBTuya Smart Inc.
 00169ETV One Ltd
 00228ETV-NUMERIC
 006081TV/COM INTERNATIONAL
